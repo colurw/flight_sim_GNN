@@ -1,0 +1,1000 @@
+epoch: E01   gen: 0   avg_fitness: 1	   max_fitness: 7	   winner: RANDOM      
+epoch: E01   gen: 1   avg_fitness: 2	   max_fitness: 5	   winner: PARENT      
+epoch: E01   gen: 2   avg_fitness: 4	   max_fitness: 18	   winner: MUTANT  0.18   
+epoch: E01   gen: 3   avg_fitness: 119	   max_fitness: 2207	   winner: MUTANT  0.06   
+epoch: E01   gen: 4   avg_fitness: 96409	   max_fitness: 1750017	   winner: PARENT      
+epoch: E01   gen: 5   avg_fitness: 46330	   max_fitness: 791857	   winner: PARENT      
+epoch: E01   gen: 6   avg_fitness: 6786	   max_fitness: 75710	   winner: PARENT      
+epoch: E01   gen: 7   avg_fitness: 5618	   max_fitness: 78524	   winner: PARENT      
+epoch: E01   gen: 8   avg_fitness: 100948	   max_fitness: 1816197	   winner: MUTANT  0.07   
+epoch: E01   gen: 9   avg_fitness: 19399	   max_fitness: 332050	   winner: PARENT      
+epoch: E01   gen: 10   avg_fitness: 11666	   max_fitness: 173177	   winner: MUTANT  0.07   
+epoch: E01   gen: 11   avg_fitness: 6881	   max_fitness: 118566	   winner: MUTANT  0.1   
+epoch: E01   gen: 12   avg_fitness: 13593	   max_fitness: 163143	   winner: MUTANT  0.05   
+epoch: E01   gen: 13   avg_fitness: 56896	   max_fitness: 723159	   winner: MUTANT  0.13   
+epoch: E01   gen: 14   avg_fitness: 71757	   max_fitness: 630518	   winner: PARENT      
+epoch: E01   gen: 15   avg_fitness: 58542	   max_fitness: 536267	   winner: PARENT      
+epoch: E01   gen: 16   avg_fitness: 56150	   max_fitness: 239773	   winner: PARENT      
+epoch: E01   gen: 17   avg_fitness: 43787	   max_fitness: 435365	   winner: PARENT      
+epoch: E01   gen: 18   avg_fitness: 223350	   max_fitness: 2544718	   winner: MUTANT  0.07   
+epoch: E01   gen: 19   avg_fitness: 183278	   max_fitness: 2913706	   winner: CROSS      
+epoch: E01   gen: 20   avg_fitness: 14694	   max_fitness: 260379	   winner: MUTANT  0.08   
+epoch: E01   gen: 21   avg_fitness: 32291	   max_fitness: 412221	   winner: PARENT      
+epoch: E01   gen: 22   avg_fitness: 45247	   max_fitness: 534607	   winner: MUTANT  0.09   
+epoch: E01   gen: 23   avg_fitness: 73790	   max_fitness: 819814	   winner: PARENT      
+epoch: E01   gen: 24   avg_fitness: 348275	   max_fitness: 6140394	   winner: PARENT      
+epoch: E01   gen: 25   avg_fitness: 4460	   max_fitness: 34315	   winner: MUTANT  0.11   
+epoch: E01   gen: 26   avg_fitness: 24127	   max_fitness: 236293	   winner: MUTANT  0.09   
+epoch: E01   gen: 27   avg_fitness: 5442	   max_fitness: 50010	   winner: CROSS      
+epoch: E01   gen: 28   avg_fitness: 77796	   max_fitness: 674662	   winner: NEWSPEC  0.97  1.0
+epoch: E01   gen: 29   avg_fitness: 133403	   max_fitness: 1706945	   winner: PARENT      
+epoch: E01   gen: 30   avg_fitness: 68610	   max_fitness: 726475	   winner: CROSS      
+epoch: E01   gen: 31   avg_fitness: 413618	   max_fitness: 5009353	   winner: CROSS      
+epoch: E01   gen: 32   avg_fitness: 588463	   max_fitness: 6612729	   winner: CROSS      
+epoch: E01   gen: 33   avg_fitness: 262797	   max_fitness: 1924340	   winner: CROSS      
+epoch: E01   gen: 34   avg_fitness: 334673	   max_fitness: 3299470	   winner: PARENT      
+epoch: E01   gen: 35   avg_fitness: 918844	   max_fitness: 10737086	   winner: PARENT      
+epoch: E01   gen: 36   avg_fitness: 25780	   max_fitness: 280437	   winner: CROSS      
+epoch: E01   gen: 37   avg_fitness: 131370	   max_fitness: 879340	   winner: PARENT      
+epoch: E01   gen: 38   avg_fitness: 523374	   max_fitness: 2381344	   winner: NEWSPEC  0.49  0.95
+epoch: E01   gen: 39   avg_fitness: 502382	   max_fitness: 1986831	   winner: PARENT      
+epoch: E01   gen: 40   avg_fitness: 781393	   max_fitness: 4584855	   winner: MUTANT  0.09   
+epoch: E01   gen: 41   avg_fitness: 495973	   max_fitness: 5011721	   winner: PARENT      
+epoch: E01   gen: 42   avg_fitness: 625202	   max_fitness: 6343066	   winner: MUTANT  0.06   
+epoch: E01   gen: 43   avg_fitness: 466764	   max_fitness: 4273479	   winner: PARENT      
+epoch: E01   gen: 44   avg_fitness: 1687629	   max_fitness: 11408548	   winner: MUTANT  0.19   
+epoch: E01   gen: 45   avg_fitness: 12706	   max_fitness: 122813	   winner: MUTANT  0.07   
+epoch: E01   gen: 46   avg_fitness: 21273	   max_fitness: 146288	   winner: PARENT      
+epoch: E01   gen: 47   avg_fitness: 24129	   max_fitness: 138087	   winner: PARENT      
+epoch: E01   gen: 48   avg_fitness: 25308	   max_fitness: 230823	   winner: PARENT      
+epoch: E01   gen: 49   avg_fitness: 72967	   max_fitness: 951198	   winner: MUTANT  0.08   
+epoch: E01   gen: 50   avg_fitness: 27701	   max_fitness: 312506	   winner: PARENT      
+epoch: E01   gen: 51   avg_fitness: 31621	   max_fitness: 306123	   winner: PARENT      
+epoch: E01   gen: 52   avg_fitness: 337248	   max_fitness: 3502490	   winner: MUTANT  0.2   
+epoch: E01   gen: 53   avg_fitness: 387206	   max_fitness: 6895591	   winner: PARENT      
+epoch: E01   gen: 54   avg_fitness: 22503	   max_fitness: 119414	   winner: PARENT      
+epoch: E01   gen: 55   avg_fitness: 81401	   max_fitness: 493327	   winner: MUTANT  0.06   
+epoch: E01   gen: 56   avg_fitness: 125685	   max_fitness: 1092693	   winner: PARENT      
+epoch: E01   gen: 57   avg_fitness: 101833	   max_fitness: 769248	   winner: PARENT      
+epoch: E01   gen: 58   avg_fitness: 181017	   max_fitness: 1763308	   winner: PARENT      
+epoch: E01   gen: 59   avg_fitness: 139051	   max_fitness: 1211178	   winner: PARENT      
+epoch: E01   gen: 60   avg_fitness: 197723	   max_fitness: 1879731	   winner: MUTANT  0.06   
+epoch: E01   gen: 61   avg_fitness: 338394	   max_fitness: 4411996	   winner: MUTANT  0.09   
+epoch: E01   gen: 62   avg_fitness: 217875	   max_fitness: 1724484	   winner: PARENT      
+epoch: E01   gen: 63   avg_fitness: 780785	   max_fitness: 13380023	   winner: MUTANT  0.09   
+epoch: E01   gen: 64   avg_fitness: 179224	   max_fitness: 1975454	   winner: NEWSPEC  0.39  0.99
+epoch: E01   gen: 65   avg_fitness: 614912	   max_fitness: 6933152	   winner: PARENT      
+epoch: E01   gen: 66   avg_fitness: 817459	   max_fitness: 6502358	   winner: NEWSPEC  0.63  1.0
+epoch: E01   gen: 67   avg_fitness: 776046	   max_fitness: 5200343	   winner: PARENT      
+epoch: E01   gen: 68   avg_fitness: 2986720	   max_fitness: 27246852	   winner: CROSS      
+epoch: E01   gen: 69   avg_fitness: 28178066	   max_fitness: 308366675	   winner: PARENT      
+epoch: E01   gen: 70   avg_fitness: 34222455	   max_fitness: 261146932	   winner: PARENT      
+epoch: E01   gen: 71   avg_fitness: 51296194	   max_fitness: 240991938	   winner: PARENT      
+epoch: E01   gen: 72   avg_fitness: 24651078	   max_fitness: 155128470	   winner: CROSS      
+epoch: E01   gen: 73   avg_fitness: 20359611	   max_fitness: 128895186	   winner: CROSS      
+epoch: E01   gen: 74   avg_fitness: 25490470	   max_fitness: 138405974	   winner: PARENT      
+epoch: E01   gen: 75   avg_fitness: 23264691	   max_fitness: 181123975	   winner: PARENT      
+epoch: E01   gen: 76   avg_fitness: 40053975	   max_fitness: 255867672	   winner: MUTANT  0.1   
+epoch: E01   gen: 77   avg_fitness: 33135139	   max_fitness: 234837270	   winner: PARENT      
+epoch: E01   gen: 78   avg_fitness: 50533852	   max_fitness: 192968664	   winner: MUTANT  0.06   
+epoch: E01   gen: 79   avg_fitness: 30330444	   max_fitness: 176622917	   winner: PARENT      
+epoch: E01   gen: 80   avg_fitness: 27603353	   max_fitness: 136105687	   winner: MUTANT  0.08   
+epoch: E01   gen: 81   avg_fitness: 32504541	   max_fitness: 278386534	   winner: CROSS      
+epoch: E01   gen: 82   avg_fitness: 31292479	   max_fitness: 147576196	   winner: PARENT      
+epoch: E01   gen: 83   avg_fitness: 18924369	   max_fitness: 135439761	   winner: PARENT      
+epoch: E01   gen: 84   avg_fitness: 13633012	   max_fitness: 104310743	   winner: MUTANT  0.11   
+epoch: E01   gen: 85   avg_fitness: 27248834	   max_fitness: 165434835	   winner: MUTANT  0.05   
+epoch: E01   gen: 86   avg_fitness: 22911845	   max_fitness: 190762531	   winner: MUTANT  0.11   
+epoch: E01   gen: 87   avg_fitness: 9807297	   max_fitness: 66077451	   winner: CROSS      
+epoch: E01   gen: 88   avg_fitness: 18038345	   max_fitness: 230104948	   winner: PARENT      
+epoch: E01   gen: 89   avg_fitness: 29726316	   max_fitness: 253977570	   winner: CROSS      
+epoch: E01   gen: 90   avg_fitness: 46469238	   max_fitness: 194687757	   winner: CROSS      
+epoch: E01   gen: 91   avg_fitness: 32488369	   max_fitness: 240008907	   winner: MUTANT  0.14   
+epoch: E01   gen: 92   avg_fitness: 57477522	   max_fitness: 279340689	   winner: PARENT      
+epoch: E01   gen: 93   avg_fitness: 37449750	   max_fitness: 387979027	   winner: PARENT      
+epoch: E01   gen: 94   avg_fitness: 107474	   max_fitness: 1499797	   winner: MUTANT  0.14   
+epoch: E01   gen: 95   avg_fitness: 80024	   max_fitness: 489362	   winner: PARENT      
+epoch: E01   gen: 96   avg_fitness: 166538	   max_fitness: 1887321	   winner: MUTANT  0.14   
+epoch: E01   gen: 97   avg_fitness: 473401	   max_fitness: 5084308	   winner: PARENT      
+epoch: E01   gen: 98   avg_fitness: 944259	   max_fitness: 15133495	   winner: MUTANT  0.16   
+epoch: E01   gen: 99   avg_fitness: 2763286	   max_fitness: 50433297	   winner: PARENT      
+epoch: E01   gen: 100   avg_fitness: 3098635	   max_fitness: 52747872	   winner: PARENT      
+epoch: E01   gen: 101   avg_fitness: 7498815	   max_fitness: 76883875	   winner: PARENT      
+epoch: E01   gen: 102   avg_fitness: 185019	   max_fitness: 3158893	   winner: PARENT      
+epoch: E01   gen: 103   avg_fitness: 796	   max_fitness: 6562	   winner: NEWSPEC  0.4  0.74
+epoch: E01   gen: 104   avg_fitness: 1120099	   max_fitness: 10393569	   winner: MUTANT  0.12   
+epoch: E01   gen: 105   avg_fitness: 303424	   max_fitness: 3943545	   winner: PARENT      
+epoch: E01   gen: 106   avg_fitness: 1693492	   max_fitness: 13750413	   winner: CROSS      
+epoch: E01   gen: 107   avg_fitness: 3435310	   max_fitness: 37749667	   winner: MUTANT  0.06   
+epoch: E01   gen: 108   avg_fitness: 6598948	   max_fitness: 59999948	   winner: PARENT      
+epoch: E01   gen: 109   avg_fitness: 4423238	   max_fitness: 39780552	   winner: CROSS      
+epoch: E01   gen: 110   avg_fitness: 10752592	   max_fitness: 148293908	   winner: CROSS      
+epoch: E01   gen: 111   avg_fitness: 2492299	   max_fitness: 19626196	   winner: MUTANT  0.06   
+epoch: E01   gen: 112   avg_fitness: 1009263	   max_fitness: 10654392	   winner: PARENT      
+epoch: E01   gen: 113   avg_fitness: 9987901	   max_fitness: 102086128	   winner: CROSS      
+epoch: E01   gen: 114   avg_fitness: 8299522	   max_fitness: 63245838	   winner: PARENT      
+epoch: E01   gen: 115   avg_fitness: 10133385	   max_fitness: 154759590	   winner: PARENT      
+epoch: E01   gen: 116   avg_fitness: 10533835	   max_fitness: 49749064	   winner: PARENT      
+epoch: E01   gen: 117   avg_fitness: 9413438	   max_fitness: 148921125	   winner: PARENT      
+epoch: E01   gen: 118   avg_fitness: 1648616	   max_fitness: 20111618	   winner: PARENT      
+epoch: E01   gen: 119   avg_fitness: 3525711	   max_fitness: 63939302	   winner: PARENT      
+epoch: E01   gen: 120   avg_fitness: 425989	   max_fitness: 6226864	   winner: PARENT      
+epoch: E01   gen: 121   avg_fitness: 5922898	   max_fitness: 91665600	   winner: PARENT      
+epoch: E01   gen: 122   avg_fitness: 3863380	   max_fitness: 68201656	   winner: PARENT      
+epoch: E01   gen: 123   avg_fitness: 1186903	   max_fitness: 17615590	   winner: MUTANT  0.05   
+epoch: E01   gen: 124   avg_fitness: 5398986	   max_fitness: 100116512	   winner: CROSS      
+epoch: E01   gen: 125   avg_fitness: 3101117	   max_fitness: 26827187	   winner: MUTANT  0.1   
+epoch: E01   gen: 126   avg_fitness: 4009396	   max_fitness: 33458982	   winner: PARENT      
+epoch: E01   gen: 127   avg_fitness: 945111	   max_fitness: 8571830	   winner: PARENT      
+epoch: E01   gen: 128   avg_fitness: 14017716	   max_fitness: 238859654	   winner: CROSS      
+epoch: E01   gen: 129   avg_fitness: 8218435	   max_fitness: 59958623	   winner: NEWSPEC  0.76  1.0
+epoch: E01   gen: 130   avg_fitness: 12128139	   max_fitness: 162789129	   winner: PARENT      
+epoch: E01   gen: 131   avg_fitness: 8437143	   max_fitness: 53585198	   winner: NEWSPEC  0.47  0.98
+epoch: E01   gen: 132   avg_fitness: 14718094	   max_fitness: 96048407	   winner: CROSS      
+epoch: E01   gen: 133   avg_fitness: 7110073	   max_fitness: 46955876	   winner: CROSS      
+epoch: E01   gen: 134   avg_fitness: 9980532	   max_fitness: 74871813	   winner: PARENT      
+epoch: E01   gen: 135   avg_fitness: 14505261	   max_fitness: 163266924	   winner: CROSS      
+epoch: E01   gen: 136   avg_fitness: 10405762	   max_fitness: 82760997	   winner: PARENT      
+epoch: E01   gen: 137   avg_fitness: 17560079	   max_fitness: 108279853	   winner: CROSS      
+epoch: E01   gen: 138   avg_fitness: 12694962	   max_fitness: 188073224	   winner: PARENT      
+epoch: E01   gen: 139   avg_fitness: 9047045	   max_fitness: 67915840	   winner: CROSS      
+epoch: E01   gen: 140   avg_fitness: 8847207	   max_fitness: 45577276	   winner: MUTANT  0.07   
+epoch: E01   gen: 141   avg_fitness: 18655409	   max_fitness: 282029586	   winner: PARENT      
+epoch: E01   gen: 142   avg_fitness: 17723903	   max_fitness: 233015500	   winner: PARENT      
+epoch: E01   gen: 143   avg_fitness: 11700057	   max_fitness: 64106631	   winner: PARENT      
+epoch: E01   gen: 144   avg_fitness: 9248435	   max_fitness: 43446495	   winner: CROSS      
+epoch: E01   gen: 145   avg_fitness: 11008723	   max_fitness: 135684558	   winner: CROSS      
+epoch: E01   gen: 146   avg_fitness: 6812817	   max_fitness: 50262244	   winner: PARENT      
+epoch: E01   gen: 147   avg_fitness: 8581608	   max_fitness: 88488492	   winner: CROSS      
+epoch: E01   gen: 148   avg_fitness: 9899192	   max_fitness: 71084070	   winner: CROSS      
+epoch: E01   gen: 149   avg_fitness: 7602335	   max_fitness: 43444646	   winner: MUTANT  0.11   
+epoch: E01   gen: 150   avg_fitness: 11500598	   max_fitness: 124128675	   winner: PARENT      
+epoch: E01   gen: 151   avg_fitness: 5233584	   max_fitness: 29849976	   winner: MUTANT  0.07   
+epoch: E01   gen: 152   avg_fitness: 10924838	   max_fitness: 60934146	   winner: PARENT      
+epoch: E01   gen: 153   avg_fitness: 8256535	   max_fitness: 83508527	   winner: CROSS      
+epoch: E01   gen: 154   avg_fitness: 22837741	   max_fitness: 142513344	   winner: PARENT      
+epoch: E01   gen: 155   avg_fitness: 10378713	   max_fitness: 87626912	   winner: PARENT      
+epoch: E01   gen: 156   avg_fitness: 19035286	   max_fitness: 200843491	   winner: CROSS      
+epoch: E01   gen: 157   avg_fitness: 11126044	   max_fitness: 69100250	   winner: PARENT      
+epoch: E01   gen: 158   avg_fitness: 28762400	   max_fitness: 228384640	   winner: PARENT      
+epoch: E01   gen: 159   avg_fitness: 15676545	   max_fitness: 141190524	   winner: PARENT      
+epoch: E01   gen: 160   avg_fitness: 10537305	   max_fitness: 73664878	   winner: PARENT      
+epoch: E01   gen: 161   avg_fitness: 27047911	   max_fitness: 243426281	   winner: PARENT      
+epoch: E01   gen: 162   avg_fitness: 12337715	   max_fitness: 81342606	   winner: CROSS      
+epoch: E01   gen: 163   avg_fitness: 10046711	   max_fitness: 72408454	   winner: CROSS      
+epoch: E01   gen: 164   avg_fitness: 15459290	   max_fitness: 109685720	   winner: CROSS      
+epoch: E01   gen: 165   avg_fitness: 16964015	   max_fitness: 165625475	   winner: CROSS      
+epoch: E01   gen: 166   avg_fitness: 11326865	   max_fitness: 91926252	   winner: PARENT      
+epoch: E01   gen: 167   avg_fitness: 12539962	   max_fitness: 75004763	   winner: NEWSPEC  0.68  0.96
+epoch: E01   gen: 168   avg_fitness: 13530707	   max_fitness: 120580004	   winner: PARENT      
+epoch: E01   gen: 169   avg_fitness: 6123217	   max_fitness: 63897079	   winner: PARENT      
+epoch: E01   gen: 170   avg_fitness: 8850925	   max_fitness: 111213402	   winner: PARENT      
+epoch: E01   gen: 171   avg_fitness: 2561953	   max_fitness: 28451370	   winner: CROSS      
+epoch: E01   gen: 172   avg_fitness: 1761506	   max_fitness: 15863046	   winner: PARENT      
+epoch: E01   gen: 173   avg_fitness: 4303817	   max_fitness: 21320139	   winner: NEWSPEC  0.61  0.99
+epoch: E01   gen: 174   avg_fitness: 785694	   max_fitness: 8843723	   winner: PARENT      
+epoch: E01   gen: 175   avg_fitness: 3920019	   max_fitness: 30213394	   winner: PARENT      
+epoch: E01   gen: 176   avg_fitness: 2849642	   max_fitness: 11619015	   winner: MUTANT  0.07   
+epoch: E01   gen: 177   avg_fitness: 2314999	   max_fitness: 19910065	   winner: PARENT      
+epoch: E01   gen: 178   avg_fitness: 5716170	   max_fitness: 57087030	   winner: CROSS      
+epoch: E01   gen: 179   avg_fitness: 5647321	   max_fitness: 44187178	   winner: PARENT      
+epoch: E01   gen: 180   avg_fitness: 13415561	   max_fitness: 117159822	   winner: PARENT      
+epoch: E01   gen: 181   avg_fitness: 14474742	   max_fitness: 110707727	   winner: PARENT      
+epoch: E01   gen: 182   avg_fitness: 17859181	   max_fitness: 98405916	   winner: MUTANT  0.12   
+epoch: E01   gen: 183   avg_fitness: 12670473	   max_fitness: 139591745	   winner: PARENT      
+epoch: E01   gen: 184   avg_fitness: 33013826	   max_fitness: 180955556	   winner: CROSS      
+epoch: E01   gen: 185   avg_fitness: 11802604	   max_fitness: 105017741	   winner: PARENT      
+epoch: E01   gen: 186   avg_fitness: 15305344	   max_fitness: 218457728	   winner: PARENT      
+epoch: E01   gen: 187   avg_fitness: 13558435	   max_fitness: 98237740	   winner: PARENT      
+epoch: E01   gen: 188   avg_fitness: 12509868	   max_fitness: 93455145	   winner: PARENT      
+epoch: E01   gen: 189   avg_fitness: 8845082	   max_fitness: 83184873	   winner: PARENT      
+epoch: E01   gen: 190   avg_fitness: 7415408	   max_fitness: 49064234	   winner: MUTANT  0.13   
+epoch: E01   gen: 191   avg_fitness: 4201907	   max_fitness: 61355301	   winner: PARENT      
+epoch: E01   gen: 192   avg_fitness: 8483375	   max_fitness: 51046626	   winner: MUTANT  0.19   
+epoch: E01   gen: 193   avg_fitness: 19930629	   max_fitness: 165598952	   winner: CROSS      
+epoch: E01   gen: 194   avg_fitness: 12043267	   max_fitness: 156293743	   winner: MUTANT  0.11   
+epoch: E01   gen: 195   avg_fitness: 3991228	   max_fitness: 27426998	   winner: MUTANT  0.1   
+epoch: E01   gen: 196   avg_fitness: 10489357	   max_fitness: 87283315	   winner: MUTANT  0.17   
+epoch: E01   gen: 197   avg_fitness: 7148090	   max_fitness: 63602720	   winner: PARENT      
+epoch: E01   gen: 198   avg_fitness: 12884558	   max_fitness: 77972842	   winner: PARENT      
+epoch: E01   gen: 199   avg_fitness: 19948037	   max_fitness: 132972933	   winner: MUTANT  0.07   
+epoch: E01   gen: 200   avg_fitness: 19485369	   max_fitness: 233867697	   winner: CROSS      
+epoch: E01   gen: 201   avg_fitness: 13012738	   max_fitness: 111717926	   winner: MUTANT  0.08   
+epoch: E01   gen: 202   avg_fitness: 35048637	   max_fitness: 150378665	   winner: NEWSPEC  0.94  1.0
+epoch: E01   gen: 203   avg_fitness: 13715564	   max_fitness: 65736885	   winner: PARENT      
+epoch: E01   gen: 204   avg_fitness: 28228492	   max_fitness: 258313708	   winner: CROSS      
+epoch: E01   gen: 205   avg_fitness: 47452536	   max_fitness: 215105883	   winner: CROSS      
+epoch: E01   gen: 206   avg_fitness: 29719931	   max_fitness: 207473273	   winner: MUTANT  0.07   
+epoch: E01   gen: 207   avg_fitness: 28534764	   max_fitness: 174767416	   winner: PARENT      
+epoch: E01   gen: 208   avg_fitness: 18737120	   max_fitness: 89208638	   winner: MUTANT  0.05   
+epoch: E01   gen: 209   avg_fitness: 42613499	   max_fitness: 294558105	   winner: PARENT      
+epoch: E01   gen: 210   avg_fitness: 51947014	   max_fitness: 413930595	   winner: MUTANT  0.08   
+epoch: E01   gen: 211   avg_fitness: 83	   max_fitness: 1023	   winner: MUTANT  0.1   
+epoch: E01   gen: 212   avg_fitness: 2418	   max_fitness: 34952	   winner: NEWSPEC  0.49  0.65
+epoch: E01   gen: 213   avg_fitness: 12051	   max_fitness: 114977	   winner: MUTANT  0.16   
+epoch: E01   gen: 214   avg_fitness: 41742	   max_fitness: 478170	   winner: MUTANT  0.11   
+epoch: E01   gen: 215   avg_fitness: 184642	   max_fitness: 1403227	   winner: PARENT      
+epoch: E01   gen: 216   avg_fitness: 1757262	   max_fitness: 31467482	   winner: PARENT      
+epoch: E01   gen: 217   avg_fitness: 465365	   max_fitness: 4337056	   winner: MUTANT  0.06   
+epoch: E01   gen: 218   avg_fitness: 1199371	   max_fitness: 17807896	   winner: MUTANT  0.19   
+epoch: E01   gen: 219   avg_fitness: 357348	   max_fitness: 2864752	   winner: MUTANT  0.11   
+epoch: E01   gen: 220   avg_fitness: 1847262	   max_fitness: 8099948	   winner: MUTANT  0.12   
+epoch: E01   gen: 221   avg_fitness: 1528393	   max_fitness: 11401330	   winner: PARENT      
+epoch: E01   gen: 222   avg_fitness: 1134130	   max_fitness: 4139777	   winner: PARENT      
+epoch: E01   gen: 223   avg_fitness: 2088507	   max_fitness: 19730233	   winner: MUTANT  0.17   
+epoch: E01   gen: 224   avg_fitness: 145275	   max_fitness: 1077996	   winner: PARENT      
+epoch: E01   gen: 225   avg_fitness: 766942	   max_fitness: 9425273	   winner: PARENT      
+epoch: E01   gen: 226   avg_fitness: 1124352	   max_fitness: 13209305	   winner: MUTANT  0.06   
+epoch: E01   gen: 227   avg_fitness: 3231166	   max_fitness: 21019820	   winner: NEWSPEC  0.71  0.94
+epoch: E01   gen: 228   avg_fitness: 1650191	   max_fitness: 9132501	   winner: PARENT      
+epoch: E01   gen: 229   avg_fitness: 3735708	   max_fitness: 27062115	   winner: MUTANT  0.16   
+epoch: E01   gen: 230   avg_fitness: 1360687	   max_fitness: 5602258	   winner: MUTANT  0.06   
+epoch: E01   gen: 231   avg_fitness: 3362598	   max_fitness: 35170223	   winner: PARENT      
+epoch: E01   gen: 232   avg_fitness: 2169744	   max_fitness: 14085694	   winner: PARENT      
+epoch: E01   gen: 233   avg_fitness: 4291141	   max_fitness: 24316693	   winner: CROSS      
+epoch: E01   gen: 234   avg_fitness: 2026571	   max_fitness: 12203359	   winner: MUTANT  0.07   
+epoch: E01   gen: 235   avg_fitness: 3056491	   max_fitness: 15044872	   winner: PARENT      
+epoch: E01   gen: 236   avg_fitness: 1599709	   max_fitness: 11116019	   winner: PARENT      
+epoch: E01   gen: 237   avg_fitness: 1747831	   max_fitness: 17358371	   winner: PARENT      
+epoch: E01   gen: 238   avg_fitness: 2850086	   max_fitness: 20886650	   winner: PARENT      
+epoch: E01   gen: 239   avg_fitness: 1734091	   max_fitness: 13108898	   winner: PARENT      
+epoch: E01   gen: 240   avg_fitness: 2974054	   max_fitness: 15679434	   winner: PARENT      
+epoch: E01   gen: 241   avg_fitness: 4571891	   max_fitness: 33007962	   winner: PARENT      
+epoch: E01   gen: 242   avg_fitness: 3487656	   max_fitness: 31195079	   winner: CROSS      
+epoch: E01   gen: 243   avg_fitness: 7582923	   max_fitness: 44492297	   winner: PARENT      
+epoch: E01   gen: 244   avg_fitness: 2648905	   max_fitness: 21971754	   winner: CROSS      
+epoch: E01   gen: 245   avg_fitness: 10078616	   max_fitness: 54659254	   winner: MUTANT  0.11   
+epoch: E01   gen: 246   avg_fitness: 7278055	   max_fitness: 63759058	   winner: CROSS      
+epoch: E01   gen: 247   avg_fitness: 11047270	   max_fitness: 46688484	   winner: NEWSPEC  0.6  0.96
+epoch: E01   gen: 248   avg_fitness: 12025221	   max_fitness: 171551812	   winner: MUTANT  0.19   
+epoch: E01   gen: 249   avg_fitness: 23977019	   max_fitness: 126993925	   winner: PARENT      
+epoch: E01   gen: 250   avg_fitness: 17188206	   max_fitness: 118944961	   winner: PARENT      
+epoch: E01   gen: 251   avg_fitness: 13619622	   max_fitness: 120787324	   winner: PARENT      
+epoch: E01   gen: 252   avg_fitness: 19839902	   max_fitness: 173968856	   winner: PARENT      
+epoch: E01   gen: 253   avg_fitness: 24796691	   max_fitness: 128793088	   winner: PARENT      
+epoch: E01   gen: 254   avg_fitness: 30152481	   max_fitness: 150912307	   winner: PARENT      
+epoch: E01   gen: 255   avg_fitness: 14667622	   max_fitness: 105753100	   winner: PARENT      
+epoch: E01   gen: 256   avg_fitness: 7397680	   max_fitness: 125512228	   winner: CROSS      
+epoch: E01   gen: 257   avg_fitness: 8800386	   max_fitness: 113397289	   winner: PARENT      
+epoch: E01   gen: 258   avg_fitness: 15321245	   max_fitness: 152696776	   winner: PARENT      
+epoch: E01   gen: 259   avg_fitness: 5340301	   max_fitness: 57200113	   winner: PARENT      
+epoch: E01   gen: 260   avg_fitness: 13760152	   max_fitness: 128606874	   winner: PARENT      
+epoch: E01   gen: 261   avg_fitness: 19699630	   max_fitness: 124073855	   winner: PARENT      
+epoch: E01   gen: 262   avg_fitness: 20093294	   max_fitness: 145738816	   winner: PARENT      
+epoch: E01   gen: 263   avg_fitness: 18816054	   max_fitness: 108078562	   winner: PARENT      
+epoch: E01   gen: 264   avg_fitness: 19417858	   max_fitness: 105670077	   winner: MUTANT  0.09   
+epoch: E01   gen: 265   avg_fitness: 14980707	   max_fitness: 117986412	   winner: MUTANT  0.05   
+epoch: E01   gen: 266   avg_fitness: 15759677	   max_fitness: 163415353	   winner: PARENT      
+epoch: E01   gen: 267   avg_fitness: 11663554	   max_fitness: 68861439	   winner: PARENT      
+epoch: E01   gen: 268   avg_fitness: 25055810	   max_fitness: 130221623	   winner: CROSS      
+epoch: E01   gen: 269   avg_fitness: 2606081	   max_fitness: 25664571	   winner: CROSS      
+epoch: E01   gen: 270   avg_fitness: 5663568	   max_fitness: 30408143	   winner: PARENT      
+epoch: E01   gen: 271   avg_fitness: 5882902	   max_fitness: 29795244	   winner: MUTANT  0.2   
+epoch: E01   gen: 272   avg_fitness: 7581649	   max_fitness: 39515427	   winner: CROSS      
+epoch: E01   gen: 273   avg_fitness: 10161002	   max_fitness: 43847880	   winner: PARENT      
+epoch: E01   gen: 274   avg_fitness: 16428627	   max_fitness: 76424961	   winner: NEWSPEC  0.74  0.97
+epoch: E01   gen: 275   avg_fitness: 3159002	   max_fitness: 57624663	   winner: CROSS      
+epoch: E01   gen: 276   avg_fitness: 12656650	   max_fitness: 77584439	   winner: CROSS      
+epoch: E01   gen: 277   avg_fitness: 5431257	   max_fitness: 38097633	   winner: MUTANT  0.17   
+epoch: E01   gen: 278   avg_fitness: 14338979	   max_fitness: 160656974	   winner: CROSS      
+epoch: E01   gen: 279   avg_fitness: 9654433	   max_fitness: 131092952	   winner: PARENT      
+epoch: E01   gen: 280   avg_fitness: 3364115	   max_fitness: 26302662	   winner: PARENT      
+epoch: E01   gen: 281   avg_fitness: 5895816	   max_fitness: 37308858	   winner: PARENT      
+epoch: E01   gen: 282   avg_fitness: 5328178	   max_fitness: 49332353	   winner: PARENT      
+epoch: E01   gen: 283   avg_fitness: 9169260	   max_fitness: 68730233	   winner: PARENT      
+epoch: E01   gen: 284   avg_fitness: 10739161	   max_fitness: 67987470	   winner: PARENT      
+epoch: E01   gen: 285   avg_fitness: 4648115	   max_fitness: 36245708	   winner: MUTANT  0.08   
+epoch: E01   gen: 286   avg_fitness: 6462736	   max_fitness: 91488632	   winner: PARENT      
+epoch: E01   gen: 287   avg_fitness: 7106551	   max_fitness: 39548148	   winner: PARENT      
+epoch: E01   gen: 288   avg_fitness: 18324665	   max_fitness: 139233069	   winner: MUTANT  0.08   
+epoch: E01   gen: 289   avg_fitness: 1345051	   max_fitness: 19415357	   winner: PARENT      
+epoch: E01   gen: 290   avg_fitness: 6408751	   max_fitness: 72968898	   winner: MUTANT  0.06   
+epoch: E01   gen: 291   avg_fitness: 7444797	   max_fitness: 62105210	   winner: PARENT      
+epoch: E01   gen: 292   avg_fitness: 8453162	   max_fitness: 58407494	   winner: MUTANT  0.08   
+epoch: E01   gen: 293   avg_fitness: 18014937	   max_fitness: 78969009	   winner: MUTANT  0.08   
+epoch: E01   gen: 294   avg_fitness: 7201584	   max_fitness: 99704870	   winner: CROSS      
+epoch: E01   gen: 295   avg_fitness: 16341148	   max_fitness: 77883154	   winner: MUTANT  0.07   
+epoch: E01   gen: 296   avg_fitness: 18714641	   max_fitness: 138686607	   winner: MUTANT  0.05   
+epoch: E01   gen: 297   avg_fitness: 23172746	   max_fitness: 157384738	   winner: PARENT      
+epoch: E01   gen: 298   avg_fitness: 23687660	   max_fitness: 163146812	   winner: MUTANT  0.06   
+epoch: E01   gen: 299   avg_fitness: 14390073	   max_fitness: 125553676	   winner: PARENT      
+epoch: E01   gen: 300   avg_fitness: 11982181	   max_fitness: 121316529	   winner: CROSS      
+epoch: E01   gen: 301   avg_fitness: 24523307	   max_fitness: 153236777	   winner: MUTANT  0.1   
+epoch: E01   gen: 302   avg_fitness: 34529110	   max_fitness: 237610497	   winner: MUTANT  0.05   
+epoch: E01   gen: 303   avg_fitness: 11489952	   max_fitness: 79934756	   winner: CROSS      
+epoch: E01   gen: 304   avg_fitness: 16358652	   max_fitness: 141427118	   winner: PARENT      
+epoch: E01   gen: 305   avg_fitness: 24037808	   max_fitness: 114488691	   winner: CROSS      
+epoch: E01   gen: 306   avg_fitness: 17678551	   max_fitness: 92831958	   winner: PARENT      
+epoch: E01   gen: 307   avg_fitness: 11512120	   max_fitness: 87660795	   winner: PARENT      
+epoch: E01   gen: 308   avg_fitness: 34146961	   max_fitness: 175774667	   winner: PARENT      
+epoch: E01   gen: 309   avg_fitness: 28897053	   max_fitness: 145982192	   winner: CROSS      
+epoch: E01   gen: 310   avg_fitness: 14835734	   max_fitness: 82371590	   winner: CROSS      
+epoch: E01   gen: 311   avg_fitness: 11975862	   max_fitness: 106921650	   winner: PARENT      
+epoch: E01   gen: 312   avg_fitness: 18270885	   max_fitness: 133193754	   winner: PARENT      
+epoch: E01   gen: 313   avg_fitness: 39064242	   max_fitness: 242923823	   winner: CROSS      
+epoch: E01   gen: 314   avg_fitness: 25245566	   max_fitness: 218063404	   winner: PARENT      
+epoch: E01   gen: 315   avg_fitness: 13694544	   max_fitness: 76435996	   winner: PARENT      
+epoch: E01   gen: 316   avg_fitness: 17171624	   max_fitness: 142903268	   winner: PARENT      
+epoch: E01   gen: 317   avg_fitness: 13381844	   max_fitness: 56393122	   winner: PARENT      
+epoch: E01   gen: 318   avg_fitness: 16230141	   max_fitness: 75040746	   winner: PARENT      
+epoch: E01   gen: 319   avg_fitness: 20202071	   max_fitness: 83972654	   winner: PARENT      
+epoch: E01   gen: 320   avg_fitness: 18063684	   max_fitness: 72414187	   winner: PARENT      
+epoch: E01   gen: 321   avg_fitness: 12491534	   max_fitness: 60885880	   winner: MUTANT  0.08   
+epoch: E01   gen: 322   avg_fitness: 8572559	   max_fitness: 66809998	   winner: PARENT      
+epoch: E01   gen: 323   avg_fitness: 14216273	   max_fitness: 123126237	   winner: PARENT      
+epoch: E01   gen: 324   avg_fitness: 12343769	   max_fitness: 121833512	   winner: CROSS      
+epoch: E01   gen: 325   avg_fitness: 44354273	   max_fitness: 371564412	   winner: MUTANT  0.07   
+epoch: E01   gen: 326   avg_fitness: 34488758	   max_fitness: 285138823	   winner: NEWSPEC  0.79  1.0
+epoch: E01   gen: 327   avg_fitness: 25571449	   max_fitness: 114434252	   winner: MUTANT  0.07   
+epoch: E01   gen: 328   avg_fitness: 34484697	   max_fitness: 174868768	   winner: CROSS      
+epoch: E01   gen: 329   avg_fitness: 31622369	   max_fitness: 191726533	   winner: MUTANT  0.08   
+epoch: E01   gen: 330   avg_fitness: 46645263	   max_fitness: 279850998	   winner: MUTANT  0.18   
+epoch: E01   gen: 331   avg_fitness: 17440603	   max_fitness: 114991411	   winner: PARENT      
+epoch: E01   gen: 332   avg_fitness: 20923365	   max_fitness: 231638052	   winner: PARENT      
+epoch: E01   gen: 333   avg_fitness: 27982165	   max_fitness: 159250553	   winner: PARENT      
+epoch: E01   gen: 334   avg_fitness: 36888385	   max_fitness: 163008922	   winner: PARENT      
+epoch: E01   gen: 335   avg_fitness: 53780166	   max_fitness: 281994519	   winner: MUTANT  0.15   
+epoch: E01   gen: 336   avg_fitness: 40888221	   max_fitness: 239590051	   winner: PARENT      
+epoch: E01   gen: 337   avg_fitness: 64396574	   max_fitness: 557107216	   winner: PARENT      
+epoch: E01   gen: 338   avg_fitness: 236242	   max_fitness: 2932236	   winner: CROSS      
+epoch: E01   gen: 339   avg_fitness: 211244	   max_fitness: 2921699	   winner: MUTANT  0.11   
+epoch: E01   gen: 340   avg_fitness: 3780	   max_fitness: 41609	   winner: MUTANT  0.15   
+epoch: E01   gen: 341   avg_fitness: 196774	   max_fitness: 1956824	   winner: MUTANT  0.1   
+epoch: E01   gen: 342   avg_fitness: 899081	   max_fitness: 6567837	   winner: MUTANT  0.11   
+epoch: E01   gen: 343   avg_fitness: 664144	   max_fitness: 3125340	   winner: PARENT      
+epoch: E01   gen: 344   avg_fitness: 476977	   max_fitness: 4431991	   winner: PARENT      
+epoch: E01   gen: 345   avg_fitness: 674199	   max_fitness: 4464464	   winner: CROSS      
+epoch: E01   gen: 346   avg_fitness: 959736	   max_fitness: 6758180	   winner: PARENT      
+epoch: E01   gen: 347   avg_fitness: 2999144	   max_fitness: 29825691	   winner: CROSS      
+epoch: E01   gen: 348   avg_fitness: 1717517	   max_fitness: 8679942	   winner: CROSS      
+epoch: E01   gen: 349   avg_fitness: 4000239	   max_fitness: 28129848	   winner: MUTANT  0.16   
+epoch: E01   gen: 350   avg_fitness: 3548040	   max_fitness: 22691419	   winner: MUTANT  0.05   
+epoch: E01   gen: 351   avg_fitness: 950702	   max_fitness: 7372994	   winner: PARENT      
+epoch: E01   gen: 352   avg_fitness: 598938	   max_fitness: 5486821	   winner: CROSS      
+epoch: E01   gen: 353   avg_fitness: 2983802	   max_fitness: 20269565	   winner: MUTANT  0.07   
+epoch: E01   gen: 354   avg_fitness: 4739453	   max_fitness: 30185323	   winner: PARENT      
+epoch: E01   gen: 355   avg_fitness: 2821709	   max_fitness: 13852710	   winner: PARENT      
+epoch: E01   gen: 356   avg_fitness: 6105356	   max_fitness: 50012933	   winner: MUTANT  0.05   
+epoch: E01   gen: 357   avg_fitness: 7095927	   max_fitness: 45662277	   winner: MUTANT  0.19   
+epoch: E01   gen: 358   avg_fitness: 2435602	   max_fitness: 40629839	   winner: PARENT      
+epoch: E01   gen: 359   avg_fitness: 6333849	   max_fitness: 108709540	   winner: CROSS      
+epoch: E01   gen: 360   avg_fitness: 6223481	   max_fitness: 96952776	   winner: PARENT      
+epoch: E01   gen: 361   avg_fitness: 4218673	   max_fitness: 46888889	   winner: MUTANT  0.12   
+epoch: E01   gen: 362   avg_fitness: 3473078	   max_fitness: 53189410	   winner: MUTANT  0.14   
+epoch: E01   gen: 363   avg_fitness: 4415315	   max_fitness: 24241608	   winner: MUTANT  0.07   
+epoch: E01   gen: 364   avg_fitness: 6938294	   max_fitness: 41202911	   winner: PARENT      
+epoch: E01   gen: 365   avg_fitness: 3479308	   max_fitness: 18707880	   winner: MUTANT  0.11   
+epoch: E01   gen: 366   avg_fitness: 4343151	   max_fitness: 48842417	   winner: PARENT      
+epoch: E01   gen: 367   avg_fitness: 10613025	   max_fitness: 80487282	   winner: NEWSPEC  0.59  0.89
+epoch: E01   gen: 368   avg_fitness: 5190993	   max_fitness: 19563569	   winner: NEWSPEC  0.4  0.95
+epoch: E01   gen: 369   avg_fitness: 8902185	   max_fitness: 49922382	   winner: PARENT      
+epoch: E01   gen: 370   avg_fitness: 10029808	   max_fitness: 104584381	   winner: MUTANT  0.08   
+epoch: E01   gen: 371   avg_fitness: 5798221	   max_fitness: 68667222	   winner: PARENT      
+epoch: E01   gen: 372   avg_fitness: 6899114	   max_fitness: 43473059	   winner: PARENT      
+epoch: E01   gen: 373   avg_fitness: 8372625	   max_fitness: 52647168	   winner: MUTANT  0.09   
+epoch: E01   gen: 374   avg_fitness: 15616381	   max_fitness: 159583640	   winner: CROSS      
+epoch: E01   gen: 375   avg_fitness: 4610538	   max_fitness: 49914226	   winner: CROSS      
+epoch: E01   gen: 376   avg_fitness: 7941282	   max_fitness: 46296082	   winner: MUTANT  0.19   
+epoch: E01   gen: 377   avg_fitness: 4979390	   max_fitness: 29405832	   winner: MUTANT  0.06   
+epoch: E01   gen: 378   avg_fitness: 13286602	   max_fitness: 184914917	   winner: PARENT      
+epoch: E01   gen: 379   avg_fitness: 8379314	   max_fitness: 65890009	   winner: PARENT      
+epoch: E01   gen: 380   avg_fitness: 8335368	   max_fitness: 43618139	   winner: PARENT      
+epoch: E01   gen: 381   avg_fitness: 7079219	   max_fitness: 65973226	   winner: MUTANT  0.13   
+epoch: E01   gen: 382   avg_fitness: 9563009	   max_fitness: 56680270	   winner: NEWSPEC  0.53  0.76
+epoch: E01   gen: 383   avg_fitness: 19812554	   max_fitness: 167014984	   winner: MUTANT  0.18   
+epoch: E01   gen: 384   avg_fitness: 7416985	   max_fitness: 34136151	   winner: PARENT      
+epoch: E01   gen: 385   avg_fitness: 12008608	   max_fitness: 57659106	   winner: MUTANT  0.06   
+epoch: E01   gen: 386   avg_fitness: 6160112	   max_fitness: 60967083	   winner: MUTANT  0.05   
+epoch: E01   gen: 387   avg_fitness: 7619114	   max_fitness: 51223457	   winner: PARENT      
+epoch: E01   gen: 388   avg_fitness: 7718911	   max_fitness: 52054377	   winner: MUTANT  0.12   
+epoch: E01   gen: 389   avg_fitness: 14629021	   max_fitness: 128705544	   winner: CROSS      
+epoch: E01   gen: 390   avg_fitness: 9622364	   max_fitness: 55691645	   winner: PARENT      
+epoch: E01   gen: 391   avg_fitness: 11913966	   max_fitness: 103162987	   winner: PARENT      
+epoch: E01   gen: 392   avg_fitness: 13871354	   max_fitness: 90892962	   winner: MUTANT  0.09   
+epoch: E01   gen: 393   avg_fitness: 5582554	   max_fitness: 31127731	   winner: PARENT      
+epoch: E01   gen: 394   avg_fitness: 6229984	   max_fitness: 32775991	   winner: MUTANT  0.08   
+epoch: E01   gen: 395   avg_fitness: 11813986	   max_fitness: 118531465	   winner: MUTANT  0.11   
+epoch: E01   gen: 396   avg_fitness: 6998230	   max_fitness: 46031709	   winner: MUTANT  0.06   
+epoch: E01   gen: 397   avg_fitness: 8550817	   max_fitness: 48937819	   winner: MUTANT  0.08   
+epoch: E01   gen: 398   avg_fitness: 9696838	   max_fitness: 59276493	   winner: NEWSPEC  0.77  0.85
+epoch: E01   gen: 399   avg_fitness: 9152744	   max_fitness: 49139626	   winner: CROSS      
+epoch: E01   gen: 400   avg_fitness: 7233817	   max_fitness: 61544869	   winner: MUTANT  0.17   
+epoch: E01   gen: 401   avg_fitness: 9454445	   max_fitness: 85992041	   winner: PARENT      
+epoch: E01   gen: 402   avg_fitness: 29371064	   max_fitness: 137279208	   winner: MUTANT  0.07   
+epoch: E01   gen: 403   avg_fitness: 24461154	   max_fitness: 113162291	   winner: MUTANT  0.07   
+epoch: E01   gen: 404   avg_fitness: 20059249	   max_fitness: 107888274	   winner: PARENT      
+epoch: E01   gen: 405   avg_fitness: 15875626	   max_fitness: 95973638	   winner: PARENT      
+epoch: E01   gen: 406   avg_fitness: 52372412	   max_fitness: 281923473	   winner: PARENT      
+epoch: E01   gen: 407   avg_fitness: 27230303	   max_fitness: 114385305	   winner: NEWSPEC  1.02  0.98
+epoch: E01   gen: 408   avg_fitness: 72096944	   max_fitness: 332101008	   winner: MUTANT  0.08   
+epoch: E01   gen: 409   avg_fitness: 78673165	   max_fitness: 502773337	   winner: MUTANT  0.05   
+epoch: E01   gen: 410   avg_fitness: 96397502	   max_fitness: 568525838	   winner: PARENT      
+epoch: E01   gen: 411   avg_fitness: 983273	   max_fitness: 15848866	   winner: MUTANT  0.12   
+epoch: E01   gen: 412   avg_fitness: 147037	   max_fitness: 1439632	   winner: PARENT      
+epoch: E01   gen: 413   avg_fitness: 1297971	   max_fitness: 12846180	   winner: NEWSPEC  0.64  0.96
+epoch: E01   gen: 414   avg_fitness: 713659	   max_fitness: 5686464	   winner: PARENT      
+epoch: E01   gen: 415   avg_fitness: 1219643	   max_fitness: 10035467	   winner: PARENT      
+epoch: E01   gen: 416   avg_fitness: 954069	   max_fitness: 6356369	   winner: MUTANT  0.19   
+epoch: E01   gen: 417   avg_fitness: 3000094	   max_fitness: 26400186	   winner: MUTANT  0.2   
+epoch: E01   gen: 418   avg_fitness: 3875288	   max_fitness: 20006542	   winner: PARENT      
+epoch: E01   gen: 419   avg_fitness: 4389180	   max_fitness: 47184832	   winner: MUTANT  0.12   
+epoch: E01   gen: 420   avg_fitness: 3096445	   max_fitness: 20635855	   winner: PARENT      
+epoch: E01   gen: 421   avg_fitness: 3552722	   max_fitness: 31085962	   winner: PARENT      
+epoch: E01   gen: 422   avg_fitness: 5669228	   max_fitness: 57012765	   winner: MUTANT  0.13   
+epoch: E01   gen: 423   avg_fitness: 7103536	   max_fitness: 62054714	   winner: MUTANT  0.05   
+epoch: E01   gen: 424   avg_fitness: 41675251	   max_fitness: 571338559	   winner: MUTANT  0.1   
+epoch: E01   gen: 425   avg_fitness: 84136381	   max_fitness: 1449249052	   winner: MUTANT  0.16   
+epoch: E01   gen: 426   avg_fitness: 10148412	   max_fitness: 62054473	   winner: MUTANT  0.12   
+epoch: E01   gen: 427   avg_fitness: 7931507	   max_fitness: 70331328	   winner: PARENT      
+epoch: E01   gen: 428   avg_fitness: 4973316	   max_fitness: 42406744	   winner: MUTANT  0.09   
+epoch: E01   gen: 429   avg_fitness: 4303879	   max_fitness: 29793846	   winner: MUTANT  0.1   
+epoch: E01   gen: 430   avg_fitness: 5833277	   max_fitness: 26558373	   winner: MUTANT  0.07   
+epoch: E01   gen: 431   avg_fitness: 4248562	   max_fitness: 14052054	   winner: CROSS      
+epoch: E01   gen: 432   avg_fitness: 6330276	   max_fitness: 48697090	   winner: MUTANT  0.08   
+epoch: E01   gen: 433   avg_fitness: 2977280	   max_fitness: 14244486	   winner: PARENT      
+epoch: E01   gen: 434   avg_fitness: 1445663	   max_fitness: 7074285	   winner: CROSS      
+epoch: E01   gen: 435   avg_fitness: 3693559	   max_fitness: 15196764	   winner: MUTANT  0.18   
+epoch: E01   gen: 436   avg_fitness: 5865995	   max_fitness: 40909533	   winner: CROSS      
+epoch: E01   gen: 437   avg_fitness: 4465394	   max_fitness: 36399852	   winner: NEWSPEC  0.5  0.6
+epoch: E01   gen: 438   avg_fitness: 5172002	   max_fitness: 30786385	   winner: MUTANT  0.09   
+epoch: E01   gen: 439   avg_fitness: 18107627	   max_fitness: 164800991	   winner: MUTANT  0.09   
+epoch: E01   gen: 440   avg_fitness: 58186970	   max_fitness: 473163507	   winner: PARENT      
+epoch: E01   gen: 441   avg_fitness: 58276972	   max_fitness: 330467827	   winner: CROSS      
+epoch: E01   gen: 442   avg_fitness: 122765611	   max_fitness: 711640371	   winner: CROSS      
+epoch: E01   gen: 443   avg_fitness: 130261302	   max_fitness: 1156129150	   winner: PARENT      
+epoch: E01   gen: 444   avg_fitness: 198099902	   max_fitness: 1105150606	   winner: PARENT      
+epoch: E01   gen: 445   avg_fitness: 116994856	   max_fitness: 529973941	   winner: CROSS      
+epoch: E01   gen: 446   avg_fitness: 145574852	   max_fitness: 914991694	   winner: PARENT      
+epoch: E01   gen: 447   avg_fitness: 106963109	   max_fitness: 444801577	   winner: PARENT      
+epoch: E01   gen: 448   avg_fitness: 165460451	   max_fitness: 745855567	   winner: MUTANT  0.06   
+epoch: E01   gen: 449   avg_fitness: 219182789	   max_fitness: 1473303211	   winner: PARENT      
+epoch: E01   gen: 450   avg_fitness: 60427123	   max_fitness: 439196180	   winner: MUTANT  0.16   
+epoch: E01   gen: 451   avg_fitness: 105944496	   max_fitness: 829953620	   winner: CROSS      
+epoch: E01   gen: 452   avg_fitness: 160107035	   max_fitness: 885438383	   winner: MUTANT  0.07   
+epoch: E01   gen: 453   avg_fitness: 169633549	   max_fitness: 564957987	   winner: PARENT      
+epoch: E01   gen: 454   avg_fitness: 169897305	   max_fitness: 920558934	   winner: PARENT      
+epoch: E01   gen: 455   avg_fitness: 153912689	   max_fitness: 551867881	   winner: MUTANT  0.1   
+epoch: E01   gen: 456   avg_fitness: 230305414	   max_fitness: 1584968666	   winner: MUTANT  0.13   
+epoch: E01   gen: 457   avg_fitness: 92933862	   max_fitness: 982161181	   winner: MUTANT  0.15   
+epoch: E01   gen: 458   avg_fitness: 95940852	   max_fitness: 672331637	   winner: PARENT      
+epoch: E01   gen: 459   avg_fitness: 163928530	   max_fitness: 741541801	   winner: MUTANT  0.09   
+epoch: E01   gen: 460   avg_fitness: 313103059	   max_fitness: 1426502564	   winner: MUTANT  0.09   
+epoch: E01   gen: 461   avg_fitness: 271308451	   max_fitness: 957447052	   winner: NEWSPEC  0.92  0.98
+epoch: E01   gen: 462   avg_fitness: 263522202	   max_fitness: 1153227217	   winner: MUTANT  0.15   
+epoch: E01   gen: 463   avg_fitness: 304412992	   max_fitness: 1096669080	   winner: MUTANT  0.06   
+epoch: E01   gen: 464   avg_fitness: 189383597	   max_fitness: 880207863	   winner: PARENT      
+epoch: E01   gen: 465   avg_fitness: 392839761	   max_fitness: 1167150415	   winner: PARENT      
+epoch: E01   gen: 466   avg_fitness: 337700398	   max_fitness: 1367984852	   winner: PARENT      
+epoch: E01   gen: 467   avg_fitness: 324197180	   max_fitness: 1436332750	   winner: PARENT      
+epoch: E01   gen: 468   avg_fitness: 486476372	   max_fitness: 2549411110	   winner: MUTANT  0.2   
+epoch: E01   gen: 469   avg_fitness: 16024756	   max_fitness: 205721810	   winner: PARENT      
+epoch: E01   gen: 470   avg_fitness: 60271218	   max_fitness: 322231280	   winner: PARENT      
+epoch: E01   gen: 471   avg_fitness: 63939358	   max_fitness: 247731310	   winner: PARENT      
+epoch: E01   gen: 472   avg_fitness: 52311403	   max_fitness: 183494233	   winner: MUTANT  0.13   
+epoch: E01   gen: 473   avg_fitness: 76074985	   max_fitness: 401627615	   winner: MUTANT  0.15   
+epoch: E01   gen: 474   avg_fitness: 91480346	   max_fitness: 265255528	   winner: MUTANT  0.15   
+epoch: E01   gen: 475   avg_fitness: 130726940	   max_fitness: 496249668	   winner: PARENT      
+epoch: E01   gen: 476   avg_fitness: 57353951	   max_fitness: 234473933	   winner: PARENT      
+epoch: E01   gen: 477   avg_fitness: 143785086	   max_fitness: 382543359	   winner: MUTANT  0.12   
+epoch: E01   gen: 478   avg_fitness: 64452660	   max_fitness: 369112125	   winner: PARENT      
+epoch: E01   gen: 479   avg_fitness: 85236080	   max_fitness: 344570294	   winner: MUTANT  0.06   
+epoch: E01   gen: 480   avg_fitness: 106856198	   max_fitness: 436689639	   winner: PARENT      
+epoch: E01   gen: 481   avg_fitness: 104587321	   max_fitness: 479800272	   winner: PARENT      
+epoch: E01   gen: 482   avg_fitness: 110898947	   max_fitness: 568396414	   winner: MUTANT  0.08   
+epoch: E01   gen: 483   avg_fitness: 124283054	   max_fitness: 386545590	   winner: PARENT      
+epoch: E01   gen: 484   avg_fitness: 133969086	   max_fitness: 770090235	   winner: MUTANT  0.08   
+epoch: E01   gen: 485   avg_fitness: 85876980	   max_fitness: 381625417	   winner: MUTANT  0.09   
+epoch: E01   gen: 486   avg_fitness: 62540471	   max_fitness: 531884682	   winner: MUTANT  0.14   
+epoch: E01   gen: 487   avg_fitness: 94278058	   max_fitness: 466744272	   winner: MUTANT  0.08   
+epoch: E01   gen: 488   avg_fitness: 42742377	   max_fitness: 396866052	   winner: MUTANT  0.07   
+epoch: E01   gen: 489   avg_fitness: 134381394	   max_fitness: 465452732	   winner: PARENT      
+epoch: E01   gen: 490   avg_fitness: 197920605	   max_fitness: 862416114	   winner: MUTANT  0.09   
+epoch: E01   gen: 491   avg_fitness: 127582324	   max_fitness: 656606329	   winner: MUTANT  0.07   
+epoch: E01   gen: 492   avg_fitness: 157242185	   max_fitness: 580153180	   winner: CROSS      
+epoch: E01   gen: 493   avg_fitness: 182542367	   max_fitness: 1444742787	   winner: MUTANT  0.05   
+epoch: E01   gen: 494   avg_fitness: 106699306	   max_fitness: 411258188	   winner: MUTANT  0.16   
+epoch: E01   gen: 495   avg_fitness: 141914743	   max_fitness: 913673816	   winner: CROSS      
+epoch: E01   gen: 496   avg_fitness: 205331350	   max_fitness: 1407881021	   winner: PARENT      
+epoch: E01   gen: 497   avg_fitness: 186876481	   max_fitness: 923697307	   winner: MUTANT  0.06   
+epoch: E01   gen: 498   avg_fitness: 161935296	   max_fitness: 1109137240	   winner: MUTANT  0.08   
+epoch: E01   gen: 499   avg_fitness: 213929104	   max_fitness: 1399302786	   winner: PARENT      
+epoch: E01   gen: 500   avg_fitness: 291667559	   max_fitness: 1952307552	   winner: PARENT      
+epoch: E01   gen: 501   avg_fitness: 286616137	   max_fitness: 1691988441	   winner: CROSS      
+epoch: E01   gen: 502   avg_fitness: 288285389	   max_fitness: 1242482990	   winner: PARENT      
+epoch: E01   gen: 503   avg_fitness: 377077402	   max_fitness: 1734293052	   winner: PARENT      
+epoch: E01   gen: 504   avg_fitness: 242822815	   max_fitness: 1227978360	   winner: PARENT      
+epoch: E01   gen: 505   avg_fitness: 342405540	   max_fitness: 1658715890	   winner: MUTANT  0.15   
+epoch: E01   gen: 506   avg_fitness: 238814320	   max_fitness: 1761387783	   winner: MUTANT  0.12   
+epoch: E01   gen: 507   avg_fitness: 283017175	   max_fitness: 1551489223	   winner: PARENT      
+epoch: E01   gen: 508   avg_fitness: 198212496	   max_fitness: 1278500839	   winner: CROSS      
+epoch: E01   gen: 509   avg_fitness: 285048641	   max_fitness: 1475561259	   winner: CROSS      
+epoch: E01   gen: 510   avg_fitness: 226324911	   max_fitness: 1453082675	   winner: CROSS      
+epoch: E01   gen: 511   avg_fitness: 92469945	   max_fitness: 559232876	   winner: PARENT      
+epoch: E01   gen: 512   avg_fitness: 219545879	   max_fitness: 1135770064	   winner: CROSS      
+epoch: E01   gen: 513   avg_fitness: 176208804	   max_fitness: 1617366951	   winner: PARENT      
+epoch: E01   gen: 514   avg_fitness: 470827734	   max_fitness: 1924063110	   winner: PARENT      
+epoch: E01   gen: 515   avg_fitness: 120192412	   max_fitness: 1334085414	   winner: PARENT      
+epoch: E01   gen: 516   avg_fitness: 610649139	   max_fitness: 2355767187	   winner: PARENT      
+epoch: E01   gen: 517   avg_fitness: 320302192	   max_fitness: 1570766783	   winner: CROSS      
+epoch: E01   gen: 518   avg_fitness: 352909534	   max_fitness: 1854531932	   winner: PARENT      
+epoch: E01   gen: 519   avg_fitness: 521245007	   max_fitness: 2293742341	   winner: PARENT      
+epoch: E01   gen: 520   avg_fitness: 318868301	   max_fitness: 1808934855	   winner: PARENT      
+epoch: E01   gen: 521   avg_fitness: 242860568	   max_fitness: 1983939157	   winner: CROSS      
+epoch: E01   gen: 522   avg_fitness: 115432913	   max_fitness: 955453452	   winner: CROSS      
+epoch: E01   gen: 523   avg_fitness: 245158923	   max_fitness: 1085721955	   winner: CROSS      
+epoch: E01   gen: 524   avg_fitness: 289426508	   max_fitness: 1970372051	   winner: PARENT      
+epoch: E01   gen: 525   avg_fitness: 261198596	   max_fitness: 1635400940	   winner: MUTANT  0.06   
+epoch: E01   gen: 526   avg_fitness: 325621953	   max_fitness: 2510744249	   winner: PARENT      
+epoch: E01   gen: 527   avg_fitness: 210085694	   max_fitness: 860595801	   winner: MUTANT  0.06   
+epoch: E01   gen: 528   avg_fitness: 349394127	   max_fitness: 1791983772	   winner: CROSS      
+epoch: E01   gen: 529   avg_fitness: 378190867	   max_fitness: 1577954599	   winner: MUTANT  0.05   
+epoch: E01   gen: 530   avg_fitness: 261130754	   max_fitness: 632361255	   winner: MUTANT  0.05   
+epoch: E01   gen: 531   avg_fitness: 128334114	   max_fitness: 998429242	   winner: PARENT      
+epoch: E01   gen: 532   avg_fitness: 122576042	   max_fitness: 927291993	   winner: NEWSPEC  0.67  0.99
+epoch: E01   gen: 533   avg_fitness: 120044002	   max_fitness: 531010866	   winner: MUTANT  0.11   
+epoch: E01   gen: 534   avg_fitness: 209550424	   max_fitness: 1327280214	   winner: MUTANT  0.07   
+epoch: E01   gen: 535   avg_fitness: 105572054	   max_fitness: 797244619	   winner: MUTANT  0.08   
+epoch: E01   gen: 536   avg_fitness: 132674876	   max_fitness: 1233266568	   winner: PARENT      
+epoch: E01   gen: 537   avg_fitness: 101634898	   max_fitness: 838872865	   winner: PARENT      
+epoch: E01   gen: 538   avg_fitness: 55553775	   max_fitness: 377400535	   winner: CROSS      
+epoch: E01   gen: 539   avg_fitness: 167227131	   max_fitness: 598205681	   winner: CROSS      
+epoch: E01   gen: 540   avg_fitness: 209362806	   max_fitness: 1615275041	   winner: NEWSPEC  0.59  0.98
+epoch: E01   gen: 541   avg_fitness: 120667589	   max_fitness: 572288698	   winner: MUTANT  0.14   
+epoch: E01   gen: 542   avg_fitness: 134680720	   max_fitness: 1446921900	   winner: MUTANT  0.09   
+epoch: E01   gen: 543   avg_fitness: 109254149	   max_fitness: 446528493	   winner: PARENT      
+epoch: E01   gen: 544   avg_fitness: 176026868	   max_fitness: 883175433	   winner: PARENT      
+epoch: E01   gen: 545   avg_fitness: 145357813	   max_fitness: 913489806	   winner: PARENT      
+epoch: E01   gen: 546   avg_fitness: 95125215	   max_fitness: 602094366	   winner: NEWSPEC  0.42  0.92
+epoch: E01   gen: 547   avg_fitness: 265985627	   max_fitness: 2159807419	   winner: PARENT      
+epoch: E01   gen: 548   avg_fitness: 154816101	   max_fitness: 1017789079	   winner: PARENT      
+epoch: E01   gen: 549   avg_fitness: 159487031	   max_fitness: 727486381	   winner: MUTANT  0.09   
+epoch: E01   gen: 550   avg_fitness: 131059571	   max_fitness: 907740029	   winner: PARENT      
+epoch: E01   gen: 551   avg_fitness: 90025353	   max_fitness: 522062188	   winner: CROSS      
+epoch: E01   gen: 552   avg_fitness: 137072458	   max_fitness: 620230186	   winner: PARENT      
+epoch: E01   gen: 553   avg_fitness: 175847986	   max_fitness: 847197273	   winner: PARENT      
+epoch: E01   gen: 554   avg_fitness: 145467736	   max_fitness: 1297311595	   winner: CROSS      
+epoch: E01   gen: 555   avg_fitness: 95301736	   max_fitness: 684333213	   winner: PARENT      
+epoch: E01   gen: 556   avg_fitness: 131159980	   max_fitness: 633242312	   winner: MUTANT  0.05   
+epoch: E01   gen: 557   avg_fitness: 271445395	   max_fitness: 875912679	   winner: MUTANT  0.14   
+epoch: E01   gen: 558   avg_fitness: 148460973	   max_fitness: 1081419397	   winner: MUTANT  0.07   
+epoch: E01   gen: 559   avg_fitness: 115059822	   max_fitness: 535926470	   winner: MUTANT  0.11   
+epoch: E01   gen: 560   avg_fitness: 125179354	   max_fitness: 735870043	   winner: PARENT      
+epoch: E01   gen: 561   avg_fitness: 56234069	   max_fitness: 329578438	   winner: CROSS      
+epoch: E01   gen: 562   avg_fitness: 91609030	   max_fitness: 432633541	   winner: MUTANT  0.05   
+epoch: E01   gen: 563   avg_fitness: 85177227	   max_fitness: 773659308	   winner: MUTANT  0.09   
+epoch: E01   gen: 564   avg_fitness: 94844535	   max_fitness: 926036102	   winner: PARENT      
+epoch: E01   gen: 565   avg_fitness: 43831434	   max_fitness: 160066907	   winner: PARENT      
+epoch: E01   gen: 566   avg_fitness: 68714860	   max_fitness: 354439606	   winner: PARENT      
+epoch: E01   gen: 567   avg_fitness: 86871493	   max_fitness: 579813988	   winner: MUTANT  0.07   
+epoch: E01   gen: 568   avg_fitness: 85546980	   max_fitness: 501879796	   winner: MUTANT  0.17   
+epoch: E01   gen: 569   avg_fitness: 105300702	   max_fitness: 566562798	   winner: PARENT      
+epoch: E01   gen: 570   avg_fitness: 134564160	   max_fitness: 744781350	   winner: MUTANT  0.15   
+epoch: E01   gen: 571   avg_fitness: 104086847	   max_fitness: 415450428	   winner: PARENT      
+epoch: E01   gen: 572   avg_fitness: 184045845	   max_fitness: 992018291	   winner: MUTANT  0.09   
+epoch: E01   gen: 573   avg_fitness: 216584925	   max_fitness: 1136499116	   winner: MUTANT  0.08   
+epoch: E01   gen: 574   avg_fitness: 221815385	   max_fitness: 816652056	   winner: PARENT      
+epoch: E01   gen: 575   avg_fitness: 173319205	   max_fitness: 597347701	   winner: MUTANT  0.06   
+epoch: E01   gen: 576   avg_fitness: 119766890	   max_fitness: 1497733034	   winner: PARENT      
+epoch: E01   gen: 577   avg_fitness: 239686642	   max_fitness: 932117940	   winner: PARENT      
+epoch: E01   gen: 578   avg_fitness: 336344754	   max_fitness: 1071092750	   winner: MUTANT  0.18   
+epoch: E01   gen: 579   avg_fitness: 223591290	   max_fitness: 960881938	   winner: MUTANT  0.06   
+epoch: E01   gen: 580   avg_fitness: 246349096	   max_fitness: 1167312440	   winner: MUTANT  0.07   
+epoch: E01   gen: 581   avg_fitness: 160257611	   max_fitness: 1359216921	   winner: PARENT      
+epoch: E01   gen: 582   avg_fitness: 313950738	   max_fitness: 1715423222	   winner: MUTANT  0.09   
+epoch: E01   gen: 583   avg_fitness: 242981504	   max_fitness: 889336283	   winner: MUTANT  0.07   
+epoch: E01   gen: 584   avg_fitness: 215187016	   max_fitness: 962056695	   winner: PARENT      
+epoch: E01   gen: 585   avg_fitness: 146232306	   max_fitness: 1189134443	   winner: PARENT      
+epoch: E01   gen: 586   avg_fitness: 256428307	   max_fitness: 1179378479	   winner: CROSS      
+epoch: E01   gen: 587   avg_fitness: 270168082	   max_fitness: 1031175150	   winner: CROSS      
+epoch: E01   gen: 588   avg_fitness: 246039670	   max_fitness: 1327319608	   winner: MUTANT  0.12   
+epoch: E01   gen: 589   avg_fitness: 207856129	   max_fitness: 1279833566	   winner: CROSS      
+epoch: E01   gen: 590   avg_fitness: 194484968	   max_fitness: 1202754799	   winner: CROSS      
+epoch: E01   gen: 591   avg_fitness: 313343615	   max_fitness: 1099445261	   winner: PARENT      
+epoch: E01   gen: 592   avg_fitness: 110890295	   max_fitness: 614884853	   winner: PARENT      
+epoch: E01   gen: 593   avg_fitness: 271670691	   max_fitness: 1182866308	   winner: MUTANT  0.07   
+epoch: E01   gen: 594   avg_fitness: 211218034	   max_fitness: 990610644	   winner: CROSS      
+epoch: E01   gen: 595   avg_fitness: 194598281	   max_fitness: 1230291956	   winner: CROSS      
+epoch: E01   gen: 596   avg_fitness: 150205390	   max_fitness: 810650424	   winner: NEWSPEC  0.7  0.9
+epoch: E01   gen: 597   avg_fitness: 177013298	   max_fitness: 635618608	   winner: MUTANT  0.11   
+epoch: E01   gen: 598   avg_fitness: 146572371	   max_fitness: 650350321	   winner: MUTANT  0.06   
+epoch: E01   gen: 599   avg_fitness: 163681910	   max_fitness: 1417907228	   winner: MUTANT  0.16   
+epoch: E01   gen: 600   avg_fitness: 169734876	   max_fitness: 833056697	   winner: MUTANT  0.17   
+epoch: E01   gen: 601   avg_fitness: 143681523	   max_fitness: 1327516746	   winner: PARENT      
+epoch: E01   gen: 602   avg_fitness: 58013578	   max_fitness: 373719623	   winner: PARENT      
+epoch: E01   gen: 603   avg_fitness: 109881095	   max_fitness: 589784020	   winner: MUTANT  0.08   
+epoch: E01   gen: 604   avg_fitness: 70492811	   max_fitness: 557438941	   winner: PARENT      
+epoch: E01   gen: 605   avg_fitness: 306367431	   max_fitness: 1365164787	   winner: PARENT      
+epoch: E01   gen: 606   avg_fitness: 126897060	   max_fitness: 448651050	   winner: PARENT      
+epoch: E01   gen: 607   avg_fitness: 212065404	   max_fitness: 1089423106	   winner: PARENT      
+epoch: E01   gen: 608   avg_fitness: 166268814	   max_fitness: 609975535	   winner: MUTANT  0.07   
+epoch: E01   gen: 609   avg_fitness: 118361155	   max_fitness: 685252990	   winner: PARENT      
+epoch: E01   gen: 610   avg_fitness: 157037385	   max_fitness: 851154274	   winner: PARENT      
+epoch: E01   gen: 611   avg_fitness: 133163615	   max_fitness: 659573866	   winner: PARENT      
+epoch: E01   gen: 612   avg_fitness: 138074704	   max_fitness: 736679901	   winner: PARENT      
+epoch: E01   gen: 613   avg_fitness: 196368625	   max_fitness: 856255809	   winner: MUTANT  0.06   
+epoch: E01   gen: 614   avg_fitness: 173803349	   max_fitness: 949720304	   winner: MUTANT  0.13   
+epoch: E01   gen: 615   avg_fitness: 296781336	   max_fitness: 1139168006	   winner: MUTANT  0.11   
+epoch: E01   gen: 616   avg_fitness: 44880943	   max_fitness: 448277810	   winner: PARENT      
+epoch: E01   gen: 617   avg_fitness: 44724906	   max_fitness: 590458097	   winner: PARENT      
+epoch: E01   gen: 618   avg_fitness: 202621628	   max_fitness: 1861825550	   winner: MUTANT  0.08   
+epoch: E01   gen: 619   avg_fitness: 170062988	   max_fitness: 1055198157	   winner: PARENT      
+epoch: E01   gen: 620   avg_fitness: 163660276	   max_fitness: 669125931	   winner: PARENT      
+epoch: E01   gen: 621   avg_fitness: 89175480	   max_fitness: 345304738	   winner: CROSS      
+epoch: E01   gen: 622   avg_fitness: 111221514	   max_fitness: 620823395	   winner: MUTANT  0.1   
+epoch: E01   gen: 623   avg_fitness: 158501856	   max_fitness: 1127206660	   winner: MUTANT  0.11   
+epoch: E01   gen: 624   avg_fitness: 179584939	   max_fitness: 1491354993	   winner: PARENT      
+epoch: E01   gen: 625   avg_fitness: 202685909	   max_fitness: 1074661301	   winner: MUTANT  0.08   
+epoch: E01   gen: 626   avg_fitness: 164839237	   max_fitness: 804568462	   winner: MUTANT  0.09   
+epoch: E01   gen: 627   avg_fitness: 174675099	   max_fitness: 874529538	   winner: PARENT      
+epoch: E01   gen: 628   avg_fitness: 137061732	   max_fitness: 756872229	   winner: PARENT      
+epoch: E01   gen: 629   avg_fitness: 228681076	   max_fitness: 1544957370	   winner: PARENT      
+epoch: E01   gen: 630   avg_fitness: 233105077	   max_fitness: 1593075923	   winner: MUTANT  0.06   
+epoch: E01   gen: 631   avg_fitness: 351075708	   max_fitness: 1273269881	   winner: MUTANT  0.06   
+epoch: E01   gen: 632   avg_fitness: 124379959	   max_fitness: 1161090304	   winner: CROSS      
+epoch: E01   gen: 633   avg_fitness: 233395122	   max_fitness: 1338686072	   winner: CROSS      
+epoch: E01   gen: 634   avg_fitness: 92812705	   max_fitness: 686648667	   winner: PARENT      
+epoch: E01   gen: 635   avg_fitness: 167874968	   max_fitness: 1186017894	   winner: PARENT      
+epoch: E01   gen: 636   avg_fitness: 313781453	   max_fitness: 1315039129	   winner: MUTANT  0.13   
+epoch: E01   gen: 637   avg_fitness: 260910082	   max_fitness: 1147593837	   winner: PARENT      
+epoch: E01   gen: 638   avg_fitness: 184544582	   max_fitness: 1465718696	   winner: CROSS      
+epoch: E01   gen: 639   avg_fitness: 143624199	   max_fitness: 1104901037	   winner: PARENT      
+epoch: E01   gen: 640   avg_fitness: 58764945	   max_fitness: 360658860	   winner: PARENT      
+epoch: E01   gen: 641   avg_fitness: 321458855	   max_fitness: 2134297314	   winner: PARENT      
+epoch: E01   gen: 642   avg_fitness: 187738382	   max_fitness: 1516905835	   winner: PARENT      
+epoch: E01   gen: 643   avg_fitness: 292186396	   max_fitness: 862863427	   winner: CROSS      
+epoch: E01   gen: 644   avg_fitness: 226442093	   max_fitness: 1476768190	   winner: PARENT      
+epoch: E01   gen: 645   avg_fitness: 191202862	   max_fitness: 1228406892	   winner: PARENT      
+epoch: E01   gen: 646   avg_fitness: 251552184	   max_fitness: 1258588494	   winner: NEWSPEC  0.45  0.97
+epoch: E01   gen: 647   avg_fitness: 210668390	   max_fitness: 897888027	   winner: PARENT      
+epoch: E01   gen: 648   avg_fitness: 149862582	   max_fitness: 1157167281	   winner: CROSS      
+epoch: E01   gen: 649   avg_fitness: 223416006	   max_fitness: 1006474100	   winner: PARENT      
+epoch: E01   gen: 650   avg_fitness: 290233791	   max_fitness: 1801578151	   winner: CROSS      
+epoch: E01   gen: 651   avg_fitness: 215226928	   max_fitness: 1590529539	   winner: PARENT      
+epoch: E01   gen: 652   avg_fitness: 289005614	   max_fitness: 1228900496	   winner: PARENT      
+epoch: E01   gen: 653   avg_fitness: 338970218	   max_fitness: 2336576378	   winner: PARENT      
+epoch: E01   gen: 654   avg_fitness: 362582294	   max_fitness: 1588958483	   winner: PARENT      
+epoch: E01   gen: 655   avg_fitness: 274315817	   max_fitness: 1882003776	   winner: PARENT      
+epoch: E01   gen: 656   avg_fitness: 313858141	   max_fitness: 1751280211	   winner: PARENT      
+epoch: E01   gen: 657   avg_fitness: 390231147	   max_fitness: 1941437222	   winner: PARENT      
+epoch: E01   gen: 658   avg_fitness: 291187505	   max_fitness: 1736708528	   winner: CROSS      
+epoch: E01   gen: 659   avg_fitness: 509668320	   max_fitness: 2028255246	   winner: PARENT      
+epoch: E01   gen: 660   avg_fitness: 253468172	   max_fitness: 1182919455	   winner: CROSS      
+epoch: E01   gen: 661   avg_fitness: 207798306	   max_fitness: 1149111705	   winner: PARENT      
+epoch: E01   gen: 662   avg_fitness: 209111669	   max_fitness: 1495077321	   winner: CROSS      
+epoch: E01   gen: 663   avg_fitness: 209979235	   max_fitness: 1622188661	   winner: CROSS      
+epoch: E01   gen: 664   avg_fitness: 245339127	   max_fitness: 1117632037	   winner: PARENT      
+epoch: E01   gen: 665   avg_fitness: 203873131	   max_fitness: 1179136398	   winner: PARENT      
+epoch: E01   gen: 666   avg_fitness: 286695219	   max_fitness: 1947621080	   winner: PARENT      
+epoch: E01   gen: 667   avg_fitness: 328711503	   max_fitness: 1475202154	   winner: MUTANT  0.1   
+epoch: E01   gen: 668   avg_fitness: 375877298	   max_fitness: 1351965021	   winner: PARENT      
+epoch: E01   gen: 669   avg_fitness: 258866693	   max_fitness: 1323844781	   winner: PARENT      
+epoch: E01   gen: 670   avg_fitness: 251843750	   max_fitness: 1756123296	   winner: PARENT      
+epoch: E01   gen: 671   avg_fitness: 19825485	   max_fitness: 265427072	   winner: NEWSPEC  0.83  0.9
+epoch: E01   gen: 672   avg_fitness: 19352879	   max_fitness: 154794504	   winner: MUTANT  0.1   
+epoch: E01   gen: 673   avg_fitness: 46222255	   max_fitness: 131671348	   winner: CROSS      
+epoch: E01   gen: 674   avg_fitness: 55137779	   max_fitness: 357409226	   winner: MUTANT  0.06   
+epoch: E01   gen: 675   avg_fitness: 80378283	   max_fitness: 495303573	   winner: PARENT      
+epoch: E01   gen: 676   avg_fitness: 116713607	   max_fitness: 807753951	   winner: MUTANT  0.13   
+epoch: E01   gen: 677   avg_fitness: 124369858	   max_fitness: 875782844	   winner: PARENT      
+epoch: E01   gen: 678   avg_fitness: 83946662	   max_fitness: 516192954	   winner: MUTANT  0.12   
+epoch: E01   gen: 679   avg_fitness: 61965229	   max_fitness: 503804083	   winner: MUTANT  0.13   
+epoch: E01   gen: 680   avg_fitness: 36808757	   max_fitness: 269975853	   winner: MUTANT  0.18   
+epoch: E01   gen: 681   avg_fitness: 91438367	   max_fitness: 328938368	   winner: CROSS      
+epoch: E01   gen: 682   avg_fitness: 147685882	   max_fitness: 809771518	   winner: MUTANT  0.19   
+epoch: E01   gen: 683   avg_fitness: 116682287	   max_fitness: 605358344	   winner: PARENT      
+epoch: E01   gen: 684   avg_fitness: 191290943	   max_fitness: 958809383	   winner: MUTANT  0.09   
+epoch: E01   gen: 685   avg_fitness: 59960368	   max_fitness: 231790850	   winner: PARENT      
+epoch: E01   gen: 686   avg_fitness: 31153956	   max_fitness: 207851776	   winner: MUTANT  0.12   
+epoch: E01   gen: 687   avg_fitness: 57146093	   max_fitness: 206558264	   winner: MUTANT  0.17   
+epoch: E01   gen: 688   avg_fitness: 91448827	   max_fitness: 377240054	   winner: MUTANT  0.11   
+epoch: E01   gen: 689   avg_fitness: 55647951	   max_fitness: 220279750	   winner: MUTANT  0.05   
+epoch: E01   gen: 690   avg_fitness: 121382173	   max_fitness: 361304318	   winner: MUTANT  0.09   
+epoch: E01   gen: 691   avg_fitness: 101593457	   max_fitness: 411539147	   winner: PARENT      
+epoch: E01   gen: 692   avg_fitness: 142268598	   max_fitness: 392093308	   winner: MUTANT  0.07   
+epoch: E01   gen: 693   avg_fitness: 92808593	   max_fitness: 537446175	   winner: MUTANT  0.07   
+epoch: E01   gen: 694   avg_fitness: 199556357	   max_fitness: 747210131	   winner: MUTANT  0.19   
+epoch: E01   gen: 695   avg_fitness: 53889410	   max_fitness: 848937768	   winner: NEWSPEC  0.84  0.76
+epoch: E01   gen: 696   avg_fitness: 25295436	   max_fitness: 126033190	   winner: MUTANT  0.16   
+epoch: E01   gen: 697   avg_fitness: 145968775	   max_fitness: 726741061	   winner: PARENT      
+epoch: E01   gen: 698   avg_fitness: 31845194	   max_fitness: 229183812	   winner: MUTANT  0.06   
+epoch: E01   gen: 699   avg_fitness: 120609633	   max_fitness: 933796384	   winner: PARENT      
+epoch: E01   gen: 700   avg_fitness: 83161269	   max_fitness: 774195095	   winner: PARENT      
+epoch: E01   gen: 701   avg_fitness: 99421801	   max_fitness: 662648119	   winner: MUTANT  0.14   
+epoch: E01   gen: 702   avg_fitness: 78070228	   max_fitness: 393095942	   winner: PARENT      
+epoch: E01   gen: 703   avg_fitness: 62463537	   max_fitness: 305360016	   winner: PARENT      
+epoch: E01   gen: 704   avg_fitness: 71691603	   max_fitness: 254689214	   winner: MUTANT  0.18   
+epoch: E01   gen: 705   avg_fitness: 147657141	   max_fitness: 624203551	   winner: MUTANT  0.2   
+epoch: E01   gen: 706   avg_fitness: 117446930	   max_fitness: 472740520	   winner: MUTANT  0.13   
+epoch: E01   gen: 707   avg_fitness: 135639949	   max_fitness: 545148756	   winner: CROSS      
+epoch: E01   gen: 708   avg_fitness: 83572555	   max_fitness: 337631133	   winner: MUTANT  0.17   
+epoch: E01   gen: 709   avg_fitness: 189472738	   max_fitness: 844224044	   winner: CROSS      
+epoch: E01   gen: 710   avg_fitness: 151870872	   max_fitness: 593887522	   winner: MUTANT  0.05   
+epoch: E01   gen: 711   avg_fitness: 140211900	   max_fitness: 665312962	   winner: PARENT      
+epoch: E01   gen: 712   avg_fitness: 147433732	   max_fitness: 505672361	   winner: MUTANT  0.1   
+epoch: E01   gen: 713   avg_fitness: 115967832	   max_fitness: 743912888	   winner: MUTANT  0.12   
+epoch: E01   gen: 714   avg_fitness: 101953306	   max_fitness: 509951037	   winner: MUTANT  0.11   
+epoch: E01   gen: 715   avg_fitness: 178802811	   max_fitness: 714657914	   winner: MUTANT  0.15   
+epoch: E01   gen: 716   avg_fitness: 216077334	   max_fitness: 722333325	   winner: PARENT      
+epoch: E01   gen: 717   avg_fitness: 264589160	   max_fitness: 991539220	   winner: PARENT      
+epoch: E01   gen: 718   avg_fitness: 284620247	   max_fitness: 816433060	   winner: PARENT      
+epoch: E01   gen: 719   avg_fitness: 188300945	   max_fitness: 759388524	   winner: MUTANT  0.07   
+epoch: E01   gen: 720   avg_fitness: 225853939	   max_fitness: 667686094	   winner: MUTANT  0.1   
+epoch: E01   gen: 721   avg_fitness: 258781522	   max_fitness: 933826730	   winner: MUTANT  0.11   
+epoch: E01   gen: 722   avg_fitness: 132471087	   max_fitness: 704355472	   winner: MUTANT  0.08   
+epoch: E01   gen: 723   avg_fitness: 280963686	   max_fitness: 1152004011	   winner: CROSS      
+epoch: E01   gen: 724   avg_fitness: 160011036	   max_fitness: 590934630	   winner: MUTANT  0.1   
+epoch: E01   gen: 725   avg_fitness: 174548565	   max_fitness: 1008223487	   winner: NEWSPEC  1.04  0.98
+epoch: E01   gen: 726   avg_fitness: 170802641	   max_fitness: 714110685	   winner: MUTANT  0.05   
+epoch: E01   gen: 727   avg_fitness: 201413450	   max_fitness: 927596129	   winner: MUTANT  0.17   
+epoch: E01   gen: 728   avg_fitness: 376890699	   max_fitness: 1091949821	   winner: MUTANT  0.14   
+epoch: E01   gen: 729   avg_fitness: 268922681	   max_fitness: 1500562769	   winner: MUTANT  0.08   
+epoch: E01   gen: 730   avg_fitness: 112009538	   max_fitness: 843787213	   winner: PARENT      
+epoch: E01   gen: 731   avg_fitness: 160246366	   max_fitness: 499032776	   winner: MUTANT  0.08   
+epoch: E01   gen: 732   avg_fitness: 226526408	   max_fitness: 1248324178	   winner: PARENT      
+epoch: E01   gen: 733   avg_fitness: 92523207	   max_fitness: 1256248893	   winner: CROSS      
+epoch: E01   gen: 734   avg_fitness: 53248851	   max_fitness: 864687175	   winner: CROSS      
+epoch: E01   gen: 735   avg_fitness: 65119979	   max_fitness: 787512424	   winner: NEWSPEC  0.69  0.9
+epoch: E01   gen: 736   avg_fitness: 47597293	   max_fitness: 551736947	   winner: PARENT      
+epoch: E01   gen: 737   avg_fitness: 195004607	   max_fitness: 1075348290	   winner: MUTANT  0.17   
+epoch: E01   gen: 738   avg_fitness: 227104725	   max_fitness: 775071701	   winner: MUTANT  0.12   
+epoch: E01   gen: 739   avg_fitness: 163862009	   max_fitness: 1064466812	   winner: PARENT      
+epoch: E01   gen: 740   avg_fitness: 268680364	   max_fitness: 1560217370	   winner: MUTANT  0.15   
+epoch: E01   gen: 741   avg_fitness: 340191917	   max_fitness: 1864207756	   winner: PARENT      
+epoch: E01   gen: 742   avg_fitness: 255628959	   max_fitness: 1435490971	   winner: PARENT      
+epoch: E01   gen: 743   avg_fitness: 346489990	   max_fitness: 2460693762	   winner: CROSS      
+epoch: E01   gen: 744   avg_fitness: 148984856	   max_fitness: 786352345	   winner: MUTANT  0.14   
+epoch: E01   gen: 745   avg_fitness: 156802955	   max_fitness: 924944142	   winner: MUTANT  0.18   
+epoch: E01   gen: 746   avg_fitness: 437652247	   max_fitness: 1375226460	   winner: PARENT      
+epoch: E01   gen: 747   avg_fitness: 257291046	   max_fitness: 1230378163	   winner: PARENT      
+epoch: E01   gen: 748   avg_fitness: 232923850	   max_fitness: 1148707336	   winner: PARENT      
+epoch: E01   gen: 749   avg_fitness: 482827725	   max_fitness: 2006247896	   winner: MUTANT  0.07   
+epoch: E01   gen: 750   avg_fitness: 392767939	   max_fitness: 1663375522	   winner: PARENT      
+epoch: E01   gen: 751   avg_fitness: 379815652	   max_fitness: 1932464333	   winner: CROSS      
+epoch: E01   gen: 752   avg_fitness: 307859246	   max_fitness: 1565638316	   winner: PARENT      
+epoch: E01   gen: 753   avg_fitness: 463748347	   max_fitness: 1600433226	   winner: PARENT      
+epoch: E01   gen: 754   avg_fitness: 381819699	   max_fitness: 2004657587	   winner: PARENT      
+epoch: E01   gen: 755   avg_fitness: 596841065	   max_fitness: 1449750766	   winner: MUTANT  0.06   
+epoch: E01   gen: 756   avg_fitness: 327862216	   max_fitness: 2758988143	   winner: MUTANT  0.11   
+epoch: E01   gen: 757   avg_fitness: 31523180	   max_fitness: 417791610	   winner: PARENT      
+epoch: E01   gen: 758   avg_fitness: 87661328	   max_fitness: 1241920192	   winner: MUTANT  0.14   
+epoch: E01   gen: 759   avg_fitness: 99363307	   max_fitness: 1237458122	   winner: PARENT      
+epoch: E01   gen: 760   avg_fitness: 304394972	   max_fitness: 2170690877	   winner: PARENT      
+epoch: E01   gen: 761   avg_fitness: 35846371	   max_fitness: 238184798	   winner: CROSS      
+epoch: E01   gen: 762   avg_fitness: 98456436	   max_fitness: 1173943425	   winner: PARENT      
+epoch: E01   gen: 763   avg_fitness: 65769981	   max_fitness: 918055095	   winner: PARENT      
+epoch: E01   gen: 764   avg_fitness: 286365605	   max_fitness: 2541692266	   winner: NEWSPEC  0.46  0.99
+epoch: E01   gen: 765   avg_fitness: 23632614	   max_fitness: 157827916	   winner: NEWSPEC  0.47  0.98
+epoch: E01   gen: 766   avg_fitness: 73824069	   max_fitness: 568826573	   winner: PARENT      
+epoch: E01   gen: 767   avg_fitness: 164153588	   max_fitness: 936138980	   winner: MUTANT  0.05   
+epoch: E01   gen: 768   avg_fitness: 117287764	   max_fitness: 685246584	   winner: PARENT      
+epoch: E01   gen: 769   avg_fitness: 141908947	   max_fitness: 1018053609	   winner: MUTANT  0.07   
+epoch: E01   gen: 770   avg_fitness: 49974732	   max_fitness: 408382702	   winner: MUTANT  0.11   
+epoch: E01   gen: 771   avg_fitness: 70896452	   max_fitness: 676751137	   winner: PARENT      
+epoch: E01   gen: 772   avg_fitness: 53971795	   max_fitness: 597148496	   winner: MUTANT  0.12   
+epoch: E01   gen: 773   avg_fitness: 89266767	   max_fitness: 845455213	   winner: CROSS      
+epoch: E01   gen: 774   avg_fitness: 121343914	   max_fitness: 1269528910	   winner: CROSS      
+epoch: E01   gen: 775   avg_fitness: 149310794	   max_fitness: 1999088774	   winner: MUTANT  0.12   
+epoch: E01   gen: 776   avg_fitness: 212572081	   max_fitness: 959636936	   winner: MUTANT  0.09   
+epoch: E01   gen: 777   avg_fitness: 4287864	   max_fitness: 75202219	   winner: PARENT      
+epoch: E01   gen: 778   avg_fitness: 69661442	   max_fitness: 1012540561	   winner: PARENT      
+epoch: E01   gen: 779   avg_fitness: 34156543	   max_fitness: 394194085	   winner: PARENT      
+epoch: E01   gen: 780   avg_fitness: 2750872	   max_fitness: 32059759	   winner: PARENT      
+epoch: E01   gen: 781   avg_fitness: 78047670	   max_fitness: 981769917	   winner: PARENT      
+epoch: E01   gen: 782   avg_fitness: 73466498	   max_fitness: 932299949	   winner: CROSS      
+epoch: E01   gen: 783   avg_fitness: 44756847	   max_fitness: 520957802	   winner: MUTANT  0.08   
+epoch: E01   gen: 784   avg_fitness: 26036469	   max_fitness: 351377071	   winner: PARENT      
+epoch: E01   gen: 785   avg_fitness: 12578478	   max_fitness: 188852777	   winner: MUTANT  0.05   
+epoch: E01   gen: 786   avg_fitness: 25681602	   max_fitness: 301341331	   winner: PARENT      
+epoch: E01   gen: 787   avg_fitness: 44312018	   max_fitness: 838707308	   winner: PARENT      
+epoch: E01   gen: 788   avg_fitness: 30185633	   max_fitness: 433924055	   winner: PARENT      
+epoch: E01   gen: 789   avg_fitness: 93334714	   max_fitness: 806713604	   winner: MUTANT  0.12   
+epoch: E01   gen: 790   avg_fitness: 56083694	   max_fitness: 706847518	   winner: MUTANT  0.07   
+epoch: E01   gen: 791   avg_fitness: 74623918	   max_fitness: 648738592	   winner: PARENT      
+epoch: E01   gen: 792   avg_fitness: 25852452	   max_fitness: 249337338	   winner: PARENT      
+epoch: E01   gen: 793   avg_fitness: 126180186	   max_fitness: 1364581682	   winner: MUTANT  0.09   
+epoch: E01   gen: 794   avg_fitness: 26290761	   max_fitness: 151317341	   winner: MUTANT  0.07   
+epoch: E01   gen: 795   avg_fitness: 56838748	   max_fitness: 790573110	   winner: MUTANT  0.12   
+epoch: E01   gen: 796   avg_fitness: 141895146	   max_fitness: 1811144304	   winner: CROSS      
+epoch: E01   gen: 797   avg_fitness: 92950817	   max_fitness: 1410964753	   winner: CROSS      
+epoch: E01   gen: 798   avg_fitness: 161036495	   max_fitness: 995111769	   winner: MUTANT  0.17   
+epoch: E01   gen: 799   avg_fitness: 140513803	   max_fitness: 817839372	   winner: MUTANT  0.06   
+epoch: E01   gen: 800   avg_fitness: 88098126	   max_fitness: 631772323	   winner: MUTANT  0.13   
+epoch: E01   gen: 801   avg_fitness: 251010000	   max_fitness: 1471620167	   winner: PARENT      
+epoch: E01   gen: 802   avg_fitness: 177473746	   max_fitness: 1349625516	   winner: MUTANT  0.18   
+epoch: E01   gen: 803   avg_fitness: 236589328	   max_fitness: 2199714546	   winner: PARENT      
+epoch: E01   gen: 804   avg_fitness: 11918489	   max_fitness: 130390952	   winner: MUTANT  0.15   
+epoch: E01   gen: 805   avg_fitness: 82889668	   max_fitness: 476530788	   winner: PARENT      
+epoch: E01   gen: 806   avg_fitness: 34767709	   max_fitness: 376183341	   winner: MUTANT  0.14   
+epoch: E01   gen: 807   avg_fitness: 244248072	   max_fitness: 1267297069	   winner: NEWSPEC  0.43  0.94
+epoch: E01   gen: 808   avg_fitness: 138363697	   max_fitness: 1534048077	   winner: MUTANT  0.13   
+epoch: E01   gen: 809   avg_fitness: 46746446	   max_fitness: 616033101	   winner: CROSS      
+epoch: E01   gen: 810   avg_fitness: 46488887	   max_fitness: 604156760	   winner: MUTANT  0.14   
+epoch: E01   gen: 811   avg_fitness: 21799237	   max_fitness: 293387046	   winner: MUTANT  0.08   
+epoch: E01   gen: 812   avg_fitness: 89566832	   max_fitness: 1078966639	   winner: MUTANT  0.1   
+epoch: E01   gen: 813   avg_fitness: 77110552	   max_fitness: 956010597	   winner: PARENT      
+epoch: E01   gen: 814   avg_fitness: 26717902	   max_fitness: 190457619	   winner: MUTANT  0.18   
+epoch: E01   gen: 815   avg_fitness: 20406087	   max_fitness: 243165988	   winner: MUTANT  0.11   
+epoch: E01   gen: 816   avg_fitness: 71839957	   max_fitness: 336235131	   winner: MUTANT  0.12   
+epoch: E01   gen: 817   avg_fitness: 72274993	   max_fitness: 616936041	   winner: MUTANT  0.07   
+epoch: E01   gen: 818   avg_fitness: 55956412	   max_fitness: 500551914	   winner: MUTANT  0.07   
+epoch: E01   gen: 819   avg_fitness: 36278008	   max_fitness: 517829671	   winner: MUTANT  0.14   
+epoch: E01   gen: 820   avg_fitness: 31331683	   max_fitness: 420746205	   winner: MUTANT  0.06   
+epoch: E01   gen: 821   avg_fitness: 62041147	   max_fitness: 706821790	   winner: MUTANT  0.2   
+epoch: E01   gen: 822   avg_fitness: 96384083	   max_fitness: 924554473	   winner: MUTANT  0.09   
+epoch: E01   gen: 823   avg_fitness: 71405142	   max_fitness: 832717712	   winner: MUTANT  0.18   
+epoch: E01   gen: 824   avg_fitness: 156397545	   max_fitness: 1190789031	   winner: NEWSPEC  0.77  0.89
+epoch: E01   gen: 825   avg_fitness: 106071245	   max_fitness: 687787046	   winner: MUTANT  0.06   
+epoch: E01   gen: 826   avg_fitness: 35373340	   max_fitness: 331244517	   winner: MUTANT  0.06   
+epoch: E01   gen: 827   avg_fitness: 42714878	   max_fitness: 562231043	   winner: NEWSPEC  0.73  1.0
+epoch: E01   gen: 828   avg_fitness: 39382942	   max_fitness: 591356039	   winner: MUTANT  0.12   
+epoch: E01   gen: 829   avg_fitness: 10153805	   max_fitness: 109466429	   winner: MUTANT  0.08   
+epoch: E01   gen: 830   avg_fitness: 3530966	   max_fitness: 33414558	   winner: MUTANT  0.15   
+epoch: E01   gen: 831   avg_fitness: 8737894	   max_fitness: 150014763	   winner: PARENT      
+epoch: E01   gen: 832   avg_fitness: 9358513	   max_fitness: 137855899	   winner: CROSS      
+epoch: E01   gen: 833   avg_fitness: 59239910	   max_fitness: 589097470	   winner: NEWSPEC  0.48  0.74
+epoch: E01   gen: 834   avg_fitness: 32749656	   max_fitness: 396520903	   winner: MUTANT  0.09   
+epoch: E01   gen: 835   avg_fitness: 22351756	   max_fitness: 269229145	   winner: MUTANT  0.16   
+epoch: E01   gen: 836   avg_fitness: 99060416	   max_fitness: 1478432912	   winner: MUTANT  0.09   
+epoch: E01   gen: 837   avg_fitness: 5659513	   max_fitness: 69814916	   winner: PARENT      
+epoch: E01   gen: 838   avg_fitness: 3923573	   max_fitness: 33299146	   winner: MUTANT  0.13   
+epoch: E01   gen: 839   avg_fitness: 14658784	   max_fitness: 170312185	   winner: MUTANT  0.09   
+epoch: E01   gen: 840   avg_fitness: 66932777	   max_fitness: 669272688	   winner: NEWSPEC  0.43  0.97
+epoch: E01   gen: 841   avg_fitness: 10831689	   max_fitness: 167071675	   winner: PARENT      
+epoch: E01   gen: 842   avg_fitness: 26098747	   max_fitness: 279525152	   winner: NEWSPEC  0.72  0.89
+epoch: E01   gen: 843   avg_fitness: 110716263	   max_fitness: 1693237779	   winner: MUTANT  0.14   
+epoch: E01   gen: 844   avg_fitness: 47279112	   max_fitness: 859354262	   winner: PARENT      
+epoch: E01   gen: 845   avg_fitness: 2768135	   max_fitness: 33329348	   winner: CROSS      
+epoch: E01   gen: 846   avg_fitness: 69533857	   max_fitness: 743096591	   winner: MUTANT  0.11   
+epoch: E01   gen: 847   avg_fitness: 60292187	   max_fitness: 604810187	   winner: MUTANT  0.18   
+epoch: E01   gen: 848   avg_fitness: 4286750	   max_fitness: 71342996	   winner: PARENT      
+epoch: E01   gen: 849   avg_fitness: 3685491	   max_fitness: 34741862	   winner: PARENT      
+epoch: E01   gen: 850   avg_fitness: 114688173	   max_fitness: 1591260765	   winner: PARENT      
+epoch: E01   gen: 851   avg_fitness: 86341772	   max_fitness: 879018153	   winner: CROSS      
+epoch: E01   gen: 852   avg_fitness: 21944015	   max_fitness: 304327633	   winner: MUTANT  0.14   
+epoch: E01   gen: 853   avg_fitness: 24102596	   max_fitness: 196391811	   winner: NEWSPEC  0.45  0.98
+epoch: E01   gen: 854   avg_fitness: 1382732	   max_fitness: 13248591	   winner: MUTANT  0.19   
+epoch: E01   gen: 855   avg_fitness: 66196665	   max_fitness: 1119028334	   winner: NEWSPEC  0.55  0.85
+epoch: E01   gen: 856   avg_fitness: 876238	   max_fitness: 14023816	   winner: PARENT      
+epoch: E01   gen: 857   avg_fitness: 13315554	   max_fitness: 95392906	   winner: NEWSPEC  0.71  0.72
+epoch: E01   gen: 858   avg_fitness: 65659979	   max_fitness: 556179577	   winner: MUTANT  0.15   
+epoch: E01   gen: 859   avg_fitness: 530206	   max_fitness: 3173339	   winner: PARENT      
+epoch: E01   gen: 860   avg_fitness: 8562256	   max_fitness: 151972172	   winner: MUTANT  0.08   
+epoch: E01   gen: 861   avg_fitness: 222255	   max_fitness: 2105584	   winner: MUTANT  0.15   
+epoch: E01   gen: 862   avg_fitness: 5383557	   max_fitness: 58661479	   winner: MUTANT  0.2   
+epoch: E01   gen: 863   avg_fitness: 20022914	   max_fitness: 242921292	   winner: MUTANT  0.09   
+epoch: E01   gen: 864   avg_fitness: 6565568	   max_fitness: 90639056	   winner: MUTANT  0.19   
+epoch: E01   gen: 865   avg_fitness: 17565747	   max_fitness: 228897849	   winner: MUTANT  0.19   
+epoch: E01   gen: 866   avg_fitness: 60123666	   max_fitness: 465399797	   winner: MUTANT  0.14   
+epoch: E01   gen: 867   avg_fitness: 15427904	   max_fitness: 281614318	   winner: MUTANT  0.17   
+epoch: E01   gen: 868   avg_fitness: 122677692	   max_fitness: 1172872997	   winner: MUTANT  0.11   
+epoch: E01   gen: 869   avg_fitness: 23693036	   max_fitness: 179283371	   winner: MUTANT  0.06   
+epoch: E01   gen: 870   avg_fitness: 2429404	   max_fitness: 28602749	   winner: MUTANT  0.08   
+epoch: E01   gen: 871   avg_fitness: 20479999	   max_fitness: 182085987	   winner: MUTANT  0.13   
+epoch: E01   gen: 872   avg_fitness: 15996728	   max_fitness: 271700936	   winner: PARENT      
+epoch: E01   gen: 873   avg_fitness: 5913781	   max_fitness: 63257821	   winner: MUTANT  0.17   
+epoch: E01   gen: 874   avg_fitness: 48824801	   max_fitness: 870164699	   winner: NEWSPEC  0.59  0.76
+epoch: E01   gen: 875   avg_fitness: 34271318	   max_fitness: 590773771	   winner: MUTANT  0.06   
+epoch: E01   gen: 876   avg_fitness: 7335790	   max_fitness: 68505277	   winner: PARENT      
+epoch: E01   gen: 877   avg_fitness: 4055182	   max_fitness: 32253232	   winner: PARENT      
+epoch: E01   gen: 878   avg_fitness: 34862901	   max_fitness: 492430178	   winner: MUTANT  0.11   
+epoch: E01   gen: 879   avg_fitness: 1490786	   max_fitness: 15530585	   winner: NEWSPEC  0.62  0.75
+epoch: E01   gen: 880   avg_fitness: 96124627	   max_fitness: 637493362	   winner: MUTANT  0.07   
+epoch: E01   gen: 881   avg_fitness: 189575603	   max_fitness: 2298393618	   winner: MUTANT  0.09   
+epoch: E01   gen: 882   avg_fitness: 163474886	   max_fitness: 1778704516	   winner: MUTANT  0.06   
+epoch: E01   gen: 883   avg_fitness: 305022414	   max_fitness: 2594382607	   winner: PARENT      
+epoch: E01   gen: 884   avg_fitness: 277134378	   max_fitness: 1973466941	   winner: MUTANT  0.08   
+epoch: E01   gen: 885   avg_fitness: 291776640	   max_fitness: 1700595379	   winner: PARENT      
+epoch: E01   gen: 886   avg_fitness: 234346903	   max_fitness: 1326623619	   winner: CROSS      
+epoch: E01   gen: 887   avg_fitness: 290279465	   max_fitness: 1706204955	   winner: CROSS      
+epoch: E01   gen: 888   avg_fitness: 315445209	   max_fitness: 1635137977	   winner: CROSS      
+epoch: E01   gen: 889   avg_fitness: 133327920	   max_fitness: 895058653	   winner: PARENT      
+epoch: E01   gen: 890   avg_fitness: 439671377	   max_fitness: 1996171042	   winner: MUTANT  0.06   
+epoch: E01   gen: 891   avg_fitness: 382025865	   max_fitness: 2094275204	   winner: PARENT      
+epoch: E01   gen: 892   avg_fitness: 125952855	   max_fitness: 588315761	   winner: MUTANT  0.11   
+epoch: E01   gen: 893   avg_fitness: 66719296	   max_fitness: 404521409	   winner: MUTANT  0.12   
+epoch: E01   gen: 894   avg_fitness: 175633000	   max_fitness: 2150110256	   winner: PARENT      
+epoch: E01   gen: 895   avg_fitness: 304980166	   max_fitness: 2082934553	   winner: MUTANT  0.07   
+epoch: E01   gen: 896   avg_fitness: 285500111	   max_fitness: 1394058252	   winner: NEWSPEC  0.8  0.98
+epoch: E01   gen: 897   avg_fitness: 173198059	   max_fitness: 1877264094	   winner: MUTANT  0.06   
+epoch: E01   gen: 898   avg_fitness: 345763487	   max_fitness: 1720318424	   winner: PARENT      
+epoch: E01   gen: 899   avg_fitness: 353199790	   max_fitness: 2419911687	   winner: MUTANT  0.08   
+epoch: E01   gen: 900   avg_fitness: 404116467	   max_fitness: 1928358919	   winner: MUTANT  0.08   
+epoch: E01   gen: 901   avg_fitness: 623118472	   max_fitness: 3107174702	   winner: MUTANT  0.11   
+epoch: E01   gen: 902   avg_fitness: 925252986	   max_fitness: 4396019861	   winner: PARENT      
+epoch: E01   gen: 903   avg_fitness: 1160297206	   max_fitness: 4277021907	   winner: PARENT      
+epoch: E01   gen: 904   avg_fitness: 1203758693	   max_fitness: 3623214560	   winner: MUTANT  0.06   
+epoch: E01   gen: 905   avg_fitness: 1162532990	   max_fitness: 3978506340	   winner: CROSS      
+epoch: E01   gen: 906   avg_fitness: 1147693471	   max_fitness: 4370196979	   winner: PARENT      
+epoch: E01   gen: 907   avg_fitness: 814638257	   max_fitness: 3763317030	   winner: PARENT      
+epoch: E01   gen: 908   avg_fitness: 1422212774	   max_fitness: 3901608923	   winner: CROSS      
+epoch: E01   gen: 909   avg_fitness: 1366727223	   max_fitness: 6261674827	   winner: CROSS      
+epoch: E01   gen: 910   avg_fitness: 1423812213	   max_fitness: 5089874643	   winner: MUTANT  0.16   
+epoch: E01   gen: 911   avg_fitness: 1261936449	   max_fitness: 4041406515	   winner: NEWSPEC  0.54  0.99
+epoch: E01   gen: 912   avg_fitness: 1527360097	   max_fitness: 4578514847	   winner: NEWSPEC  0.71  0.98
+epoch: E01   gen: 913   avg_fitness: 1296043840	   max_fitness: 5659223886	   winner: CROSS      
+epoch: E01   gen: 914   avg_fitness: 868486185	   max_fitness: 3639914507	   winner: PARENT      
+epoch: E01   gen: 915   avg_fitness: 1290605931	   max_fitness: 3914835775	   winner: MUTANT  0.06   
+epoch: E01   gen: 916   avg_fitness: 1417898895	   max_fitness: 3930655499	   winner: PARENT      
+epoch: E01   gen: 917   avg_fitness: 1742989093	   max_fitness: 5544526795	   winner: PARENT      
+epoch: E01   gen: 918   avg_fitness: 1258921841	   max_fitness: 3621015375	   winner: MUTANT  0.08   
+epoch: E01   gen: 919   avg_fitness: 1571191578	   max_fitness: 8853848573	   winner: PARENT      
+epoch: E01   gen: 920   avg_fitness: 1042549950	   max_fitness: 2752583736	   winner: CROSS      
+epoch: E01   gen: 921   avg_fitness: 1115309457	   max_fitness: 4098405642	   winner: PARENT      
+epoch: E01   gen: 922   avg_fitness: 1009824431	   max_fitness: 4883039159	   winner: PARENT      
+epoch: E01   gen: 923   avg_fitness: 2321447378	   max_fitness: 5880735134	   winner: PARENT      
+epoch: E01   gen: 924   avg_fitness: 1246562620	   max_fitness: 4407952231	   winner: PARENT      
+epoch: E01   gen: 925   avg_fitness: 1308371887	   max_fitness: 4303945810	   winner: MUTANT  0.12   
+epoch: E01   gen: 926   avg_fitness: 588804469	   max_fitness: 3321030639	   winner: PARENT      
+epoch: E01   gen: 927   avg_fitness: 1491901911	   max_fitness: 4192943702	   winner: PARENT      
+epoch: E01   gen: 928   avg_fitness: 1897144450	   max_fitness: 6131092950	   winner: NEWSPEC  0.4  0.95
+epoch: E01   gen: 929   avg_fitness: 1711641832	   max_fitness: 5855671391	   winner: MUTANT  0.07   
+epoch: E01   gen: 930   avg_fitness: 1854256779	   max_fitness: 6255075438	   winner: NEWSPEC  0.4  0.92
+epoch: E01   gen: 931   avg_fitness: 1034611459	   max_fitness: 4874457828	   winner: PARENT      
+epoch: E01   gen: 932   avg_fitness: 2209317801	   max_fitness: 4529861118	   winner: CROSS      
+epoch: E01   gen: 933   avg_fitness: 1740863996	   max_fitness: 5280078963	   winner: PARENT      
+epoch: E01   gen: 934   avg_fitness: 2127201917	   max_fitness: 4110033962	   winner: MUTANT  0.06   
+epoch: E01   gen: 935   avg_fitness: 1531300369	   max_fitness: 4168425004	   winner: MUTANT  0.11   
+epoch: E01   gen: 936   avg_fitness: 2007138178	   max_fitness: 4822614558	   winner: PARENT      
+epoch: E01   gen: 937   avg_fitness: 1695908736	   max_fitness: 4281146701	   winner: PARENT      
+epoch: E01   gen: 938   avg_fitness: 2875368693	   max_fitness: 5969479539	   winner: NEWSPEC  0.69  0.98
+epoch: E01   gen: 939   avg_fitness: 2367511173	   max_fitness: 5259063356	   winner: MUTANT  0.12   
+epoch: E01   gen: 940   avg_fitness: 650779104	   max_fitness: 3958800438	   winner: MUTANT  0.06   
+epoch: E01   gen: 941   avg_fitness: 1255047629	   max_fitness: 4319505088	   winner: PARENT      
+epoch: E01   gen: 942   avg_fitness: 2006283334	   max_fitness: 7431852640	   winner: MUTANT  0.05   
+epoch: E01   gen: 943   avg_fitness: 2109929109	   max_fitness: 6630594398	   winner: PARENT      
+epoch: E01   gen: 944   avg_fitness: 1559054604	   max_fitness: 3906472368	   winner: PARENT      
+epoch: E01   gen: 945   avg_fitness: 2310305352	   max_fitness: 5230542782	   winner: NEWSPEC  0.43  0.85
+epoch: E01   gen: 946   avg_fitness: 1985319710	   max_fitness: 4495876660	   winner: MUTANT  0.07   
+epoch: E01   gen: 947   avg_fitness: 1875084176	   max_fitness: 4173564902	   winner: PARENT      
+epoch: E01   gen: 948   avg_fitness: 2483001076	   max_fitness: 5719040876	   winner: MUTANT  0.16   
+epoch: E01   gen: 949   avg_fitness: 1719687643	   max_fitness: 5104997936	   winner: CROSS      
+epoch: E01   gen: 950   avg_fitness: 2363555034	   max_fitness: 5134209715	   winner: MUTANT  0.13   
+epoch: E01   gen: 951   avg_fitness: 1995549578	   max_fitness: 4328021142	   winner: MUTANT  0.07   
+epoch: E01   gen: 952   avg_fitness: 2286679042	   max_fitness: 4556965972	   winner: PARENT      
+epoch: E01   gen: 953   avg_fitness: 2699582536	   max_fitness: 4959579829	   winner: MUTANT  0.05   
+epoch: E01   gen: 954   avg_fitness: 2111070937	   max_fitness: 5212620703	   winner: MUTANT  0.06   
+epoch: E01   gen: 955   avg_fitness: 1488769865	   max_fitness: 4897246672	   winner: PARENT      
+epoch: E01   gen: 956   avg_fitness: 2209953034	   max_fitness: 5124547596	   winner: MUTANT  0.17   
+epoch: E01   gen: 957   avg_fitness: 2393181767	   max_fitness: 6015504509	   winner: MUTANT  0.06   
+epoch: E01   gen: 958   avg_fitness: 2613500425	   max_fitness: 5932896079	   winner: PARENT      
+epoch: E01   gen: 959   avg_fitness: 1592931009	   max_fitness: 7965423628	   winner: PARENT      
+epoch: E01   gen: 960   avg_fitness: 1979398274	   max_fitness: 6162620053	   winner: MUTANT  0.13   
+epoch: E01   gen: 961   avg_fitness: 2038058605	   max_fitness: 4688668917	   winner: MUTANT  0.16   
+epoch: E01   gen: 962   avg_fitness: 2014952563	   max_fitness: 4815586011	   winner: PARENT      
+epoch: E01   gen: 963   avg_fitness: 2323357806	   max_fitness: 5738404109	   winner: MUTANT  0.17   
+epoch: E01   gen: 964   avg_fitness: 1595650332	   max_fitness: 5080324649	   winner: MUTANT  0.16   
+epoch: E01   gen: 965   avg_fitness: 2688802654	   max_fitness: 5054360948	   winner: MUTANT  0.09   
+epoch: E01   gen: 966   avg_fitness: 2153494239	   max_fitness: 5969612171	   winner: PARENT      
+epoch: E01   gen: 967   avg_fitness: 2603989735	   max_fitness: 5563858081	   winner: MUTANT  0.16   
+epoch: E01   gen: 968   avg_fitness: 1597523970	   max_fitness: 6305864286	   winner: PARENT      
+epoch: E01   gen: 969   avg_fitness: 2375499513	   max_fitness: 6991199518	   winner: MUTANT  0.12   
+epoch: E01   gen: 970   avg_fitness: 2020464235	   max_fitness: 5498039964	   winner: PARENT      
+epoch: E01   gen: 971   avg_fitness: 2168582427	   max_fitness: 8416953146	   winner: MUTANT  0.06   
+epoch: E01   gen: 972   avg_fitness: 2058284797	   max_fitness: 6397891433	   winner: NEWSPEC  0.36  0.98
+epoch: E01   gen: 973   avg_fitness: 3060294083	   max_fitness: 5205451967	   winner: CROSS      
+epoch: E01   gen: 974   avg_fitness: 1931238745	   max_fitness: 6930112574	   winner: CROSS      
+epoch: E01   gen: 975   avg_fitness: 1610515965	   max_fitness: 5586021107	   winner: PARENT      
+epoch: E01   gen: 976   avg_fitness: 1656180196	   max_fitness: 5137208309	   winner: MUTANT  0.06   
+epoch: E01   gen: 977   avg_fitness: 2416625662	   max_fitness: 5920275782	   winner: MUTANT  0.06   
+epoch: E01   gen: 978   avg_fitness: 1049814477	   max_fitness: 5216214810	   winner: CROSS      
+epoch: E01   gen: 979   avg_fitness: 3403019324	   max_fitness: 7633814239	   winner: MUTANT  0.1   
+epoch: E01   gen: 980   avg_fitness: 1858092169	   max_fitness: 6737592120	   winner: PARENT      
+epoch: E01   gen: 981   avg_fitness: 1016231972	   max_fitness: 4118613995	   winner: MUTANT  0.15   
+epoch: E01   gen: 982   avg_fitness: 1343903989	   max_fitness: 7537548237	   winner: CROSS      
+epoch: E01   gen: 983   avg_fitness: 2385813604	   max_fitness: 6932111213	   winner: PARENT      
+epoch: E01   gen: 984   avg_fitness: 2208288870	   max_fitness: 5601949452	   winner: MUTANT  0.08   
+epoch: E01   gen: 985   avg_fitness: 2835470736	   max_fitness: 6742971871	   winner: PARENT      
+epoch: E01   gen: 986   avg_fitness: 2399513315	   max_fitness: 6288130644	   winner: MUTANT  0.14   
+epoch: E01   gen: 987   avg_fitness: 1184045516	   max_fitness: 6050678988	   winner: PARENT      
+epoch: E01   gen: 988   avg_fitness: 1129901092	   max_fitness: 4525964084	   winner: MUTANT  0.17   
+epoch: E01   gen: 989   avg_fitness: 1601413209	   max_fitness: 4468489816	   winner: PARENT      
+epoch: E01   gen: 990   avg_fitness: 2328657165	   max_fitness: 8471614554	   winner: MUTANT  0.06   
+epoch: E01   gen: 991   avg_fitness: 2515609202	   max_fitness: 6766017629	   winner: MUTANT  0.08   
+epoch: E01   gen: 992   avg_fitness: 2547778940	   max_fitness: 5138359857	   winner: PARENT      
+epoch: E01   gen: 993   avg_fitness: 2492312971	   max_fitness: 8399931900	   winner: PARENT      
+epoch: E01   gen: 994   avg_fitness: 1981572616	   max_fitness: 5210936930	   winner: CROSS      
+epoch: E01   gen: 995   avg_fitness: 2484134648	   max_fitness: 5318802283	   winner: NEWSPEC  0.44  0.82
+epoch: E01   gen: 996   avg_fitness: 1475641973	   max_fitness: 6911558708	   winner: NEWSPEC  0.61  0.85
+epoch: E01   gen: 997   avg_fitness: 1412760811	   max_fitness: 5328232061	   winner: MUTANT  0.05   
+epoch: E01   gen: 998   avg_fitness: 1839497194	   max_fitness: 5356707086	   winner: PARENT      
+epoch: E01   gen: 999   avg_fitness: 2934265884	   max_fitness: 6834729966	   winner: PARENT      
