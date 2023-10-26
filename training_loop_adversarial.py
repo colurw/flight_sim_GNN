@@ -3,7 +3,7 @@ import random
 import copy
 import torch
 from plane import Plane
-from neuralnetwork import GeneticNeuralNetwork
+from genetic_neural_network import GeneticNeuralNetwork
 import msvcrt
 
 
