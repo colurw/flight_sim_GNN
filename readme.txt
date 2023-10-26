@@ -7,7 +7,7 @@ simulator, and a genetic optimisation algorithm inspired by Darwinian evolution.
 ## What and Why
 
 Neural networks typically learn in a supervised manner _i.e._ with labelled training
-data.  In our case this is not available, due to the autonomous nature of the agent,
+data.  In our case this is not available due to the autonomous nature of the agent,
 and the large number of discrete actions taken in the training environment.  This
 means deep learning methodologies such as classical back-propagation are ruled out.  
 Hence we are compelled to consider reinforcement learning methods, where labelled 
@@ -38,7 +38,7 @@ in a much slower optimisation process than Adaptive Gradient Descent, for exampl
 
 ## The Genetic Algorithm
 
-Flight_trainer.py contains the optimisation loop that generates a new generations 
+Training_loop_elite.py contains the optimisation loop that creates new generations 
 of agents based on a selection of the fittest members of the previous generation.  
 They, along with the previous generation's fittest, must compete in a handicapped 
 elite contest (_i.e._ against the all-time highest scoring model, with a points
@@ -83,5 +83,20 @@ stages of training.  This can be replaced with an instance of GeneticNeuralNetwo
 
 ## The Viewer
 
-Flight_viewer.py uses matplotlib to visualise combat between two instances of the
+Combat_viewer.py uses matplotlib to visualise combat between two instances of the
 fittest pilot, or those from earlier in the lineage.
+
+## Results
+
+Draw_training_graphs.py uses the winner of each generation's flight data and fitness
+scores to produce graphs that offer insight into the degree of optimisation achieved
+during training. 
+
+## Adversarial Contest Mode
+
+Training_loop_adversarial.py works similarly to the elite version, except that two
+populations are training simulateously, each competing against the fittest member
+from the other side, on alternative generations.  This delivers a significant (50%)
+reduction in the number of generations required to converge upon a stable solution, 
+with an order-of-magnitude increase in the fitness score at that point.  See 
+/training graphs/Figure_4.png for more details.

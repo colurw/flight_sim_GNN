@@ -23,18 +23,21 @@ class Plane():
 
     # instance attributes
     def __init__(self, x_pos=0, x_vect=0, y_vect=0, pilot='auto', NN=None, bounce=False, target=None):
-        self.x_pos = x_pos
-        self.y_pos = np_rng.integers(5000,6000)   
+        self.x_pos = x_pos   
         self.x_vect = x_vect  
         self.y_vect = y_vect
+        self.pilot = pilot
+        self.NN = NN
+        self.bounce = bounce
+        self.target = target
+        self.y_pos = np_rng.integers(5000,6000)
         self.velocity = 90
         self.cooldown = 350
         self.kills = 0
         self.aim_score = 1
+        self.shots_fired = 0
         self.shot_x_end = None
         self.shot_y_end = None
-        self.target = target
-        self.bounce = bounce
         self.bounce_count = 0
         self.crashed = False
         self.start_time = time.time()
@@ -44,8 +47,6 @@ class Plane():
         self.min_h = self.y_pos
         self.last_dir = None
         self.dir_flips = 0
-        self.pilot = pilot
-        self.NN = NN
         self.time_until_turn = 0
         self.turn_duration = 0
         self.target_dist = 0
@@ -178,7 +179,7 @@ class Plane():
                     self.time_until_turn -= 1
 
         elif self.pilot == 'neuro':
-            # define input dataset (hard) - all available motion parameters, normalised
+            # define input dataset (hard) - all absolute motion parameters, normalised
             data_1 = [self.x_pos/self.X_LIMIT, 
                       self.y_pos/self.Y_LIMIT, 
                       self.x_vect, 
@@ -253,6 +254,7 @@ class Plane():
     def fire_gun(self):
         """ calculates shot string trajectory and aim score """
         if self.cooldown == 0:
+            self.shots_fired += 1
             # calculate end coordinates of shot string
             self.shot_x_end = self.x_pos + self.x_vect * self.GUN_RANGE
             self.shot_y_end = self.y_pos + self.y_vect * self.GUN_RANGE
@@ -271,9 +273,9 @@ class Plane():
                 self.aim_score += accuracy
             # start gun cooldown timer
             self.cooldown = 30
-
+            
 
     def info(self):
         """ returns string of flight data """
-        return f"crash:{self.crashed}   dur:{round(self.flight_duration,4)}   kls:{int(self.kills)}   hit:{int(self.hits_taken)}   aim:{int(self.aim_score)}   dev:{int(self.max_h - self.min_h)}   flps:{int(self.dir_flips)}   frms:{int(self.frame_count)}"
+        return f"crash:{self.crashed},  dur:{round(self.flight_duration,4)},  kls:{int(self.kills)},  hit:{int(self.hits_taken)},  aim:{int(self.aim_score)},  dev:{int(self.max_h - self.min_h)},  flps:{int(self.dir_flips)},  frms:{int(self.frame_count)}"
         

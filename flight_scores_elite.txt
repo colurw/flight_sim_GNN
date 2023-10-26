@@ -1,0 +1,1000 @@
+epoch: E01,   gen: 0,   avg_fitness: 0,	   max_fitness: 3,	   winner: RANDOM      ,		  crash:True,  dur:0.4356,  kls:0,  hit:0,  aim:1,  dev:7067,  flps:0,  frms:2093
+epoch: E01,   gen: 1,   avg_fitness: 2,	   max_fitness: 11,	   winner: NEWSPEC  0.38  0.67,		  crash:True,  dur:1.1738,  kls:0,  hit:0,  aim:1,  dev:9462,  flps:0,  frms:5729
+epoch: E01,   gen: 2,   avg_fitness: 3,	   max_fitness: 26,	   winner: MUTANT  0.15   ,		  crash:True,  dur:0.1521,  kls:1,  hit:0,  aim:10,  dev:6863,  flps:0,  frms:741
+epoch: E01,   gen: 3,   avg_fitness: 11,	   max_fitness: 84,	   winner: MUTANT  0.09   ,		  crash:True,  dur:0.3085,  kls:0,  hit:0,  aim:29,  dev:8766,  flps:0,  frms:1531
+epoch: E01,   gen: 4,   avg_fitness: 20,	   max_fitness: 180,	   winner: CROSS      ,		  crash:True,  dur:0.2579,  kls:0,  hit:0,  aim:80,  dev:7338,  flps:0,  frms:1281
+epoch: E01,   gen: 5,   avg_fitness: 978,	   max_fitness: 16052,	   winner: MUTANT  0.13   ,		  crash:True,  dur:1.0125,  kls:2,  hit:0,  aim:484,  dev:12209,  flps:0,  frms:5124
+epoch: E01,   gen: 6,   avg_fitness: 48,	   max_fitness: 595,	   winner: PARENT      ,		  crash:True,  dur:0.8735,  kls:0,  hit:0,  aim:78,  dev:7258,  flps:0,  frms:4354
+epoch: E01,   gen: 7,   avg_fitness: 32,	   max_fitness: 483,	   winner: MUTANT  0.19   ,		  crash:True,  dur:0.1312,  kls:1,  hit:0,  aim:190,  dev:7481,  flps:0,  frms:716
+epoch: E01,   gen: 8,   avg_fitness: 4,	   max_fitness: 30,	   winner: MUTANT  0.16   ,		  crash:True,  dur:0.1776,  kls:0,  hit:0,  aim:18,  dev:9718,  flps:0,  frms:847
+epoch: E01,   gen: 9,   avg_fitness: 61,	   max_fitness: 454,	   winner: NEWSPEC  0.54  0.71,		  crash:True,  dur:0.3312,  kls:0,  hit:6,  aim:32,  dev:11670,  flps:0,  frms:1669
+epoch: E01,   gen: 10,   avg_fitness: 54,	   max_fitness: 540,	   winner: MUTANT  0.08   ,		  crash:True,  dur:0.2292,  kls:0,  hit:11,  aim:12,  dev:11130,  flps:46,  frms:1161
+epoch: E01,   gen: 11,   avg_fitness: 200,	   max_fitness: 2442,	   winner: PARENT      ,		  crash:True,  dur:1.3102,  kls:0,  hit:29,  aim:19,  dev:7514,  flps:0,  frms:6503
+epoch: E01,   gen: 12,   avg_fitness: 295,	   max_fitness: 4193,	   winner: MUTANT  0.05   ,		  crash:True,  dur:0.5781,  kls:1,  hit:5,  aim:95,  dev:11756,  flps:0,  frms:2952
+epoch: E01,   gen: 13,   avg_fitness: 58,	   max_fitness: 418,	   winner: MUTANT  0.1   ,		  crash:True,  dur:0.203,  kls:1,  hit:0,  aim:111,  dev:8222,  flps:0,  frms:1018
+epoch: E01,   gen: 14,   avg_fitness: 166,	   max_fitness: 1715,	   winner: PARENT      ,		  crash:True,  dur:0.2773,  kls:1,  hit:8,  aim:31,  dev:11336,  flps:14,  frms:1250
+epoch: E01,   gen: 15,   avg_fitness: 7270,	   max_fitness: 131927,	   winner: PARENT      ,		  crash:True,  dur:0.982,  kls:2,  hit:22,  aim:336,  dev:11793,  flps:2,  frms:4922
+epoch: E01,   gen: 16,   avg_fitness: 30165,	   max_fitness: 496370,	   winner: MUTANT  0.19   ,		  crash:True,  dur:1.0182,  kls:25,  hit:0,  aim:1750,  dev:12342,  flps:0,  frms:5037
+epoch: E01,   gen: 17,   avg_fitness: 3836,	   max_fitness: 51378,	   winner: MUTANT  0.09   ,		  crash:True,  dur:0.5468,  kls:5,  hit:9,  aim:355,  dev:7703,  flps:0,  frms:2680
+epoch: E01,   gen: 18,   avg_fitness: 15276,	   max_fitness: 250897,	   winner: MUTANT  0.16   ,		  crash:True,  dur:1.3035,  kls:3,  hit:9,  aim:969,  dev:10117,  flps:0,  frms:6457
+epoch: E01,   gen: 19,   avg_fitness: 16962,	   max_fitness: 180249,	   winner: MUTANT  0.14   ,		  crash:True,  dur:0.992,  kls:7,  hit:6,  aim:605,  dev:9019,  flps:0,  frms:4987
+epoch: E01,   gen: 20,   avg_fitness: 891331,	   max_fitness: 16905473,	   winner: PARENT      ,		  crash:False,  dur:2.0362,  kls:22,  hit:29,  aim:1673,  dev:10520,  flps:0,  frms:10000
+epoch: E01,   gen: 21,   avg_fitness: 69124,	   max_fitness: 647101,	   winner: MUTANT  0.12   ,		  crash:True,  dur:1.9526,  kls:9,  hit:14,  aim:502,  dev:9572,  flps:0,  frms:9886
+epoch: E01,   gen: 22,   avg_fitness: 255451,	   max_fitness: 2108681,	   winner: PARENT      ,		  crash:True,  dur:0.7136,  kls:17,  hit:12,  aim:2842,  dev:9038,  flps:0,  frms:3580
+epoch: E01,   gen: 23,   avg_fitness: 498860,	   max_fitness: 8602535,	   winner: PARENT      ,		  crash:False,  dur:2.0134,  kls:15,  hit:27,  aim:1319,  dev:9837,  flps:0,  frms:10000
+epoch: E01,   gen: 24,   avg_fitness: 333748,	   max_fitness: 5420426,	   winner: MUTANT  0.16   ,		  crash:False,  dur:1.9896,  kls:18,  hit:8,  aim:1493,  dev:10775,  flps:0,  frms:10000
+epoch: E01,   gen: 25,   avg_fitness: 93196,	   max_fitness: 1361417,	   winner: PARENT      ,		  crash:True,  dur:1.1061,  kls:25,  hit:16,  aim:711,  dev:8358,  flps:0,  frms:5466
+epoch: E01,   gen: 26,   avg_fitness: 1453980,	   max_fitness: 22804848,	   winner: PARENT      ,		  crash:False,  dur:1.9915,  kls:23,  hit:21,  aim:2979,  dev:8125,  flps:0,  frms:10000
+epoch: E01,   gen: 27,   avg_fitness: 1010530,	   max_fitness: 12034291,	   winner: CROSS      ,		  crash:False,  dur:1.9997,  kls:11,  hit:16,  aim:3710,  dev:8436,  flps:0,  frms:10000
+epoch: E01,   gen: 28,   avg_fitness: 1057438,	   max_fitness: 17190883,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9887,  kls:19,  hit:8,  aim:4919,  dev:8630,  flps:0,  frms:10000
+epoch: E01,   gen: 29,   avg_fitness: 321425,	   max_fitness: 4235226,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9683,  kls:8,  hit:14,  aim:1843,  dev:9107,  flps:0,  frms:10000
+epoch: E01,   gen: 30,   avg_fitness: 260406,	   max_fitness: 3081200,	   winner: MUTANT  0.14   ,		  crash:True,  dur:1.0312,  kls:30,  hit:9,  aim:1838,  dev:11181,  flps:0,  frms:5183
+epoch: E01,   gen: 31,   avg_fitness: 189777,	   max_fitness: 2209504,	   winner: CROSS      ,		  crash:True,  dur:1.8856,  kls:22,  hit:8,  aim:1089,  dev:9966,  flps:0,  frms:9525
+epoch: E01,   gen: 32,   avg_fitness: 570670,	   max_fitness: 4354735,	   winner: MUTANT  0.16   ,		  crash:True,  dur:1.9572,  kls:17,  hit:9,  aim:2423,  dev:10436,  flps:0,  frms:9838
+epoch: E01,   gen: 33,   avg_fitness: 154434,	   max_fitness: 2031232,	   winner: PARENT      ,		  crash:True,  dur:0.8846,  kls:19,  hit:12,  aim:1966,  dev:10233,  flps:0,  frms:4269
+epoch: E01,   gen: 34,   avg_fitness: 403079,	   max_fitness: 4914304,	   winner: PARENT      ,		  crash:False,  dur:2.0166,  kls:10,  hit:24,  aim:1426,  dev:6211,  flps:0,  frms:10000
+epoch: E01,   gen: 35,   avg_fitness: 134250,	   max_fitness: 1583476,	   winner: PARENT      ,		  crash:False,  dur:2.0165,  kls:10,  hit:7,  aim:916,  dev:8124,  flps:0,  frms:10000
+epoch: E01,   gen: 36,   avg_fitness: 1268233,	   max_fitness: 22224742,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.99,  kls:23,  hit:16,  aim:3769,  dev:6644,  flps:0,  frms:10000
+epoch: E01,   gen: 37,   avg_fitness: 555407,	   max_fitness: 5459934,	   winner: CROSS      ,		  crash:True,  dur:1.8649,  kls:24,  hit:9,  aim:2434,  dev:9075,  flps:0,  frms:9347
+epoch: E01,   gen: 38,   avg_fitness: 543167,	   max_fitness: 4980429,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9859,  kls:9,  hit:24,  aim:1265,  dev:11003,  flps:0,  frms:10000
+epoch: E01,   gen: 39,   avg_fitness: 1100592,	   max_fitness: 9104769,	   winner: MUTANT  0.16   ,		  crash:False,  dur:1.9704,  kls:18,  hit:27,  aim:1241,  dev:8585,  flps:0,  frms:10000
+epoch: E01,   gen: 40,   avg_fitness: 482649,	   max_fitness: 8661381,	   winner: MUTANT  0.18   ,		  crash:False,  dur:1.9647,  kls:17,  hit:41,  aim:872,  dev:10300,  flps:0,  frms:10000
+epoch: E01,   gen: 41,   avg_fitness: 199683,	   max_fitness: 2410574,	   winner: MUTANT  0.17   ,		  crash:True,  dur:1.3754,  kls:12,  hit:15,  aim:1001,  dev:7622,  flps:12,  frms:6898
+epoch: E01,   gen: 42,   avg_fitness: 804099,	   max_fitness: 14611160,	   winner: CROSS      ,		  crash:False,  dur:1.9758,  kls:22,  hit:27,  aim:1665,  dev:8335,  flps:0,  frms:10000
+epoch: E01,   gen: 43,   avg_fitness: 1022341,	   max_fitness: 15425527,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9921,  kls:19,  hit:42,  aim:1737,  dev:5748,  flps:0,  frms:10000
+epoch: E01,   gen: 44,   avg_fitness: 1519555,	   max_fitness: 18795440,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9738,  kls:18,  hit:5,  aim:2392,  dev:6312,  flps:68,  frms:10000
+epoch: E01,   gen: 45,   avg_fitness: 787989,	   max_fitness: 14053814,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9692,  kls:12,  hit:13,  aim:1209,  dev:7089,  flps:106,  frms:10000
+epoch: E01,   gen: 46,   avg_fitness: 361536,	   max_fitness: 4956645,	   winner: NEWSPEC  0.4  0.76,		  crash:False,  dur:1.974,  kls:10,  hit:8,  aim:2842,  dev:6765,  flps:0,  frms:10000
+epoch: E01,   gen: 47,   avg_fitness: 1462961,	   max_fitness: 25885936,	   winner: PARENT      ,		  crash:True,  dur:1.9907,  kls:20,  hit:29,  aim:2170,  dev:9033,  flps:30,  frms:9808
+epoch: E01,   gen: 48,   avg_fitness: 9207,	   max_fitness: 89882,	   winner: CROSS      ,		  crash:True,  dur:0.6688,  kls:8,  hit:2,  aim:707,  dev:9337,  flps:0,  frms:3380
+epoch: E01,   gen: 49,   avg_fitness: 257725,	   max_fitness: 3604448,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9689,  kls:14,  hit:11,  aim:1017,  dev:11090,  flps:0,  frms:10000
+epoch: E01,   gen: 50,   avg_fitness: 743236,	   max_fitness: 13641881,	   winner: PARENT      ,		  crash:False,  dur:2.0155,  kls:33,  hit:23,  aim:1150,  dev:8736,  flps:0,  frms:10000
+epoch: E01,   gen: 51,   avg_fitness: 554204,	   max_fitness: 8811066,	   winner: PARENT      ,		  crash:False,  dur:2.0331,  kls:24,  hit:19,  aim:1046,  dev:11001,  flps:0,  frms:10000
+epoch: E01,   gen: 52,   avg_fitness: 137038,	   max_fitness: 1321063,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9737,  kls:5,  hit:28,  aim:524,  dev:9954,  flps:0,  frms:10000
+epoch: E01,   gen: 53,   avg_fitness: 591587,	   max_fitness: 4787527,	   winner: MUTANT  0.18   ,		  crash:True,  dur:0.8624,  kls:21,  hit:23,  aim:1170,  dev:8954,  flps:18,  frms:4361
+epoch: E01,   gen: 54,   avg_fitness: 563742,	   max_fitness: 8806213,	   winner: PARENT      ,		  crash:False,  dur:2.0064,  kls:24,  hit:19,  aim:1046,  dev:10987,  flps:0,  frms:10000
+epoch: E01,   gen: 55,   avg_fitness: 418289,	   max_fitness: 5951557,	   winner: PARENT      ,		  crash:False,  dur:2.0213,  kls:18,  hit:11,  aim:1503,  dev:8094,  flps:0,  frms:10000
+epoch: E01,   gen: 56,   avg_fitness: 195350,	   max_fitness: 2326014,	   winner: PARENT      ,		  crash:True,  dur:1.3368,  kls:12,  hit:8,  aim:860,  dev:11521,  flps:44,  frms:6768
+epoch: E01,   gen: 57,   avg_fitness: 1066745,	   max_fitness: 16789186,	   winner: CROSS      ,		  crash:False,  dur:1.9932,  kls:26,  hit:22,  aim:1243,  dev:10157,  flps:2,  frms:10000
+epoch: E01,   gen: 58,   avg_fitness: 337846,	   max_fitness: 2614378,	   winner: MUTANT  0.09   ,		  crash:True,  dur:1.1549,  kls:11,  hit:8,  aim:1494,  dev:9830,  flps:27,  frms:5829
+epoch: E01,   gen: 59,   avg_fitness: 220352,	   max_fitness: 1278913,	   winner: PARENT      ,		  crash:True,  dur:1.6919,  kls:14,  hit:11,  aim:929,  dev:9288,  flps:0,  frms:8332
+epoch: E01,   gen: 60,   avg_fitness: 1741355,	   max_fitness: 20819431,	   winner: PARENT      ,		  crash:False,  dur:2.0162,  kls:33,  hit:25,  aim:1802,  dev:7100,  flps:0,  frms:10000
+epoch: E01,   gen: 61,   avg_fitness: 1283343,	   max_fitness: 13923745,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9976,  kls:14,  hit:8,  aim:1435,  dev:10167,  flps:62,  frms:10000
+epoch: E01,   gen: 62,   avg_fitness: 460577,	   max_fitness: 6362534,	   winner: PARENT      ,		  crash:False,  dur:1.997,  kls:17,  hit:17,  aim:1348,  dev:7076,  flps:0,  frms:10000
+epoch: E01,   gen: 63,   avg_fitness: 1499314,	   max_fitness: 20307594,	   winner: PARENT      ,		  crash:False,  dur:1.9689,  kls:17,  hit:11,  aim:1509,  dev:10991,  flps:46,  frms:10000
+epoch: E01,   gen: 64,   avg_fitness: 1334547,	   max_fitness: 17655953,	   winner: PARENT      ,		  crash:False,  dur:2.0055,  kls:17,  hit:9,  aim:1501,  dev:9348,  flps:56,  frms:10000
+epoch: E01,   gen: 65,   avg_fitness: 1127006,	   max_fitness: 11755327,	   winner: PARENT      ,		  crash:False,  dur:2.0064,  kls:25,  hit:19,  aim:1473,  dev:8717,  flps:0,  frms:10000
+epoch: E01,   gen: 66,   avg_fitness: 296390,	   max_fitness: 2217485,	   winner: PARENT      ,		  crash:False,  dur:1.963,  kls:9,  hit:12,  aim:1031,  dev:7617,  flps:0,  frms:10000
+epoch: E01,   gen: 67,   avg_fitness: 2738597,	   max_fitness: 22198348,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9814,  kls:18,  hit:57,  aim:951,  dev:8338,  flps:8,  frms:10000
+epoch: E01,   gen: 68,   avg_fitness: 1730385,	   max_fitness: 26888974,	   winner: PARENT      ,		  crash:False,  dur:1.9641,  kls:13,  hit:11,  aim:1560,  dev:10012,  flps:280,  frms:10000
+epoch: E01,   gen: 69,   avg_fitness: 3174,	   max_fitness: 31023,	   winner: MUTANT  0.15   ,		  crash:True,  dur:0.3206,  kls:2,  hit:5,  aim:230,  dev:9331,  flps:112,  frms:1601
+epoch: E01,   gen: 70,   avg_fitness: 1352,	   max_fitness: 6055,	   winner: PARENT      ,		  crash:True,  dur:0.3118,  kls:1,  hit:6,  aim:62,  dev:9103,  flps:116,  frms:1559
+epoch: E01,   gen: 71,   avg_fitness: 41129,	   max_fitness: 729756,	   winner: MUTANT  0.18   ,		  crash:False,  dur:1.9713,  kls:3,  hit:5,  aim:282,  dev:6602,  flps:288,  frms:10000
+epoch: E01,   gen: 72,   avg_fitness: 881502,	   max_fitness: 16665928,	   winner: PARENT      ,		  crash:False,  dur:2.0247,  kls:16,  hit:7,  aim:1303,  dev:6832,  flps:232,  frms:10000
+epoch: E01,   gen: 73,   avg_fitness: 393652,	   max_fitness: 7432421,	   winner: PARENT      ,		  crash:False,  dur:2.0188,  kls:12,  hit:6,  aim:798,  dev:7274,  flps:248,  frms:10000
+epoch: E01,   gen: 74,   avg_fitness: 720860,	   max_fitness: 12540141,	   winner: MUTANT  0.1   ,		  crash:False,  dur:2.143,  kls:35,  hit:33,  aim:795,  dev:8388,  flps:0,  frms:10000
+epoch: E01,   gen: 75,   avg_fitness: 161795,	   max_fitness: 2337828,	   winner: PARENT      ,		  crash:False,  dur:2.0231,  kls:7,  hit:7,  aim:391,  dev:7427,  flps:202,  frms:10000
+epoch: E01,   gen: 76,   avg_fitness: 228089,	   max_fitness: 2598495,	   winner: PARENT      ,		  crash:False,  dur:2.0178,  kls:6,  hit:5,  aim:601,  dev:7532,  flps:206,  frms:10000
+epoch: E01,   gen: 77,   avg_fitness: 393721,	   max_fitness: 3074655,	   winner: PARENT      ,		  crash:False,  dur:2.0194,  kls:4,  hit:7,  aim:702,  dev:8972,  flps:268,  frms:10000
+epoch: E01,   gen: 78,   avg_fitness: 224129,	   max_fitness: 2500175,	   winner: PARENT      ,		  crash:False,  dur:2.0116,  kls:5,  hit:3,  aim:829,  dev:6991,  flps:296,  frms:10000
+epoch: E01,   gen: 79,   avg_fitness: 298270,	   max_fitness: 1965149,	   winner: CROSS      ,		  crash:False,  dur:1.9801,  kls:4,  hit:1,  aim:1386,  dev:7592,  flps:198,  frms:10000
+epoch: E01,   gen: 80,   avg_fitness: 311088,	   max_fitness: 2578364,	   winner: MUTANT  0.06   ,		  crash:False,  dur:2.015,  kls:18,  hit:3,  aim:1447,  dev:7528,  flps:0,  frms:10000
+epoch: E01,   gen: 81,   avg_fitness: 79818,	   max_fitness: 970741,	   winner: PARENT      ,		  crash:False,  dur:2.0769,  kls:9,  hit:0,  aim:591,  dev:6610,  flps:194,  frms:10000
+epoch: E01,   gen: 82,   avg_fitness: 330082,	   max_fitness: 5754063,	   winner: MUTANT  0.06   ,		  crash:False,  dur:2.0577,  kls:12,  hit:20,  aim:502,  dev:9416,  flps:26,  frms:10000
+epoch: E01,   gen: 83,   avg_fitness: 1314294,	   max_fitness: 18839247,	   winner: PARENT      ,		  crash:False,  dur:2.0167,  kls:15,  hit:16,  aim:1146,  dev:8641,  flps:82,  frms:10000
+epoch: E01,   gen: 84,   avg_fitness: 631104,	   max_fitness: 4790710,	   winner: PARENT      ,		  crash:False,  dur:1.9815,  kls:8,  hit:6,  aim:850,  dev:7710,  flps:146,  frms:10000
+epoch: E01,   gen: 85,   avg_fitness: 2400495,	   max_fitness: 33029774,	   winner: PARENT      ,		  crash:False,  dur:2.023,  kls:14,  hit:14,  aim:2134,  dev:8401,  flps:116,  frms:10000
+epoch: E01,   gen: 86,   avg_fitness: 311961,	   max_fitness: 3574766,	   winner: PARENT      ,		  crash:False,  dur:2.05,  kls:5,  hit:9,  aim:679,  dev:7217,  flps:214,  frms:10000
+epoch: E01,   gen: 87,   avg_fitness: 592885,	   max_fitness: 5501345,	   winner: PARENT      ,		  crash:False,  dur:1.9984,  kls:5,  hit:17,  aim:761,  dev:5136,  flps:246,  frms:10000
+epoch: E01,   gen: 88,   avg_fitness: 529188,	   max_fitness: 8127290,	   winner: PARENT      ,		  crash:False,  dur:2.088,  kls:6,  hit:6,  aim:1748,  dev:6866,  flps:208,  frms:10000
+epoch: E01,   gen: 89,   avg_fitness: 156794,	   max_fitness: 1991334,	   winner: PARENT      ,		  crash:False,  dur:1.9924,  kls:7,  hit:3,  aim:554,  dev:6950,  flps:204,  frms:10000
+epoch: E01,   gen: 90,   avg_fitness: 236611,	   max_fitness: 2189921,	   winner: PARENT      ,		  crash:False,  dur:1.991,  kls:11,  hit:1,  aim:646,  dev:7618,  flps:194,  frms:10000
+epoch: E01,   gen: 91,   avg_fitness: 486112,	   max_fitness: 3901693,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.985,  kls:10,  hit:2,  aim:737,  dev:7686,  flps:441,  frms:10000
+epoch: E01,   gen: 92,   avg_fitness: 216668,	   max_fitness: 2362951,	   winner: PARENT      ,		  crash:False,  dur:1.9846,  kls:14,  hit:0,  aim:841,  dev:8244,  flps:224,  frms:10000
+epoch: E01,   gen: 93,   avg_fitness: 605850,	   max_fitness: 5519682,	   winner: CROSS      ,		  crash:False,  dur:2.027,  kls:35,  hit:0,  aim:1668,  dev:5622,  flps:34,  frms:10000
+epoch: E01,   gen: 94,   avg_fitness: 334185,	   max_fitness: 5402905,	   winner: PARENT      ,		  crash:False,  dur:1.9921,  kls:7,  hit:18,  aim:533,  dev:5352,  flps:242,  frms:10000
+epoch: E01,   gen: 95,   avg_fitness: 156281,	   max_fitness: 1617149,	   winner: PARENT      ,		  crash:False,  dur:2.0009,  kls:6,  hit:7,  aim:337,  dev:4864,  flps:268,  frms:10000
+epoch: E01,   gen: 96,   avg_fitness: 222190,	   max_fitness: 3535787,	   winner: PARENT      ,		  crash:False,  dur:2.0011,  kls:7,  hit:9,  aim:533,  dev:5392,  flps:261,  frms:10000
+epoch: E01,   gen: 97,   avg_fitness: 195742,	   max_fitness: 1929275,	   winner: CROSS      ,		  crash:False,  dur:1.9844,  kls:5,  hit:6,  aim:530,  dev:5752,  flps:194,  frms:10000
+epoch: E01,   gen: 98,   avg_fitness: 234665,	   max_fitness: 3381311,	   winner: PARENT      ,		  crash:False,  dur:1.9826,  kls:6,  hit:10,  aim:561,  dev:5282,  flps:244,  frms:10000
+epoch: E01,   gen: 99,   avg_fitness: 198634,	   max_fitness: 2270099,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9797,  kls:9,  hit:3,  aim:481,  dev:5151,  flps:361,  frms:10000
+epoch: E01,   gen: 100,   avg_fitness: 385387,	   max_fitness: 4358890,	   winner: PARENT      ,		  crash:False,  dur:2.0213,  kls:7,  hit:5,  aim:842,  dev:5388,  flps:377,  frms:10000
+epoch: E01,   gen: 101,   avg_fitness: 406431,	   max_fitness: 4015658,	   winner: NEWSPEC  0.82  0.99,		  crash:False,  dur:1.9827,  kls:8,  hit:5,  aim:540,  dev:8553,  flps:460,  frms:10000
+epoch: E01,   gen: 102,   avg_fitness: 1532435,	   max_fitness: 20951185,	   winner: CROSS      ,		  crash:False,  dur:1.9692,  kls:8,  hit:8,  aim:2322,  dev:7397,  flps:414,  frms:10000
+epoch: E01,   gen: 103,   avg_fitness: 1729867,	   max_fitness: 23680705,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9906,  kls:15,  hit:8,  aim:1345,  dev:10186,  flps:368,  frms:10000
+epoch: E01,   gen: 104,   avg_fitness: 3891827,	   max_fitness: 48112315,	   winner: PARENT      ,		  crash:False,  dur:1.9915,  kls:21,  hit:8,  aim:2182,  dev:7010,  flps:444,  frms:10000
+epoch: E01,   gen: 105,   avg_fitness: 1210259,	   max_fitness: 11809820,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9669,  kls:8,  hit:3,  aim:3355,  dev:6207,  flps:150,  frms:10000
+epoch: E01,   gen: 106,   avg_fitness: 2111177,	   max_fitness: 28320804,	   winner: PARENT      ,		  crash:False,  dur:2.0357,  kls:14,  hit:17,  aim:2408,  dev:6752,  flps:40,  frms:10000
+epoch: E01,   gen: 107,   avg_fitness: 2909858,	   max_fitness: 29663780,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9703,  kls:27,  hit:3,  aim:3144,  dev:6819,  flps:80,  frms:10000
+epoch: E01,   gen: 108,   avg_fitness: 9551938,	   max_fitness: 92143491,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9767,  kls:43,  hit:13,  aim:3213,  dev:6482,  flps:41,  frms:10000
+epoch: E01,   gen: 109,   avg_fitness: 136033,	   max_fitness: 2209613,	   winner: PARENT      ,		  crash:False,  dur:2.0361,  kls:7,  hit:8,  aim:367,  dev:6362,  flps:194,  frms:10000
+epoch: E01,   gen: 110,   avg_fitness: 381709,	   max_fitness: 6020356,	   winner: PARENT      ,		  crash:False,  dur:2.0076,  kls:11,  hit:12,  aim:494,  dev:6512,  flps:216,  frms:10000
+epoch: E01,   gen: 111,   avg_fitness: 936072,	   max_fitness: 12082805,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9763,  kls:8,  hit:8,  aim:1302,  dev:5819,  flps:626,  frms:10000
+epoch: E01,   gen: 112,   avg_fitness: 1471154,	   max_fitness: 12957676,	   winner: PARENT      ,		  crash:False,  dur:1.9851,  kls:9,  hit:2,  aim:2252,  dev:8872,  flps:663,  frms:10000
+epoch: E01,   gen: 113,   avg_fitness: 6375778,	   max_fitness: 100641515,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9892,  kls:30,  hit:22,  aim:1340,  dev:8062,  flps:783,  frms:10000
+epoch: E01,   gen: 114,   avg_fitness: 3766343,	   max_fitness: 52896038,	   winner: MUTANT  0.07   ,		  crash:False,  dur:2.0176,  kls:39,  hit:1,  aim:5078,  dev:7232,  flps:159,  frms:10000
+epoch: E01,   gen: 115,   avg_fitness: 5055349,	   max_fitness: 76654310,	   winner: PARENT      ,		  crash:False,  dur:2.0113,  kls:38,  hit:2,  aim:4941,  dev:8743,  flps:197,  frms:10000
+epoch: E01,   gen: 116,   avg_fitness: 6506070,	   max_fitness: 71705562,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9604,  kls:77,  hit:2,  aim:4237,  dev:6372,  flps:39,  frms:10000
+epoch: E01,   gen: 117,   avg_fitness: 11526249,	   max_fitness: 126929197,	   winner: CROSS      ,		  crash:False,  dur:1.9656,  kls:63,  hit:3,  aim:5280,  dev:6582,  flps:121,  frms:10000
+epoch: E01,   gen: 118,   avg_fitness: 1280921,	   max_fitness: 10034634,	   winner: CROSS      ,		  crash:False,  dur:2.0125,  kls:11,  hit:11,  aim:1010,  dev:4149,  flps:241,  frms:10000
+epoch: E01,   gen: 119,   avg_fitness: 1995679,	   max_fitness: 16454774,	   winner: PARENT      ,		  crash:False,  dur:2.0864,  kls:20,  hit:6,  aim:1402,  dev:4408,  flps:211,  frms:10000
+epoch: E01,   gen: 120,   avg_fitness: 6966189,	   max_fitness: 65458102,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9739,  kls:91,  hit:0,  aim:4373,  dev:5466,  flps:243,  frms:10000
+epoch: E01,   gen: 121,   avg_fitness: 4258302,	   max_fitness: 51512081,	   winner: PARENT      ,		  crash:False,  dur:2.0238,  kls:64,  hit:0,  aim:5459,  dev:4601,  flps:209,  frms:10000
+epoch: E01,   gen: 122,   avg_fitness: 6873966,	   max_fitness: 45952428,	   winner: PARENT      ,		  crash:False,  dur:2.0159,  kls:55,  hit:0,  aim:4476,  dev:6540,  flps:285,  frms:10000
+epoch: E01,   gen: 123,   avg_fitness: 9637013,	   max_fitness: 69717529,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9809,  kls:67,  hit:0,  aim:6701,  dev:5211,  flps:211,  frms:10000
+epoch: E01,   gen: 124,   avg_fitness: 10455349,	   max_fitness: 84113106,	   winner: PARENT      ,		  crash:False,  dur:2.0653,  kls:71,  hit:0,  aim:7381,  dev:6521,  flps:175,  frms:10000
+epoch: E01,   gen: 125,   avg_fitness: 20849575,	   max_fitness: 119089641,	   winner: NEWSPEC  0.35  1.0,		  crash:False,  dur:1.9739,  kls:60,  hit:2,  aim:5726,  dev:5609,  flps:213,  frms:10000
+epoch: E01,   gen: 126,   avg_fitness: 16096202,	   max_fitness: 68151673,	   winner: PARENT      ,		  crash:False,  dur:1.9918,  kls:76,  hit:0,  aim:5504,  dev:5858,  flps:213,  frms:10000
+epoch: E01,   gen: 127,   avg_fitness: 32600888,	   max_fitness: 270269469,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9763,  kls:54,  hit:6,  aim:6126,  dev:7288,  flps:361,  frms:10000
+epoch: E01,   gen: 128,   avg_fitness: 522594,	   max_fitness: 7277361,	   winner: PARENT      ,		  crash:False,  dur:1.9832,  kls:13,  hit:7,  aim:668,  dev:5845,  flps:319,  frms:10000
+epoch: E01,   gen: 129,   avg_fitness: 11385199,	   max_fitness: 114744703,	   winner: PARENT      ,		  crash:False,  dur:2.0142,  kls:56,  hit:4,  aim:3522,  dev:6071,  flps:326,  frms:10000
+epoch: E01,   gen: 130,   avg_fitness: 5602652,	   max_fitness: 54440412,	   winner: PARENT      ,		  crash:False,  dur:2.0167,  kls:42,  hit:5,  aim:2036,  dev:6155,  flps:277,  frms:10000
+epoch: E01,   gen: 131,   avg_fitness: 6430841,	   max_fitness: 37953664,	   winner: NEWSPEC  0.4  0.89,		  crash:False,  dur:2.0016,  kls:25,  hit:30,  aim:750,  dev:9100,  flps:159,  frms:10000
+epoch: E01,   gen: 132,   avg_fitness: 3424831,	   max_fitness: 14677739,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9892,  kls:12,  hit:73,  aim:291,  dev:6780,  flps:309,  frms:10000
+epoch: E01,   gen: 133,   avg_fitness: 1646080,	   max_fitness: 14858061,	   winner: CROSS      ,		  crash:False,  dur:1.9911,  kls:10,  hit:46,  aim:494,  dev:5810,  flps:340,  frms:10000
+epoch: E01,   gen: 134,   avg_fitness: 5038789,	   max_fitness: 24448579,	   winner: PARENT      ,		  crash:False,  dur:2.0006,  kls:20,  hit:6,  aim:1371,  dev:6548,  flps:503,  frms:10000
+epoch: E01,   gen: 135,   avg_fitness: 5869551,	   max_fitness: 79159970,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9853,  kls:19,  hit:54,  aim:1276,  dev:6192,  flps:331,  frms:10000
+epoch: E01,   gen: 136,   avg_fitness: 3078525,	   max_fitness: 16141257,	   winner: PARENT      ,		  crash:False,  dur:2.0027,  kls:8,  hit:61,  aim:397,  dev:9445,  flps:497,  frms:10000
+epoch: E01,   gen: 137,   avg_fitness: 12934176,	   max_fitness: 225269046,	   winner: PARENT      ,		  crash:False,  dur:1.9757,  kls:31,  hit:53,  aim:1994,  dev:7753,  flps:395,  frms:10000
+epoch: E01,   gen: 138,   avg_fitness: 29643639,	   max_fitness: 302451867,	   winner: PARENT      ,		  crash:False,  dur:2.0322,  kls:36,  hit:71,  aim:1959,  dev:7010,  flps:403,  frms:10000
+epoch: E01,   gen: 139,   avg_fitness: 4993844,	   max_fitness: 63819231,	   winner: PARENT      ,		  crash:False,  dur:2.0368,  kls:23,  hit:18,  aim:1852,  dev:6421,  flps:289,  frms:10000
+epoch: E01,   gen: 140,   avg_fitness: 7561620,	   max_fitness: 90683987,	   winner: PARENT      ,		  crash:False,  dur:2.0177,  kls:20,  hit:27,  aim:1855,  dev:7791,  flps:453,  frms:10000
+epoch: E01,   gen: 141,   avg_fitness: 27306445,	   max_fitness: 179759226,	   winner: MUTANT  0.18   ,		  crash:False,  dur:1.9815,  kls:77,  hit:8,  aim:6575,  dev:5874,  flps:16,  frms:10000
+epoch: E01,   gen: 142,   avg_fitness: 24807338,	   max_fitness: 226283694,	   winner: PARENT      ,		  crash:False,  dur:1.9766,  kls:41,  hit:13,  aim:4547,  dev:6047,  flps:337,  frms:10000
+epoch: E01,   gen: 143,   avg_fitness: 30614557,	   max_fitness: 135126560,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9758,  kls:82,  hit:6,  aim:4679,  dev:7136,  flps:22,  frms:10000
+epoch: E01,   gen: 144,   avg_fitness: 50101347,	   max_fitness: 257091330,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9849,  kls:64,  hit:10,  aim:11408,  dev:10073,  flps:4,  frms:10000
+epoch: E01,   gen: 145,   avg_fitness: 44898437,	   max_fitness: 221227845,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9754,  kls:68,  hit:4,  aim:8460,  dev:5328,  flps:98,  frms:10000
+epoch: E01,   gen: 146,   avg_fitness: 63726069,	   max_fitness: 265712603,	   winner: CROSS      ,		  crash:False,  dur:1.9735,  kls:75,  hit:6,  aim:7755,  dev:5621,  flps:74,  frms:10000
+epoch: E01,   gen: 147,   avg_fitness: 42743461,	   max_fitness: 182289510,	   winner: PARENT      ,		  crash:False,  dur:2.0186,  kls:56,  hit:7,  aim:5792,  dev:6089,  flps:96,  frms:10000
+epoch: E01,   gen: 148,   avg_fitness: 62653111,	   max_fitness: 321114491,	   winner: PARENT      ,		  crash:False,  dur:1.9748,  kls:90,  hit:7,  aim:8108,  dev:5284,  flps:52,  frms:10000
+epoch: E01,   gen: 149,   avg_fitness: 223256,	   max_fitness: 1236164,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9739,  kls:7,  hit:4,  aim:538,  dev:7456,  flps:24,  frms:10000
+epoch: E01,   gen: 150,   avg_fitness: 1263192,	   max_fitness: 7986725,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9888,  kls:7,  hit:40,  aim:435,  dev:10246,  flps:122,  frms:10000
+epoch: E01,   gen: 151,   avg_fitness: 135148,	   max_fitness: 868872,	   winner: CROSS      ,		  crash:False,  dur:1.9623,  kls:2,  hit:23,  aim:183,  dev:8188,  flps:166,  frms:10000
+epoch: E01,   gen: 152,   avg_fitness: 116804,	   max_fitness: 2088573,	   winner: PARENT      ,		  crash:False,  dur:1.9836,  kls:4,  hit:16,  aim:255,  dev:6606,  flps:560,  frms:10000
+epoch: E01,   gen: 153,   avg_fitness: 20881,	   max_fitness: 253168,	   winner: PARENT      ,		  crash:False,  dur:2.0097,  kls:1,  hit:47,  aim:31,  dev:8250,  flps:702,  frms:10000
+epoch: E01,   gen: 154,   avg_fitness: 344807,	   max_fitness: 4065238,	   winner: PARENT      ,		  crash:False,  dur:2.0129,  kls:5,  hit:20,  aim:325,  dev:8306,  flps:562,  frms:10000
+epoch: E01,   gen: 155,   avg_fitness: 876785,	   max_fitness: 6588130,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9757,  kls:6,  hit:19,  aim:449,  dev:10776,  flps:453,  frms:10000
+epoch: E01,   gen: 156,   avg_fitness: 1242852,	   max_fitness: 12397931,	   winner: PARENT      ,		  crash:False,  dur:2.0282,  kls:8,  hit:11,  aim:776,  dev:10039,  flps:946,  frms:10000
+epoch: E01,   gen: 157,   avg_fitness: 1571964,	   max_fitness: 13840596,	   winner: NEWSPEC  0.97  0.97,		  crash:True,  dur:1.8757,  kls:15,  hit:42,  aim:516,  dev:11346,  flps:394,  frms:9563
+epoch: E01,   gen: 158,   avg_fitness: 703336,	   max_fitness: 7546412,	   winner: PARENT      ,		  crash:False,  dur:2.0136,  kls:6,  hit:44,  aim:286,  dev:9695,  flps:558,  frms:10000
+epoch: E01,   gen: 159,   avg_fitness: 426095,	   max_fitness: 5138725,	   winner: MUTANT  0.18   ,		  crash:False,  dur:2.0037,  kls:10,  hit:31,  aim:318,  dev:5171,  flps:122,  frms:10000
+epoch: E01,   gen: 160,   avg_fitness: 1076382,	   max_fitness: 9616600,	   winner: PARENT      ,		  crash:False,  dur:1.9836,  kls:3,  hit:22,  aim:972,  dev:10394,  flps:597,  frms:10000
+epoch: E01,   gen: 161,   avg_fitness: 376250,	   max_fitness: 5698836,	   winner: CROSS      ,		  crash:False,  dur:1.9713,  kls:4,  hit:31,  aim:387,  dev:9919,  flps:525,  frms:10000
+epoch: E01,   gen: 162,   avg_fitness: 233029,	   max_fitness: 2181629,	   winner: MUTANT  0.12   ,		  crash:False,  dur:2.2832,  kls:4,  hit:17,  aim:263,  dev:6670,  flps:504,  frms:10000
+epoch: E01,   gen: 163,   avg_fitness: 204747,	   max_fitness: 1887530,	   winner: CROSS      ,		  crash:False,  dur:2.0454,  kls:2,  hit:11,  aim:474,  dev:6692,  flps:614,  frms:10000
+epoch: E01,   gen: 164,   avg_fitness: 1718001,	   max_fitness: 28858286,	   winner: PARENT      ,		  crash:False,  dur:1.9868,  kls:12,  hit:44,  aim:580,  dev:9323,  flps:616,  frms:10000
+epoch: E01,   gen: 165,   avg_fitness: 281100,	   max_fitness: 3867284,	   winner: PARENT      ,		  crash:False,  dur:2.082,  kls:4,  hit:19,  aim:368,  dev:11699,  flps:410,  frms:10000
+epoch: E01,   gen: 166,   avg_fitness: 2986527,	   max_fitness: 48362415,	   winner: PARENT      ,		  crash:False,  dur:1.9743,  kls:5,  hit:26,  aim:3070,  dev:8875,  flps:620,  frms:10000
+epoch: E01,   gen: 167,   avg_fitness: 336689,	   max_fitness: 4458043,	   winner: PARENT      ,		  crash:False,  dur:1.9987,  kls:4,  hit:34,  aim:301,  dev:9948,  flps:434,  frms:10000
+epoch: E01,   gen: 168,   avg_fitness: 597320,	   max_fitness: 6948808,	   winner: PARENT      ,		  crash:False,  dur:1.9836,  kls:2,  hit:21,  aim:1095,  dev:9853,  flps:422,  frms:10000
+epoch: E01,   gen: 169,   avg_fitness: 2814640,	   max_fitness: 46063299,	   winner: PARENT      ,		  crash:False,  dur:2.002,  kls:8,  hit:18,  aim:2550,  dev:8056,  flps:654,  frms:10000
+epoch: E01,   gen: 170,   avg_fitness: 333059,	   max_fitness: 1681138,	   winner: PARENT      ,		  crash:False,  dur:1.9698,  kls:3,  hit:17,  aim:253,  dev:8227,  flps:382,  frms:10000
+epoch: E01,   gen: 171,   avg_fitness: 1104902,	   max_fitness: 12148808,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9684,  kls:4,  hit:11,  aim:1714,  dev:8568,  flps:552,  frms:10000
+epoch: E01,   gen: 172,   avg_fitness: 421705,	   max_fitness: 3456664,	   winner: PARENT      ,		  crash:False,  dur:1.996,  kls:2,  hit:40,  aim:391,  dev:10008,  flps:292,  frms:10000
+epoch: E01,   gen: 173,   avg_fitness: 730493,	   max_fitness: 6888703,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.975,  kls:4,  hit:25,  aim:686,  dev:7959,  flps:320,  frms:10000
+epoch: E01,   gen: 174,   avg_fitness: 224753,	   max_fitness: 1988949,	   winner: PARENT      ,		  crash:False,  dur:1.9943,  kls:2,  hit:8,  aim:537,  dev:10377,  flps:526,  frms:10000
+epoch: E01,   gen: 175,   avg_fitness: 845448,	   max_fitness: 10105807,	   winner: PARENT      ,		  crash:False,  dur:1.9695,  kls:6,  hit:20,  aim:870,  dev:8276,  flps:264,  frms:10000
+epoch: E01,   gen: 176,   avg_fitness: 1884409,	   max_fitness: 25857257,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9764,  kls:10,  hit:15,  aim:1303,  dev:9168,  flps:576,  frms:10000
+epoch: E01,   gen: 177,   avg_fitness: 6132488,	   max_fitness: 111714699,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9876,  kls:19,  hit:21,  aim:2440,  dev:8301,  flps:692,  frms:10000
+epoch: E01,   gen: 178,   avg_fitness: 1154935,	   max_fitness: 5523816,	   winner: NEWSPEC  0.44  0.86,		  crash:False,  dur:1.9653,  kls:3,  hit:36,  aim:549,  dev:9267,  flps:242,  frms:10000
+epoch: E01,   gen: 179,   avg_fitness: 752294,	   max_fitness: 8770545,	   winner: CROSS      ,		  crash:False,  dur:1.986,  kls:6,  hit:12,  aim:986,  dev:6079,  flps:502,  frms:10000
+epoch: E01,   gen: 180,   avg_fitness: 1563952,	   max_fitness: 17327645,	   winner: CROSS      ,		  crash:False,  dur:1.963,  kls:5,  hit:33,  aim:1296,  dev:6634,  flps:308,  frms:10000
+epoch: E01,   gen: 181,   avg_fitness: 471108,	   max_fitness: 3856515,	   winner: PARENT      ,		  crash:False,  dur:2.1091,  kls:4,  hit:16,  aim:440,  dev:7080,  flps:638,  frms:10000
+epoch: E01,   gen: 182,   avg_fitness: 3422360,	   max_fitness: 30162244,	   winner: PARENT      ,		  crash:False,  dur:2.0008,  kls:8,  hit:13,  aim:2338,  dev:7247,  flps:500,  frms:10000
+epoch: E01,   gen: 183,   avg_fitness: 2062098,	   max_fitness: 17877545,	   winner: PARENT      ,		  crash:False,  dur:2.0087,  kls:5,  hit:29,  aim:1126,  dev:6989,  flps:683,  frms:10000
+epoch: E01,   gen: 184,   avg_fitness: 2457120,	   max_fitness: 16120266,	   winner: NEWSPEC  0.44  0.96,		  crash:False,  dur:1.9907,  kls:8,  hit:8,  aim:1962,  dev:7443,  flps:300,  frms:10000
+epoch: E01,   gen: 185,   avg_fitness: 3504186,	   max_fitness: 31443458,	   winner: PARENT      ,		  crash:False,  dur:1.992,  kls:5,  hit:54,  aim:1542,  dev:5400,  flps:540,  frms:10000
+epoch: E01,   gen: 186,   avg_fitness: 1631011,	   max_fitness: 16301618,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9809,  kls:7,  hit:41,  aim:689,  dev:7125,  flps:440,  frms:10000
+epoch: E01,   gen: 187,   avg_fitness: 2047255,	   max_fitness: 12918906,	   winner: PARENT      ,		  crash:False,  dur:2.0215,  kls:6,  hit:41,  aim:507,  dev:8445,  flps:702,  frms:10000
+epoch: E01,   gen: 188,   avg_fitness: 3480100,	   max_fitness: 21635498,	   winner: CROSS      ,		  crash:False,  dur:1.9833,  kls:7,  hit:35,  aim:940,  dev:7939,  flps:498,  frms:10000
+epoch: E01,   gen: 189,   avg_fitness: 6343478,	   max_fitness: 41318878,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9652,  kls:15,  hit:35,  aim:803,  dev:10100,  flps:523,  frms:10000
+epoch: E01,   gen: 190,   avg_fitness: 9160237,	   max_fitness: 76804665,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9789,  kls:10,  hit:22,  aim:3507,  dev:4972,  flps:776,  frms:10000
+epoch: E01,   gen: 191,   avg_fitness: 6555400,	   max_fitness: 33894825,	   winner: PARENT      ,		  crash:False,  dur:2.0216,  kls:18,  hit:27,  aim:632,  dev:8038,  flps:824,  frms:10000
+epoch: E01,   gen: 192,   avg_fitness: 9118594,	   max_fitness: 59745630,	   winner: CROSS      ,		  crash:False,  dur:1.9756,  kls:14,  hit:72,  aim:666,  dev:8789,  flps:958,  frms:10000
+epoch: E01,   gen: 193,   avg_fitness: 10422201,	   max_fitness: 67944511,	   winner: PARENT      ,		  crash:False,  dur:1.9771,  kls:22,  hit:34,  aim:889,  dev:11250,  flps:540,  frms:10000
+epoch: E01,   gen: 194,   avg_fitness: 14080552,	   max_fitness: 149989935,	   winner: MUTANT  0.17   ,		  crash:False,  dur:2.0216,  kls:24,  hit:38,  aim:2285,  dev:8110,  flps:296,  frms:10000
+epoch: E01,   gen: 195,   avg_fitness: 4660359,	   max_fitness: 35829105,	   winner: PARENT      ,		  crash:False,  dur:2.0185,  kls:15,  hit:59,  aim:559,  dev:5201,  flps:802,  frms:10000
+epoch: E01,   gen: 196,   avg_fitness: 5764157,	   max_fitness: 36926849,	   winner: PARENT      ,		  crash:False,  dur:1.9962,  kls:8,  hit:33,  aim:1472,  dev:8006,  flps:506,  frms:10000
+epoch: E01,   gen: 197,   avg_fitness: 3262235,	   max_fitness: 30897065,	   winner: PARENT      ,		  crash:False,  dur:1.9999,  kls:7,  hit:52,  aim:942,  dev:6270,  flps:902,  frms:10000
+epoch: E01,   gen: 198,   avg_fitness: 11732486,	   max_fitness: 98775753,	   winner: PARENT      ,		  crash:False,  dur:2.0163,  kls:21,  hit:31,  aim:1397,  dev:8450,  flps:874,  frms:10000
+epoch: E01,   gen: 199,   avg_fitness: 17523337,	   max_fitness: 215843212,	   winner: PARENT      ,		  crash:False,  dur:1.9865,  kls:32,  hit:46,  aim:2191,  dev:9802,  flps:228,  frms:10000
+epoch: E01,   gen: 200,   avg_fitness: 12165196,	   max_fitness: 100315480,	   winner: PARENT      ,		  crash:False,  dur:1.9972,  kls:21,  hit:55,  aim:1277,  dev:9379,  flps:292,  frms:10000
+epoch: E01,   gen: 201,   avg_fitness: 8568551,	   max_fitness: 66370886,	   winner: NEWSPEC  0.51  0.98,		  crash:False,  dur:2.0022,  kls:18,  hit:42,  aim:1007,  dev:7768,  flps:632,  frms:10000
+epoch: E01,   gen: 202,   avg_fitness: 3542928,	   max_fitness: 31037521,	   winner: PARENT      ,		  crash:False,  dur:1.9866,  kls:14,  hit:48,  aim:502,  dev:9067,  flps:674,  frms:10000
+epoch: E01,   gen: 203,   avg_fitness: 29245629,	   max_fitness: 299738701,	   winner: PARENT      ,		  crash:False,  dur:1.9995,  kls:16,  hit:60,  aim:3414,  dev:9453,  flps:812,  frms:10000
+epoch: E01,   gen: 204,   avg_fitness: 13850069,	   max_fitness: 78005930,	   winner: PARENT      ,		  crash:False,  dur:2.0386,  kls:13,  hit:57,  aim:1222,  dev:8017,  flps:750,  frms:10000
+epoch: E01,   gen: 205,   avg_fitness: 10014655,	   max_fitness: 103235766,	   winner: PARENT      ,		  crash:False,  dur:1.9796,  kls:17,  hit:39,  aim:1721,  dev:7478,  flps:689,  frms:10000
+epoch: E01,   gen: 206,   avg_fitness: 8956712,	   max_fitness: 38417125,	   winner: PARENT      ,		  crash:False,  dur:1.9827,  kls:11,  hit:59,  aim:661,  dev:8771,  flps:750,  frms:10000
+epoch: E01,   gen: 207,   avg_fitness: 14546433,	   max_fitness: 180206395,	   winner: PARENT      ,		  crash:False,  dur:1.9854,  kls:18,  hit:62,  aim:1911,  dev:9758,  flps:632,  frms:10000
+epoch: E01,   gen: 208,   avg_fitness: 10270102,	   max_fitness: 52183219,	   winner: PARENT      ,		  crash:False,  dur:1.9747,  kls:10,  hit:31,  aim:1570,  dev:9293,  flps:626,  frms:10000
+epoch: E01,   gen: 209,   avg_fitness: 10934956,	   max_fitness: 59583945,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.978,  kls:18,  hit:31,  aim:1025,  dev:11051,  flps:518,  frms:10000
+epoch: E01,   gen: 210,   avg_fitness: 9296477,	   max_fitness: 101259782,	   winner: PARENT      ,		  crash:False,  dur:1.9751,  kls:22,  hit:36,  aim:1193,  dev:10656,  flps:724,  frms:10000
+epoch: E01,   gen: 211,   avg_fitness: 13793698,	   max_fitness: 89790376,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.981,  kls:16,  hit:53,  aim:1604,  dev:7384,  flps:334,  frms:10000
+epoch: E01,   gen: 212,   avg_fitness: 9911692,	   max_fitness: 87167593,	   winner: PARENT      ,		  crash:False,  dur:2.1129,  kls:16,  hit:67,  aim:1172,  dev:6100,  flps:650,  frms:10000
+epoch: E01,   gen: 213,   avg_fitness: 3382307,	   max_fitness: 33109448,	   winner: PARENT      ,		  crash:False,  dur:2.0358,  kls:15,  hit:42,  aim:589,  dev:8349,  flps:598,  frms:10000
+epoch: E01,   gen: 214,   avg_fitness: 7670200,	   max_fitness: 64930698,	   winner: PARENT      ,		  crash:False,  dur:1.9798,  kls:18,  hit:14,  aim:1648,  dev:10462,  flps:894,  frms:10000
+epoch: E01,   gen: 215,   avg_fitness: 4511183,	   max_fitness: 53240006,	   winner: PARENT      ,		  crash:False,  dur:2.0043,  kls:15,  hit:52,  aim:830,  dev:8180,  flps:586,  frms:10000
+epoch: E01,   gen: 216,   avg_fitness: 5580218,	   max_fitness: 60410119,	   winner: PARENT      ,		  crash:False,  dur:1.9839,  kls:19,  hit:55,  aim:715,  dev:7008,  flps:756,  frms:10000
+epoch: E01,   gen: 217,   avg_fitness: 9989389,	   max_fitness: 84772257,	   winner: CROSS      ,		  crash:False,  dur:1.9818,  kls:19,  hit:42,  aim:1167,  dev:8657,  flps:638,  frms:10000
+epoch: E01,   gen: 218,   avg_fitness: 10143644,	   max_fitness: 62307583,	   winner: PARENT      ,		  crash:False,  dur:2.0355,  kls:17,  hit:38,  aim:957,  dev:8263,  flps:842,  frms:10000
+epoch: E01,   gen: 219,   avg_fitness: 4707846,	   max_fitness: 38731230,	   winner: PARENT      ,		  crash:False,  dur:2.0309,  kls:17,  hit:32,  aim:653,  dev:8991,  flps:812,  frms:10000
+epoch: E01,   gen: 220,   avg_fitness: 9853131,	   max_fitness: 55490851,	   winner: PARENT      ,		  crash:False,  dur:2.0162,  kls:12,  hit:29,  aim:1486,  dev:8257,  flps:720,  frms:10000
+epoch: E01,   gen: 221,   avg_fitness: 13424891,	   max_fitness: 70951643,	   winner: PARENT      ,		  crash:False,  dur:2.0125,  kls:17,  hit:33,  aim:1167,  dev:9029,  flps:818,  frms:10000
+epoch: E01,   gen: 222,   avg_fitness: 6676117,	   max_fitness: 39613690,	   winner: MUTANT  0.07   ,		  crash:False,  dur:2.0449,  kls:10,  hit:38,  aim:1027,  dev:8163,  flps:771,  frms:10000
+epoch: E01,   gen: 223,   avg_fitness: 8249373,	   max_fitness: 58170067,	   winner: PARENT      ,		  crash:False,  dur:2.0329,  kls:13,  hit:41,  aim:1107,  dev:8645,  flps:754,  frms:10000
+epoch: E01,   gen: 224,   avg_fitness: 16293246,	   max_fitness: 156006104,	   winner: PARENT      ,		  crash:False,  dur:2.0271,  kls:19,  hit:53,  aim:1807,  dev:8930,  flps:640,  frms:10000
+epoch: E01,   gen: 225,   avg_fitness: 8746271,	   max_fitness: 64022464,	   winner: CROSS      ,		  crash:False,  dur:1.9717,  kls:14,  hit:69,  aim:866,  dev:7122,  flps:734,  frms:10000
+epoch: E01,   gen: 226,   avg_fitness: 18941986,	   max_fitness: 151232948,	   winner: CROSS      ,		  crash:False,  dur:1.9783,  kls:23,  hit:84,  aim:1315,  dev:6709,  flps:460,  frms:10000
+epoch: E01,   gen: 227,   avg_fitness: 21928590,	   max_fitness: 157638799,	   winner: PARENT      ,		  crash:False,  dur:2.0077,  kls:15,  hit:66,  aim:2293,  dev:6926,  flps:534,  frms:10000
+epoch: E01,   gen: 228,   avg_fitness: 34865136,	   max_fitness: 304812267,	   winner: PARENT      ,		  crash:False,  dur:2.0022,  kls:28,  hit:58,  aim:2928,  dev:7126,  flps:380,  frms:10000
+epoch: E01,   gen: 229,   avg_fitness: 13683962,	   max_fitness: 112630496,	   winner: PARENT      ,		  crash:False,  dur:2.0105,  kls:16,  hit:82,  aim:1157,  dev:8473,  flps:646,  frms:10000
+epoch: E01,   gen: 230,   avg_fitness: 9616754,	   max_fitness: 71724330,	   winner: PARENT      ,		  crash:False,  dur:2.0299,  kls:19,  hit:57,  aim:860,  dev:7429,  flps:616,  frms:10000
+epoch: E01,   gen: 231,   avg_fitness: 35749242,	   max_fitness: 206721026,	   winner: PARENT      ,		  crash:False,  dur:2.0003,  kls:18,  hit:64,  aim:2470,  dev:8073,  flps:508,  frms:10000
+epoch: E01,   gen: 232,   avg_fitness: 14403278,	   max_fitness: 158526377,	   winner: PARENT      ,		  crash:False,  dur:1.9849,  kls:16,  hit:76,  aim:1932,  dev:7865,  flps:480,  frms:10000
+epoch: E01,   gen: 233,   avg_fitness: 26798028,	   max_fitness: 201682794,	   winner: PARENT      ,		  crash:False,  dur:1.9833,  kls:15,  hit:87,  aim:2521,  dev:7285,  flps:438,  frms:10000
+epoch: E01,   gen: 234,   avg_fitness: 19535211,	   max_fitness: 103118825,	   winner: PARENT      ,		  crash:False,  dur:1.9931,  kls:15,  hit:92,  aim:1198,  dev:7440,  flps:478,  frms:10000
+epoch: E01,   gen: 235,   avg_fitness: 22129892,	   max_fitness: 272466840,	   winner: PARENT      ,		  crash:False,  dur:1.9878,  kls:18,  hit:56,  aim:3840,  dev:5501,  flps:664,  frms:10000
+epoch: E01,   gen: 236,   avg_fitness: 14484620,	   max_fitness: 129640663,	   winner: PARENT      ,		  crash:False,  dur:1.9792,  kls:25,  hit:47,  aim:1472,  dev:9021,  flps:370,  frms:10000
+epoch: E01,   gen: 237,   avg_fitness: 10525401,	   max_fitness: 82187276,	   winner: PARENT      ,		  crash:False,  dur:2.0047,  kls:22,  hit:51,  aim:1094,  dev:7367,  flps:356,  frms:10000
+epoch: E01,   gen: 238,   avg_fitness: 8315187,	   max_fitness: 76594549,	   winner: PARENT      ,		  crash:False,  dur:1.99,  kls:15,  hit:47,  aim:1435,  dev:9666,  flps:320,  frms:10000
+epoch: E01,   gen: 239,   avg_fitness: 5349888,	   max_fitness: 37546534,	   winner: PARENT      ,		  crash:False,  dur:1.9689,  kls:8,  hit:50,  aim:1056,  dev:6689,  flps:800,  frms:10000
+epoch: E01,   gen: 240,   avg_fitness: 13989074,	   max_fitness: 129932441,	   winner: CROSS      ,		  crash:False,  dur:1.9799,  kls:21,  hit:63,  aim:1254,  dev:6279,  flps:920,  frms:10000
+epoch: E01,   gen: 241,   avg_fitness: 13061717,	   max_fitness: 88590215,	   winner: CROSS      ,		  crash:False,  dur:1.9776,  kls:16,  hit:69,  aim:1137,  dev:6464,  flps:656,  frms:10000
+epoch: E01,   gen: 242,   avg_fitness: 11344636,	   max_fitness: 55964364,	   winner: PARENT      ,		  crash:False,  dur:1.9876,  kls:18,  hit:49,  aim:956,  dev:6877,  flps:352,  frms:10000
+epoch: E01,   gen: 243,   avg_fitness: 25428432,	   max_fitness: 267406720,	   winner: PARENT      ,		  crash:False,  dur:2.0011,  kls:27,  hit:53,  aim:2792,  dev:7428,  flps:376,  frms:10000
+epoch: E01,   gen: 244,   avg_fitness: 12744862,	   max_fitness: 90357961,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9661,  kls:20,  hit:59,  aim:1174,  dev:7613,  flps:358,  frms:10000
+epoch: E01,   gen: 245,   avg_fitness: 7276896,	   max_fitness: 44632021,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.015,  kls:13,  hit:65,  aim:724,  dev:5765,  flps:767,  frms:10000
+epoch: E01,   gen: 246,   avg_fitness: 11524014,	   max_fitness: 65384081,	   winner: CROSS      ,		  crash:False,  dur:1.9736,  kls:11,  hit:45,  aim:1585,  dev:7314,  flps:568,  frms:10000
+epoch: E01,   gen: 247,   avg_fitness: 5680452,	   max_fitness: 36942207,	   winner: PARENT      ,		  crash:False,  dur:1.9803,  kls:11,  hit:45,  aim:914,  dev:8528,  flps:432,  frms:10000
+epoch: E01,   gen: 248,   avg_fitness: 8407315,	   max_fitness: 61749895,	   winner: PARENT      ,		  crash:False,  dur:1.9676,  kls:15,  hit:25,  aim:1474,  dev:7239,  flps:880,  frms:10000
+epoch: E01,   gen: 249,   avg_fitness: 17303519,	   max_fitness: 159055767,	   winner: PARENT      ,		  crash:False,  dur:2.007,  kls:26,  hit:58,  aim:1685,  dev:6594,  flps:386,  frms:10000
+epoch: E01,   gen: 250,   avg_fitness: 13346503,	   max_fitness: 101634701,	   winner: PARENT      ,		  crash:False,  dur:1.9859,  kls:22,  hit:31,  aim:1493,  dev:7979,  flps:716,  frms:10000
+epoch: E01,   gen: 251,   avg_fitness: 14962439,	   max_fitness: 122235574,	   winner: PARENT      ,		  crash:False,  dur:2.0116,  kls:26,  hit:29,  aim:1494,  dev:9477,  flps:716,  frms:10000
+epoch: E01,   gen: 252,   avg_fitness: 6859742,	   max_fitness: 93583301,	   winner: PARENT      ,		  crash:False,  dur:2.033,  kls:29,  hit:30,  aim:1026,  dev:8843,  flps:736,  frms:10000
+epoch: E01,   gen: 253,   avg_fitness: 2220856,	   max_fitness: 29222514,	   winner: PARENT      ,		  crash:False,  dur:1.9755,  kls:15,  hit:16,  aim:894,  dev:8745,  flps:806,  frms:10000
+epoch: E01,   gen: 254,   avg_fitness: 6048175,	   max_fitness: 61115121,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9746,  kls:15,  hit:36,  aim:1202,  dev:8756,  flps:572,  frms:10000
+epoch: E01,   gen: 255,   avg_fitness: 3135997,	   max_fitness: 46673802,	   winner: PARENT      ,		  crash:False,  dur:1.9758,  kls:15,  hit:23,  aim:1155,  dev:9343,  flps:670,  frms:10000
+epoch: E01,   gen: 256,   avg_fitness: 2374843,	   max_fitness: 31048989,	   winner: PARENT      ,		  crash:False,  dur:2.0003,  kls:17,  hit:25,  aim:638,  dev:8188,  flps:830,  frms:10000
+epoch: E01,   gen: 257,   avg_fitness: 17053681,	   max_fitness: 148224754,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9863,  kls:13,  hit:54,  aim:2441,  dev:7665,  flps:764,  frms:10000
+epoch: E01,   gen: 258,   avg_fitness: 12044735,	   max_fitness: 58898681,	   winner: CROSS      ,		  crash:False,  dur:1.9869,  kls:10,  hit:60,  aim:1261,  dev:7601,  flps:564,  frms:10000
+epoch: E01,   gen: 259,   avg_fitness: 7315353,	   max_fitness: 84109113,	   winner: CROSS      ,		  crash:False,  dur:1.9895,  kls:17,  hit:42,  aim:1420,  dev:6036,  flps:742,  frms:10000
+epoch: E01,   gen: 260,   avg_fitness: 14402748,	   max_fitness: 119148177,	   winner: PARENT      ,		  crash:False,  dur:2.0213,  kls:18,  hit:54,  aim:1635,  dev:6385,  flps:646,  frms:10000
+epoch: E01,   gen: 261,   avg_fitness: 4001058,	   max_fitness: 40458391,	   winner: CROSS      ,		  crash:False,  dur:1.9701,  kls:12,  hit:26,  aim:1229,  dev:7840,  flps:648,  frms:10000
+epoch: E01,   gen: 262,   avg_fitness: 13069682,	   max_fitness: 177912823,	   winner: PARENT      ,		  crash:False,  dur:2.0234,  kls:32,  hit:62,  aim:1275,  dev:6428,  flps:646,  frms:10000
+epoch: E01,   gen: 263,   avg_fitness: 9798423,	   max_fitness: 70617571,	   winner: PARENT      ,		  crash:False,  dur:2.0014,  kls:10,  hit:27,  aim:2798,  dev:5699,  flps:656,  frms:10000
+epoch: E01,   gen: 264,   avg_fitness: 11776280,	   max_fitness: 60976223,	   winner: PARENT      ,		  crash:False,  dur:2.0203,  kls:17,  hit:41,  aim:1075,  dev:6941,  flps:564,  frms:10000
+epoch: E01,   gen: 265,   avg_fitness: 15647967,	   max_fitness: 188605514,	   winner: PARENT      ,		  crash:False,  dur:2.015,  kls:25,  hit:39,  aim:2287,  dev:6016,  flps:782,  frms:10000
+epoch: E01,   gen: 266,   avg_fitness: 30764880,	   max_fitness: 444167713,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9801,  kls:30,  hit:53,  aim:3785,  dev:6371,  flps:648,  frms:10000
+epoch: E01,   gen: 267,   avg_fitness: 3644899,	   max_fitness: 21521999,	   winner: CROSS      ,		  crash:False,  dur:1.9843,  kls:11,  hit:13,  aim:991,  dev:8126,  flps:932,  frms:10000
+epoch: E01,   gen: 268,   avg_fitness: 7443137,	   max_fitness: 91486522,	   winner: CROSS      ,		  crash:False,  dur:1.9766,  kls:17,  hit:11,  aim:2791,  dev:8730,  flps:1242,  frms:10000
+epoch: E01,   gen: 269,   avg_fitness: 3823893,	   max_fitness: 36277899,	   winner: PARENT      ,		  crash:False,  dur:1.9873,  kls:11,  hit:15,  aim:1486,  dev:7463,  flps:1132,  frms:10000
+epoch: E01,   gen: 270,   avg_fitness: 5485283,	   max_fitness: 33315872,	   winner: PARENT      ,		  crash:False,  dur:1.9751,  kls:16,  hit:7,  aim:1610,  dev:7657,  flps:994,  frms:10000
+epoch: E01,   gen: 271,   avg_fitness: 7141239,	   max_fitness: 67906295,	   winner: PARENT      ,		  crash:False,  dur:1.9876,  kls:13,  hit:13,  aim:2618,  dev:7525,  flps:1120,  frms:10000
+epoch: E01,   gen: 272,   avg_fitness: 6989858,	   max_fitness: 47758325,	   winner: NEWSPEC  0.92  0.89,		  crash:False,  dur:1.9838,  kls:27,  hit:5,  aim:1845,  dev:8601,  flps:666,  frms:10000
+epoch: E01,   gen: 273,   avg_fitness: 3967494,	   max_fitness: 36652464,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.998,  kls:50,  hit:0,  aim:2754,  dev:7938,  flps:716,  frms:10000
+epoch: E01,   gen: 274,   avg_fitness: 16266483,	   max_fitness: 103549204,	   winner: PARENT      ,		  crash:False,  dur:2.0202,  kls:59,  hit:1,  aim:4209,  dev:8377,  flps:596,  frms:10000
+epoch: E01,   gen: 275,   avg_fitness: 26395371,	   max_fitness: 178499291,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9722,  kls:56,  hit:2,  aim:5322,  dev:7968,  flps:825,  frms:10000
+epoch: E01,   gen: 276,   avg_fitness: 48907245,	   max_fitness: 274104756,	   winner: PARENT      ,		  crash:False,  dur:2.0003,  kls:51,  hit:6,  aim:4554,  dev:10826,  flps:724,  frms:10000
+epoch: E01,   gen: 277,   avg_fitness: 16671066,	   max_fitness: 107365862,	   winner: PARENT      ,		  crash:False,  dur:2.0133,  kls:56,  hit:1,  aim:4092,  dev:8258,  flps:894,  frms:10000
+epoch: E01,   gen: 278,   avg_fitness: 33081690,	   max_fitness: 213417710,	   winner: PARENT      ,		  crash:False,  dur:1.9753,  kls:62,  hit:2,  aim:6806,  dev:8902,  flps:407,  frms:10000
+epoch: E01,   gen: 279,   avg_fitness: 30198779,	   max_fitness: 201019665,	   winner: PARENT      ,		  crash:False,  dur:2.0453,  kls:59,  hit:2,  aim:6984,  dev:8594,  flps:377,  frms:10000
+epoch: E01,   gen: 280,   avg_fitness: 36320969,	   max_fitness: 139711345,	   winner: PARENT      ,		  crash:False,  dur:1.9748,  kls:49,  hit:2,  aim:4778,  dev:7985,  flps:806,  frms:10000
+epoch: E01,   gen: 281,   avg_fitness: 45842810,	   max_fitness: 269629652,	   winner: PARENT      ,		  crash:False,  dur:1.9705,  kls:62,  hit:2,  aim:7687,  dev:8627,  flps:617,  frms:10000
+epoch: E01,   gen: 282,   avg_fitness: 32905573,	   max_fitness: 160358384,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9822,  kls:55,  hit:3,  aim:5801,  dev:9383,  flps:188,  frms:10000
+epoch: E01,   gen: 283,   avg_fitness: 39030259,	   max_fitness: 284606257,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9872,  kls:55,  hit:2,  aim:10439,  dev:7364,  flps:487,  frms:10000
+epoch: E01,   gen: 284,   avg_fitness: 47134762,	   max_fitness: 282696390,	   winner: PARENT      ,		  crash:False,  dur:1.9712,  kls:41,  hit:7,  aim:6808,  dev:8251,  flps:450,  frms:10000
+epoch: E01,   gen: 285,   avg_fitness: 20945322,	   max_fitness: 107461862,	   winner: PARENT      ,		  crash:False,  dur:1.9876,  kls:56,  hit:1,  aim:4042,  dev:9760,  flps:747,  frms:10000
+epoch: E01,   gen: 286,   avg_fitness: 22160174,	   max_fitness: 196806319,	   winner: CROSS      ,		  crash:False,  dur:1.9898,  kls:52,  hit:6,  aim:3949,  dev:7913,  flps:550,  frms:10000
+epoch: E01,   gen: 287,   avg_fitness: 23137289,	   max_fitness: 197196085,	   winner: PARENT      ,		  crash:False,  dur:1.9873,  kls:76,  hit:1,  aim:6401,  dev:9974,  flps:435,  frms:10000
+epoch: E01,   gen: 288,   avg_fitness: 26567479,	   max_fitness: 122458345,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9602,  kls:50,  hit:6,  aim:3614,  dev:7464,  flps:186,  frms:10000
+epoch: E01,   gen: 289,   avg_fitness: 12397542,	   max_fitness: 176872713,	   winner: PARENT      ,		  crash:False,  dur:1.9755,  kls:70,  hit:1,  aim:6000,  dev:8496,  flps:610,  frms:10000
+epoch: E01,   gen: 290,   avg_fitness: 13861619,	   max_fitness: 129950323,	   winner: CROSS      ,		  crash:False,  dur:1.9713,  kls:50,  hit:5,  aim:3057,  dev:10392,  flps:366,  frms:10000
+epoch: E01,   gen: 291,   avg_fitness: 42541222,	   max_fitness: 214306352,	   winner: CROSS      ,		  crash:False,  dur:1.9814,  kls:35,  hit:10,  aim:4119,  dev:9141,  flps:662,  frms:10000
+epoch: E01,   gen: 292,   avg_fitness: 31186007,	   max_fitness: 157122633,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9714,  kls:49,  hit:3,  aim:4521,  dev:9472,  flps:583,  frms:10000
+epoch: E01,   gen: 293,   avg_fitness: 50439586,	   max_fitness: 212427678,	   winner: PARENT      ,		  crash:False,  dur:1.9798,  kls:64,  hit:2,  aim:6132,  dev:9054,  flps:500,  frms:10000
+epoch: E01,   gen: 294,   avg_fitness: 21517692,	   max_fitness: 182469262,	   winner: PARENT      ,		  crash:False,  dur:2.0529,  kls:61,  hit:4,  aim:3949,  dev:9649,  flps:426,  frms:10000
+epoch: E01,   gen: 295,   avg_fitness: 41536353,	   max_fitness: 183062097,	   winner: PARENT      ,		  crash:False,  dur:1.9716,  kls:55,  hit:3,  aim:4799,  dev:8727,  flps:608,  frms:10000
+epoch: E01,   gen: 296,   avg_fitness: 18753962,	   max_fitness: 133252087,	   winner: PARENT      ,		  crash:False,  dur:2.0258,  kls:49,  hit:5,  aim:3126,  dev:8000,  flps:560,  frms:10000
+epoch: E01,   gen: 297,   avg_fitness: 41625332,	   max_fitness: 189720179,	   winner: CROSS      ,		  crash:False,  dur:1.9727,  kls:56,  hit:5,  aim:3814,  dev:8714,  flps:540,  frms:10000
+epoch: E01,   gen: 298,   avg_fitness: 45046413,	   max_fitness: 222893509,	   winner: CROSS      ,		  crash:False,  dur:1.9803,  kls:52,  hit:6,  aim:4111,  dev:8863,  flps:626,  frms:10000
+epoch: E01,   gen: 299,   avg_fitness: 25843656,	   max_fitness: 227645396,	   winner: CROSS      ,		  crash:False,  dur:1.9716,  kls:57,  hit:2,  aim:7120,  dev:8267,  flps:632,  frms:10000
+epoch: E01,   gen: 300,   avg_fitness: 48211983,	   max_fitness: 156727079,	   winner: PARENT      ,		  crash:False,  dur:1.9823,  kls:55,  hit:5,  aim:3143,  dev:8369,  flps:610,  frms:10000
+epoch: E01,   gen: 301,   avg_fitness: 29432672,	   max_fitness: 161783616,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9681,  kls:61,  hit:3,  aim:4173,  dev:9100,  flps:432,  frms:10000
+epoch: E01,   gen: 302,   avg_fitness: 38389086,	   max_fitness: 142125873,	   winner: CROSS      ,		  crash:False,  dur:1.9785,  kls:50,  hit:4,  aim:3726,  dev:9254,  flps:456,  frms:10000
+epoch: E01,   gen: 303,   avg_fitness: 34795723,	   max_fitness: 132886447,	   winner: PARENT      ,		  crash:False,  dur:2.0378,  kls:48,  hit:4,  aim:3710,  dev:8626,  flps:464,  frms:10000
+epoch: E01,   gen: 304,   avg_fitness: 42622920,	   max_fitness: 205071307,	   winner: PARENT      ,		  crash:False,  dur:1.9873,  kls:61,  hit:2,  aim:5858,  dev:9057,  flps:606,  frms:10000
+epoch: E01,   gen: 305,   avg_fitness: 58060593,	   max_fitness: 222328289,	   winner: PARENT      ,		  crash:False,  dur:1.9838,  kls:67,  hit:4,  aim:4712,  dev:8492,  flps:398,  frms:10000
+epoch: E01,   gen: 306,   avg_fitness: 12000068,	   max_fitness: 66409811,	   winner: PARENT      ,		  crash:False,  dur:1.9623,  kls:46,  hit:1,  aim:3527,  dev:8259,  flps:562,  frms:10000
+epoch: E01,   gen: 307,   avg_fitness: 40208822,	   max_fitness: 213671032,	   winner: PARENT      ,		  crash:False,  dur:2.0369,  kls:49,  hit:4,  aim:5015,  dev:8782,  flps:756,  frms:10000
+epoch: E01,   gen: 308,   avg_fitness: 36498553,	   max_fitness: 207673581,	   winner: PARENT      ,		  crash:False,  dur:2.0408,  kls:51,  hit:11,  aim:2668,  dev:8363,  flps:684,  frms:10000
+epoch: E01,   gen: 309,   avg_fitness: 24524975,	   max_fitness: 123160152,	   winner: PARENT      ,		  crash:False,  dur:1.9856,  kls:66,  hit:2,  aim:3498,  dev:9210,  flps:466,  frms:10000
+epoch: E01,   gen: 310,   avg_fitness: 17047906,	   max_fitness: 105999193,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9638,  kls:47,  hit:5,  aim:3058,  dev:5239,  flps:566,  frms:10000
+epoch: E01,   gen: 311,   avg_fitness: 9336444,	   max_fitness: 65291317,	   winner: CROSS      ,		  crash:False,  dur:1.9847,  kls:34,  hit:1,  aim:4712,  dev:7693,  flps:594,  frms:10000
+epoch: E01,   gen: 312,   avg_fitness: 26416122,	   max_fitness: 135118642,	   winner: MUTANT  0.16   ,		  crash:False,  dur:1.9697,  kls:33,  hit:3,  aim:5892,  dev:8010,  flps:660,  frms:10000
+epoch: E01,   gen: 313,   avg_fitness: 16806077,	   max_fitness: 101492007,	   winner: PARENT      ,		  crash:False,  dur:1.9781,  kls:62,  hit:1,  aim:4073,  dev:7657,  flps:596,  frms:10000
+epoch: E01,   gen: 314,   avg_fitness: 47444966,	   max_fitness: 240707872,	   winner: PARENT      ,		  crash:False,  dur:2.0219,  kls:74,  hit:3,  aim:5055,  dev:8093,  flps:532,  frms:10000
+epoch: E01,   gen: 315,   avg_fitness: 36087770,	   max_fitness: 150381680,	   winner: CROSS      ,		  crash:False,  dur:1.9792,  kls:54,  hit:5,  aim:2959,  dev:8760,  flps:649,  frms:10000
+epoch: E01,   gen: 316,   avg_fitness: 49023641,	   max_fitness: 192829367,	   winner: PARENT      ,		  crash:False,  dur:2.0208,  kls:62,  hit:3,  aim:4313,  dev:9396,  flps:632,  frms:10000
+epoch: E01,   gen: 317,   avg_fitness: 20577992,	   max_fitness: 238115533,	   winner: PARENT      ,		  crash:False,  dur:2.0208,  kls:58,  hit:5,  aim:4741,  dev:8702,  flps:498,  frms:10000
+epoch: E01,   gen: 318,   avg_fitness: 36791870,	   max_fitness: 232000673,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9969,  kls:41,  hit:4,  aim:5882,  dev:8801,  flps:1043,  frms:10000
+epoch: E01,   gen: 319,   avg_fitness: 21787372,	   max_fitness: 106171418,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9699,  kls:41,  hit:2,  aim:4321,  dev:8522,  flps:740,  frms:10000
+epoch: E01,   gen: 320,   avg_fitness: 32615183,	   max_fitness: 124878033,	   winner: PARENT      ,		  crash:False,  dur:2.0036,  kls:64,  hit:2,  aim:4133,  dev:7101,  flps:438,  frms:10000
+epoch: E01,   gen: 321,   avg_fitness: 51675887,	   max_fitness: 227542815,	   winner: PARENT      ,		  crash:False,  dur:2.0214,  kls:64,  hit:4,  aim:4912,  dev:7995,  flps:472,  frms:10000
+epoch: E01,   gen: 322,   avg_fitness: 66655489,	   max_fitness: 307063344,	   winner: CROSS      ,		  crash:False,  dur:1.9786,  kls:61,  hit:7,  aim:4155,  dev:9686,  flps:678,  frms:10000
+epoch: E01,   gen: 323,   avg_fitness: 60427585,	   max_fitness: 302822149,	   winner: MUTANT  0.19   ,		  crash:False,  dur:1.9728,  kls:40,  hit:12,  aim:5387,  dev:7989,  flps:450,  frms:10000
+epoch: E01,   gen: 324,   avg_fitness: 34238405,	   max_fitness: 166213643,	   winner: CROSS      ,		  crash:False,  dur:2.129,  kls:63,  hit:3,  aim:4086,  dev:9225,  flps:448,  frms:10000
+epoch: E01,   gen: 325,   avg_fitness: 50129446,	   max_fitness: 224651745,	   winner: PARENT      ,		  crash:False,  dur:1.9635,  kls:35,  hit:7,  aim:5479,  dev:7907,  flps:764,  frms:10000
+epoch: E01,   gen: 326,   avg_fitness: 14274652,	   max_fitness: 117992753,	   winner: CROSS      ,		  crash:False,  dur:2.0127,  kls:61,  hit:2,  aim:3969,  dev:8998,  flps:354,  frms:10000
+epoch: E01,   gen: 327,   avg_fitness: 28524228,	   max_fitness: 185142927,	   winner: CROSS      ,		  crash:False,  dur:2.0017,  kls:48,  hit:5,  aim:4664,  dev:8830,  flps:414,  frms:10000
+epoch: E01,   gen: 328,   avg_fitness: 41792685,	   max_fitness: 237289007,	   winner: PARENT      ,		  crash:False,  dur:2.0185,  kls:69,  hit:3,  aim:6382,  dev:8197,  flps:288,  frms:10000
+epoch: E01,   gen: 329,   avg_fitness: 35096927,	   max_fitness: 232946185,	   winner: CROSS      ,		  crash:False,  dur:1.9845,  kls:63,  hit:4,  aim:4667,  dev:9004,  flps:544,  frms:10000
+epoch: E01,   gen: 330,   avg_fitness: 24464926,	   max_fitness: 129929469,	   winner: PARENT      ,		  crash:False,  dur:1.9845,  kls:51,  hit:11,  aim:1918,  dev:6175,  flps:645,  frms:10000
+epoch: E01,   gen: 331,   avg_fitness: 37311885,	   max_fitness: 229730584,	   winner: PARENT      ,		  crash:False,  dur:2.0508,  kls:52,  hit:9,  aim:3696,  dev:6134,  flps:702,  frms:10000
+epoch: E01,   gen: 332,   avg_fitness: 46947014,	   max_fitness: 251583883,	   winner: NEWSPEC  0.7  0.99,		  crash:False,  dur:1.9779,  kls:51,  hit:10,  aim:4066,  dev:5822,  flps:632,  frms:10000
+epoch: E01,   gen: 333,   avg_fitness: 42332989,	   max_fitness: 162053607,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9851,  kls:55,  hit:10,  aim:2763,  dev:6368,  flps:366,  frms:10000
+epoch: E01,   gen: 334,   avg_fitness: 16399502,	   max_fitness: 94455233,	   winner: PARENT      ,		  crash:False,  dur:1.9714,  kls:48,  hit:7,  aim:1872,  dev:6468,  flps:713,  frms:10000
+epoch: E01,   gen: 335,   avg_fitness: 88996680,	   max_fitness: 295978391,	   winner: PARENT      ,		  crash:False,  dur:1.9925,  kls:54,  hit:17,  aim:3233,  dev:5496,  flps:662,  frms:10000
+epoch: E01,   gen: 336,   avg_fitness: 61966818,	   max_fitness: 227283249,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9846,  kls:62,  hit:17,  aim:4731,  dev:5052,  flps:54,  frms:10000
+epoch: E01,   gen: 337,   avg_fitness: 103425888,	   max_fitness: 513811372,	   winner: PARENT      ,		  crash:False,  dur:1.9723,  kls:57,  hit:15,  aim:6753,  dev:5058,  flps:440,  frms:10000
+epoch: E01,   gen: 338,   avg_fitness: 4728,	   max_fitness: 75887,	   winner: NEWSPEC  0.52  0.89,		  crash:True,  dur:0.7455,  kls:8,  hit:8,  aim:266,  dev:7932,  flps:0,  frms:3752
+epoch: E01,   gen: 339,   avg_fitness: 90339,	   max_fitness: 845597,	   winner: MUTANT  0.06   ,		  crash:True,  dur:1.9376,  kls:3,  hit:40,  aim:374,  dev:7294,  flps:18,  frms:9875
+epoch: E01,   gen: 340,   avg_fitness: 78087,	   max_fitness: 645468,	   winner: MUTANT  0.1   ,		  crash:True,  dur:0.8913,  kls:10,  hit:10,  aim:565,  dev:9589,  flps:12,  frms:4585
+epoch: E01,   gen: 341,   avg_fitness: 233376,	   max_fitness: 3154739,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9839,  kls:9,  hit:26,  aim:806,  dev:9461,  flps:0,  frms:10000
+epoch: E01,   gen: 342,   avg_fitness: 172419,	   max_fitness: 1222301,	   winner: PARENT      ,		  crash:False,  dur:2.023,  kls:5,  hit:22,  aim:570,  dev:9979,  flps:0,  frms:10000
+epoch: E01,   gen: 343,   avg_fitness: 112220,	   max_fitness: 1490850,	   winner: MUTANT  0.19   ,		  crash:True,  dur:0.7106,  kls:26,  hit:3,  aim:752,  dev:12457,  flps:65,  frms:3641
+epoch: E01,   gen: 344,   avg_fitness: 245759,	   max_fitness: 1514580,	   winner: PARENT      ,		  crash:True,  dur:1.1926,  kls:14,  hit:16,  aim:275,  dev:10500,  flps:116,  frms:5947
+epoch: E01,   gen: 345,   avg_fitness: 431715,	   max_fitness: 4473852,	   winner: MUTANT  0.08   ,		  crash:True,  dur:0.9402,  kls:26,  hit:13,  aim:734,  dev:12365,  flps:62,  frms:4737
+epoch: E01,   gen: 346,   avg_fitness: 107476,	   max_fitness: 997267,	   winner: PARENT      ,		  crash:True,  dur:0.5495,  kls:18,  hit:4,  aim:2065,  dev:9116,  flps:4,  frms:2649
+epoch: E01,   gen: 347,   avg_fitness: 1831501,	   max_fitness: 24726961,	   winner: NEWSPEC  0.75  0.96,		  crash:True,  dur:1.8355,  kls:24,  hit:16,  aim:1328,  dev:11043,  flps:264,  frms:9274
+epoch: E01,   gen: 348,   avg_fitness: 1697879,	   max_fitness: 20730279,	   winner: MUTANT  0.1   ,		  crash:True,  dur:0.9722,  kls:28,  hit:11,  aim:2525,  dev:10624,  flps:206,  frms:4922
+epoch: E01,   gen: 349,   avg_fitness: 1233449,	   max_fitness: 19783805,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.975,  kls:10,  hit:39,  aim:520,  dev:9920,  flps:534,  frms:10000
+epoch: E01,   gen: 350,   avg_fitness: 210600,	   max_fitness: 1981507,	   winner: PARENT      ,		  crash:True,  dur:1.0435,  kls:12,  hit:12,  aim:513,  dev:11756,  flps:166,  frms:4998
+epoch: E01,   gen: 351,   avg_fitness: 697703,	   max_fitness: 9149975,	   winner: CROSS      ,		  crash:True,  dur:1.0521,  kls:10,  hit:11,  aim:2409,  dev:10777,  flps:302,  frms:5325
+epoch: E01,   gen: 352,   avg_fitness: 354343,	   max_fitness: 5957515,	   winner: PARENT      ,		  crash:False,  dur:2.0063,  kls:5,  hit:24,  aim:383,  dev:9959,  flps:608,  frms:10000
+epoch: E01,   gen: 353,   avg_fitness: 1253246,	   max_fitness: 8264401,	   winner: MUTANT  0.06   ,		  crash:True,  dur:0.8997,  kls:26,  hit:7,  aim:3175,  dev:10459,  flps:18,  frms:4587
+epoch: E01,   gen: 354,   avg_fitness: 518505,	   max_fitness: 5741312,	   winner: MUTANT  0.19   ,		  crash:True,  dur:1.9244,  kls:17,  hit:10,  aim:2901,  dev:11703,  flps:0,  frms:9680
+epoch: E01,   gen: 355,   avg_fitness: 581744,	   max_fitness: 9396582,	   winner: MUTANT  0.18   ,		  crash:True,  dur:0.8494,  kls:39,  hit:7,  aim:1654,  dev:10425,  flps:84,  frms:4315
+epoch: E01,   gen: 356,   avg_fitness: 324288,	   max_fitness: 2536258,	   winner: MUTANT  0.12   ,		  crash:True,  dur:1.3308,  kls:22,  hit:15,  aim:1131,  dev:10839,  flps:0,  frms:6809
+epoch: E01,   gen: 357,   avg_fitness: 583713,	   max_fitness: 3397796,	   winner: PARENT      ,		  crash:True,  dur:0.7135,  kls:34,  hit:8,  aim:851,  dev:10236,  flps:58,  frms:3586
+epoch: E01,   gen: 358,   avg_fitness: 465336,	   max_fitness: 2976487,	   winner: PARENT      ,		  crash:True,  dur:0.8067,  kls:12,  hit:4,  aim:2461,  dev:11278,  flps:66,  frms:4089
+epoch: E01,   gen: 359,   avg_fitness: 50948,	   max_fitness: 480098,	   winner: PARENT      ,		  crash:True,  dur:1.0733,  kls:9,  hit:4,  aim:634,  dev:10018,  flps:16,  frms:5260
+epoch: E01,   gen: 360,   avg_fitness: 169948,	   max_fitness: 1500946,	   winner: CROSS      ,		  crash:True,  dur:1.2034,  kls:17,  hit:11,  aim:466,  dev:11907,  flps:18,  frms:6075
+epoch: E01,   gen: 361,   avg_fitness: 389034,	   max_fitness: 6400192,	   winner: PARENT      ,		  crash:True,  dur:1.0136,  kls:30,  hit:7,  aim:1903,  dev:11618,  flps:18,  frms:4948
+epoch: E01,   gen: 362,   avg_fitness: 2619783,	   max_fitness: 39031324,	   winner: MUTANT  0.06   ,		  crash:True,  dur:1.3022,  kls:43,  hit:15,  aim:2556,  dev:12511,  flps:62,  frms:6604
+epoch: E01,   gen: 363,   avg_fitness: 4980459,	   max_fitness: 55377273,	   winner: MUTANT  0.17   ,		  crash:True,  dur:1.9505,  kls:47,  hit:27,  aim:2734,  dev:12122,  flps:8,  frms:9851
+epoch: E01,   gen: 364,   avg_fitness: 1071834,	   max_fitness: 9280838,	   winner: PARENT      ,		  crash:True,  dur:0.9665,  kls:29,  hit:11,  aim:2179,  dev:11861,  flps:20,  frms:4692
+epoch: E01,   gen: 365,   avg_fitness: 435547,	   max_fitness: 2127453,	   winner: MUTANT  0.14   ,		  crash:True,  dur:0.8215,  kls:16,  hit:9,  aim:593,  dev:10552,  flps:200,  frms:4211
+epoch: E01,   gen: 366,   avg_fitness: 128234,	   max_fitness: 836523,	   winner: PARENT      ,		  crash:True,  dur:0.4435,  kls:19,  hit:3,  aim:850,  dev:10290,  flps:116,  frms:2218
+epoch: E01,   gen: 367,   avg_fitness: 370771,	   max_fitness: 6106243,	   winner: MUTANT  0.18   ,		  crash:True,  dur:1.5845,  kls:29,  hit:17,  aim:1554,  dev:12179,  flps:0,  frms:8038
+epoch: E01,   gen: 368,   avg_fitness: 6662735,	   max_fitness: 84414986,	   winner: CROSS      ,		  crash:True,  dur:1.8766,  kls:48,  hit:21,  aim:2463,  dev:11632,  flps:100,  frms:9516
+epoch: E01,   gen: 369,   avg_fitness: 1037811,	   max_fitness: 19182597,	   winner: CROSS      ,		  crash:True,  dur:1.7516,  kls:31,  hit:14,  aim:1297,  dev:10797,  flps:84,  frms:8915
+epoch: E01,   gen: 370,   avg_fitness: 484243,	   max_fitness: 7485778,	   winner: PARENT      ,		  crash:True,  dur:1.4448,  kls:20,  hit:13,  aim:1212,  dev:11493,  flps:42,  frms:7124
+epoch: E01,   gen: 371,   avg_fitness: 126140,	   max_fitness: 747413,	   winner: MUTANT  0.16   ,		  crash:True,  dur:1.5969,  kls:12,  hit:12,  aim:432,  dev:9534,  flps:2,  frms:8129
+epoch: E01,   gen: 372,   avg_fitness: 266803,	   max_fitness: 2056095,	   winner: PARENT      ,		  crash:True,  dur:0.8774,  kls:20,  hit:7,  aim:898,  dev:10415,  flps:32,  frms:4403
+epoch: E01,   gen: 373,   avg_fitness: 163836,	   max_fitness: 729387,	   winner: MUTANT  0.07   ,		  crash:True,  dur:1.1669,  kls:11,  hit:7,  aim:498,  dev:10260,  flps:18,  frms:5846
+epoch: E01,   gen: 374,   avg_fitness: 22226,	   max_fitness: 93803,	   winner: MUTANT  0.15   ,		  crash:True,  dur:0.4011,  kls:9,  hit:3,  aim:212,  dev:9765,  flps:110,  frms:2063
+epoch: E01,   gen: 375,   avg_fitness: 212369,	   max_fitness: 1948269,	   winner: MUTANT  0.14   ,		  crash:True,  dur:0.9225,  kls:9,  hit:6,  aim:1200,  dev:12410,  flps:114,  frms:4614
+epoch: E01,   gen: 376,   avg_fitness: 988446,	   max_fitness: 14211413,	   winner: PARENT      ,		  crash:True,  dur:1.044,  kls:23,  hit:10,  aim:2406,  dev:9612,  flps:140,  frms:5311
+epoch: E01,   gen: 377,   avg_fitness: 263326,	   max_fitness: 1825828,	   winner: PARENT      ,		  crash:True,  dur:1.0485,  kls:20,  hit:12,  aim:590,  dev:10842,  flps:16,  frms:5083
+epoch: E01,   gen: 378,   avg_fitness: 1097727,	   max_fitness: 18549674,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9649,  kls:30,  hit:25,  aim:1095,  dev:10218,  flps:2,  frms:10000
+epoch: E01,   gen: 379,   avg_fitness: 223156,	   max_fitness: 1710387,	   winner: CROSS      ,		  crash:True,  dur:0.7575,  kls:24,  hit:8,  aim:931,  dev:9568,  flps:10,  frms:3930
+epoch: E01,   gen: 380,   avg_fitness: 1067865,	   max_fitness: 7176923,	   winner: MUTANT  0.12   ,		  crash:True,  dur:1.329,  kls:29,  hit:8,  aim:2139,  dev:10183,  flps:6,  frms:6682
+epoch: E01,   gen: 381,   avg_fitness: 908611,	   max_fitness: 6800361,	   winner: MUTANT  0.17   ,		  crash:True,  dur:0.7054,  kls:23,  hit:8,  aim:2294,  dev:11591,  flps:64,  frms:3590
+epoch: E01,   gen: 382,   avg_fitness: 534042,	   max_fitness: 6793828,	   winner: CROSS      ,		  crash:True,  dur:0.989,  kls:32,  hit:7,  aim:1739,  dev:11321,  flps:24,  frms:5025
+epoch: E01,   gen: 383,   avg_fitness: 1199232,	   max_fitness: 9681854,	   winner: MUTANT  0.14   ,		  crash:True,  dur:1.3358,  kls:37,  hit:17,  aim:1383,  dev:10443,  flps:6,  frms:6704
+epoch: E01,   gen: 384,   avg_fitness: 4860850,	   max_fitness: 36944079,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9537,  kls:15,  hit:23,  aim:3974,  dev:7263,  flps:6,  frms:10000
+epoch: E01,   gen: 385,   avg_fitness: 1479108,	   max_fitness: 13436103,	   winner: MUTANT  0.07   ,		  crash:True,  dur:1.7167,  kls:21,  hit:9,  aim:3501,  dev:9520,  flps:10,  frms:8684
+epoch: E01,   gen: 386,   avg_fitness: 3710789,	   max_fitness: 60344794,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9594,  kls:25,  hit:16,  aim:3325,  dev:8610,  flps:22,  frms:10000
+epoch: E01,   gen: 387,   avg_fitness: 5461086,	   max_fitness: 42898035,	   winner: CROSS      ,		  crash:False,  dur:1.9775,  kls:12,  hit:26,  aim:3070,  dev:8602,  flps:32,  frms:10000
+epoch: E01,   gen: 388,   avg_fitness: 6274901,	   max_fitness: 63061799,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9703,  kls:29,  hit:17,  aim:5360,  dev:8492,  flps:2,  frms:10000
+epoch: E01,   gen: 389,   avg_fitness: 4962697,	   max_fitness: 63589459,	   winner: PARENT      ,		  crash:False,  dur:2.0441,  kls:30,  hit:17,  aim:5172,  dev:8733,  flps:2,  frms:10000
+epoch: E01,   gen: 390,   avg_fitness: 7215073,	   max_fitness: 59989242,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.982,  kls:47,  hit:23,  aim:3186,  dev:11708,  flps:0,  frms:10000
+epoch: E01,   gen: 391,   avg_fitness: 7815072,	   max_fitness: 54591866,	   winner: PARENT      ,		  crash:False,  dur:2.0649,  kls:32,  hit:18,  aim:4982,  dev:11615,  flps:0,  frms:10000
+epoch: E01,   gen: 392,   avg_fitness: 15207542,	   max_fitness: 118855461,	   winner: PARENT      ,		  crash:False,  dur:1.9843,  kls:41,  hit:15,  aim:7856,  dev:8438,  flps:2,  frms:10000
+epoch: E01,   gen: 393,   avg_fitness: 6885094,	   max_fitness: 49417648,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9877,  kls:41,  hit:16,  aim:4083,  dev:9901,  flps:0,  frms:10000
+epoch: E01,   gen: 394,   avg_fitness: 2366226,	   max_fitness: 27181945,	   winner: CROSS      ,		  crash:False,  dur:1.9809,  kls:29,  hit:12,  aim:3812,  dev:9784,  flps:0,  frms:10000
+epoch: E01,   gen: 395,   avg_fitness: 7867793,	   max_fitness: 68858189,	   winner: PARENT      ,		  crash:False,  dur:2.0212,  kls:51,  hit:28,  aim:3376,  dev:8407,  flps:0,  frms:10000
+epoch: E01,   gen: 396,   avg_fitness: 9096017,	   max_fitness: 78821989,	   winner: CROSS      ,		  crash:False,  dur:1.9946,  kls:42,  hit:19,  aim:5666,  dev:9949,  flps:0,  frms:10000
+epoch: E01,   gen: 397,   avg_fitness: 6693003,	   max_fitness: 60564315,	   winner: PARENT      ,		  crash:False,  dur:2.0533,  kls:40,  hit:18,  aim:4982,  dev:8752,  flps:0,  frms:10000
+epoch: E01,   gen: 398,   avg_fitness: 6301282,	   max_fitness: 24141733,	   winner: PARENT      ,		  crash:False,  dur:1.9899,  kls:24,  hit:16,  aim:3589,  dev:8337,  flps:0,  frms:10000
+epoch: E01,   gen: 399,   avg_fitness: 7683777,	   max_fitness: 44648051,	   winner: CROSS      ,		  crash:False,  dur:1.9606,  kls:33,  hit:13,  aim:5358,  dev:9278,  flps:0,  frms:10000
+epoch: E01,   gen: 400,   avg_fitness: 3125953,	   max_fitness: 25245065,	   winner: PARENT      ,		  crash:False,  dur:1.9684,  kls:26,  hit:6,  aim:6781,  dev:7409,  flps:0,  frms:10000
+epoch: E01,   gen: 401,   avg_fitness: 4273934,	   max_fitness: 37195724,	   winner: PARENT      ,		  crash:False,  dur:2.0301,  kls:36,  hit:7,  aim:6630,  dev:7437,  flps:0,  frms:10000
+epoch: E01,   gen: 402,   avg_fitness: 4720994,	   max_fitness: 42119387,	   winner: PARENT      ,		  crash:False,  dur:1.9656,  kls:37,  hit:11,  aim:5636,  dev:7009,  flps:0,  frms:10000
+epoch: E01,   gen: 403,   avg_fitness: 4012405,	   max_fitness: 53348043,	   winner: CROSS      ,		  crash:False,  dur:1.975,  kls:42,  hit:17,  aim:4338,  dev:8791,  flps:0,  frms:10000
+epoch: E01,   gen: 404,   avg_fitness: 2676789,	   max_fitness: 23792815,	   winner: PARENT      ,		  crash:False,  dur:2.022,  kls:26,  hit:10,  aim:4178,  dev:9723,  flps:0,  frms:10000
+epoch: E01,   gen: 405,   avg_fitness: 2866010,	   max_fitness: 21566946,	   winner: CROSS      ,		  crash:False,  dur:1.9762,  kls:34,  hit:14,  aim:2522,  dev:8155,  flps:0,  frms:10000
+epoch: E01,   gen: 406,   avg_fitness: 6083869,	   max_fitness: 39921986,	   winner: CROSS      ,		  crash:False,  dur:1.9852,  kls:44,  hit:24,  aim:2474,  dev:8704,  flps:0,  frms:10000
+epoch: E01,   gen: 407,   avg_fitness: 9230852,	   max_fitness: 133112432,	   winner: CROSS      ,		  crash:False,  dur:2.0122,  kls:47,  hit:21,  aim:8140,  dev:9584,  flps:0,  frms:10000
+epoch: E01,   gen: 408,   avg_fitness: 5778842,	   max_fitness: 29828646,	   winner: CROSS      ,		  crash:False,  dur:2.0448,  kls:36,  hit:13,  aim:3240,  dev:9635,  flps:0,  frms:10000
+epoch: E01,   gen: 409,   avg_fitness: 7211531,	   max_fitness: 54812892,	   winner: PARENT      ,		  crash:False,  dur:1.9879,  kls:35,  hit:30,  aim:3586,  dev:9118,  flps:0,  frms:10000
+epoch: E01,   gen: 410,   avg_fitness: 14637272,	   max_fitness: 75034336,	   winner: PARENT      ,		  crash:False,  dur:2.0061,  kls:49,  hit:21,  aim:4472,  dev:9228,  flps:0,  frms:10000
+epoch: E01,   gen: 411,   avg_fitness: 7583846,	   max_fitness: 36741856,	   winner: CROSS      ,		  crash:False,  dur:1.9754,  kls:34,  hit:15,  aim:3885,  dev:9371,  flps:0,  frms:10000
+epoch: E01,   gen: 412,   avg_fitness: 3131371,	   max_fitness: 20471768,	   winner: PARENT      ,		  crash:False,  dur:1.9755,  kls:28,  hit:20,  aim:2077,  dev:10334,  flps:0,  frms:10000
+epoch: E01,   gen: 413,   avg_fitness: 4687353,	   max_fitness: 36045748,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9803,  kls:33,  hit:12,  aim:4457,  dev:9800,  flps:0,  frms:10000
+epoch: E01,   gen: 414,   avg_fitness: 4643299,	   max_fitness: 37151749,	   winner: CROSS      ,		  crash:False,  dur:1.9859,  kls:25,  hit:15,  aim:5811,  dev:7405,  flps:0,  frms:10000
+epoch: E01,   gen: 415,   avg_fitness: 2313689,	   max_fitness: 20419473,	   winner: PARENT      ,		  crash:False,  dur:2.0397,  kls:34,  hit:12,  aim:2518,  dev:9175,  flps:0,  frms:10000
+epoch: E01,   gen: 416,   avg_fitness: 2520826,	   max_fitness: 20486231,	   winner: PARENT      ,		  crash:False,  dur:1.9859,  kls:30,  hit:12,  aim:3077,  dev:7588,  flps:0,  frms:10000
+epoch: E01,   gen: 417,   avg_fitness: 6979538,	   max_fitness: 49823922,	   winner: CROSS      ,		  crash:False,  dur:1.9725,  kls:38,  hit:16,  aim:4576,  dev:9150,  flps:0,  frms:10000
+epoch: E01,   gen: 418,   avg_fitness: 8300274,	   max_fitness: 64063194,	   winner: PARENT      ,		  crash:False,  dur:1.9751,  kls:42,  hit:26,  aim:3603,  dev:10867,  flps:0,  frms:10000
+epoch: E01,   gen: 419,   avg_fitness: 7412976,	   max_fitness: 43650931,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9683,  kls:41,  hit:19,  aim:3258,  dev:9606,  flps:0,  frms:10000
+epoch: E01,   gen: 420,   avg_fitness: 8459853,	   max_fitness: 86522058,	   winner: PARENT      ,		  crash:False,  dur:1.9803,  kls:47,  hit:23,  aim:5490,  dev:7504,  flps:0,  frms:10000
+epoch: E01,   gen: 421,   avg_fitness: 7410817,	   max_fitness: 53184181,	   winner: PARENT      ,		  crash:False,  dur:1.9905,  kls:40,  hit:18,  aim:4577,  dev:7818,  flps:0,  frms:10000
+epoch: E01,   gen: 422,   avg_fitness: 5255316,	   max_fitness: 37655804,	   winner: CROSS      ,		  crash:False,  dur:1.9767,  kls:31,  hit:23,  aim:3873,  dev:6179,  flps:0,  frms:10000
+epoch: E01,   gen: 423,   avg_fitness: 6514199,	   max_fitness: 78884191,	   winner: PARENT      ,		  crash:False,  dur:1.977,  kls:39,  hit:21,  aim:6541,  dev:7060,  flps:0,  frms:10000
+epoch: E01,   gen: 424,   avg_fitness: 7777471,	   max_fitness: 59056117,	   winner: PARENT      ,		  crash:False,  dur:2.0014,  kls:25,  hit:18,  aim:7204,  dev:10206,  flps:0,  frms:10000
+epoch: E01,   gen: 425,   avg_fitness: 11211665,	   max_fitness: 94775075,	   winner: PARENT      ,		  crash:False,  dur:1.9961,  kls:41,  hit:17,  aim:8147,  dev:8115,  flps:0,  frms:10000
+epoch: E01,   gen: 426,   avg_fitness: 7458026,	   max_fitness: 50758238,	   winner: PARENT      ,		  crash:False,  dur:2.0165,  kls:32,  hit:19,  aim:5473,  dev:7000,  flps:0,  frms:10000
+epoch: E01,   gen: 427,   avg_fitness: 13079208,	   max_fitness: 81108865,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9701,  kls:43,  hit:22,  aim:5252,  dev:9553,  flps:0,  frms:10000
+epoch: E01,   gen: 428,   avg_fitness: 13064884,	   max_fitness: 68354437,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9683,  kls:38,  hit:27,  aim:4784,  dev:7534,  flps:0,  frms:10000
+epoch: E01,   gen: 429,   avg_fitness: 7762447,	   max_fitness: 49465903,	   winner: PARENT      ,		  crash:False,  dur:1.9602,  kls:43,  hit:18,  aim:3812,  dev:8633,  flps:0,  frms:10000
+epoch: E01,   gen: 430,   avg_fitness: 11590776,	   max_fitness: 71624339,	   winner: PARENT      ,		  crash:False,  dur:1.9915,  kls:49,  hit:18,  aim:4952,  dev:8229,  flps:0,  frms:10000
+epoch: E01,   gen: 431,   avg_fitness: 776777,	   max_fitness: 10938558,	   winner: CROSS      ,		  crash:False,  dur:1.9788,  kls:19,  hit:18,  aim:1977,  dev:7358,  flps:0,  frms:10000
+epoch: E01,   gen: 432,   avg_fitness: 10003776,	   max_fitness: 61018247,	   winner: CROSS      ,		  crash:False,  dur:1.976,  kls:35,  hit:17,  aim:6038,  dev:8391,  flps:0,  frms:10000
+epoch: E01,   gen: 433,   avg_fitness: 8904119,	   max_fitness: 84392224,	   winner: PARENT      ,		  crash:False,  dur:1.9741,  kls:38,  hit:25,  aim:6054,  dev:8065,  flps:0,  frms:10000
+epoch: E01,   gen: 434,   avg_fitness: 13306927,	   max_fitness: 109760398,	   winner: PARENT      ,		  crash:False,  dur:2.0167,  kls:47,  hit:30,  aim:5688,  dev:7953,  flps:0,  frms:10000
+epoch: E01,   gen: 435,   avg_fitness: 14121882,	   max_fitness: 103722898,	   winner: CROSS      ,		  crash:False,  dur:1.9759,  kls:52,  hit:20,  aim:6290,  dev:8285,  flps:0,  frms:10000
+epoch: E01,   gen: 436,   avg_fitness: 11019728,	   max_fitness: 53316791,	   winner: CROSS      ,		  crash:False,  dur:1.9684,  kls:37,  hit:12,  aim:6047,  dev:9211,  flps:0,  frms:10000
+epoch: E01,   gen: 437,   avg_fitness: 18984507,	   max_fitness: 116444341,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9684,  kls:50,  hit:27,  aim:2486,  dev:10951,  flps:12,  frms:10000
+epoch: E01,   gen: 438,   avg_fitness: 6569583,	   max_fitness: 50511895,	   winner: PARENT      ,		  crash:False,  dur:2.0046,  kls:37,  hit:22,  aim:3588,  dev:10935,  flps:0,  frms:10000
+epoch: E01,   gen: 439,   avg_fitness: 7051445,	   max_fitness: 48165313,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9613,  kls:40,  hit:25,  aim:3392,  dev:7451,  flps:0,  frms:10000
+epoch: E01,   gen: 440,   avg_fitness: 6758801,	   max_fitness: 85199813,	   winner: PARENT      ,		  crash:False,  dur:1.9919,  kls:39,  hit:15,  aim:8158,  dev:8602,  flps:0,  frms:10000
+epoch: E01,   gen: 441,   avg_fitness: 5714618,	   max_fitness: 58732520,	   winner: PARENT      ,		  crash:False,  dur:2.0065,  kls:43,  hit:25,  aim:3525,  dev:9315,  flps:0,  frms:10000
+epoch: E01,   gen: 442,   avg_fitness: 9167559,	   max_fitness: 34688581,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9962,  kls:27,  hit:15,  aim:5154,  dev:6997,  flps:0,  frms:10000
+epoch: E01,   gen: 443,   avg_fitness: 7305157,	   max_fitness: 47177442,	   winner: MUTANT  0.05   ,		  crash:False,  dur:2.009,  kls:38,  hit:22,  aim:3149,  dev:11971,  flps:0,  frms:10000
+epoch: E01,   gen: 444,   avg_fitness: 4991292,	   max_fitness: 37339260,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9544,  kls:27,  hit:20,  aim:3816,  dev:11080,  flps:0,  frms:10000
+epoch: E01,   gen: 445,   avg_fitness: 5131235,	   max_fitness: 49002261,	   winner: PARENT      ,		  crash:False,  dur:2.006,  kls:29,  hit:18,  aim:5652,  dev:8211,  flps:0,  frms:10000
+epoch: E01,   gen: 446,   avg_fitness: 6889659,	   max_fitness: 34300980,	   winner: CROSS      ,		  crash:False,  dur:1.9606,  kls:30,  hit:21,  aim:3680,  dev:7010,  flps:0,  frms:10000
+epoch: E01,   gen: 447,   avg_fitness: 12616352,	   max_fitness: 55867460,	   winner: MUTANT  0.06   ,		  crash:False,  dur:2.0711,  kls:34,  hit:21,  aim:4358,  dev:11483,  flps:0,  frms:10000
+epoch: E01,   gen: 448,   avg_fitness: 9925205,	   max_fitness: 73574632,	   winner: NEWSPEC  0.36  0.93,		  crash:False,  dur:1.9753,  kls:34,  hit:19,  aim:6197,  dev:11201,  flps:0,  frms:10000
+epoch: E01,   gen: 449,   avg_fitness: 1473403,	   max_fitness: 20968463,	   winner: MUTANT  0.09   ,		  crash:True,  dur:1.2571,  kls:34,  hit:20,  aim:5648,  dev:11166,  flps:0,  frms:6052
+epoch: E01,   gen: 450,   avg_fitness: 3203278,	   max_fitness: 27277457,	   winner: MUTANT  0.13   ,		  crash:False,  dur:2.0286,  kls:27,  hit:17,  aim:3315,  dev:9407,  flps:0,  frms:10000
+epoch: E01,   gen: 451,   avg_fitness: 7226216,	   max_fitness: 41145950,	   winner: PARENT      ,		  crash:False,  dur:1.9973,  kls:19,  hit:17,  aim:7626,  dev:7599,  flps:0,  frms:10000
+epoch: E01,   gen: 452,   avg_fitness: 3888973,	   max_fitness: 16061944,	   winner: MUTANT  0.18   ,		  crash:True,  dur:1.7314,  kls:20,  hit:15,  aim:4231,  dev:11895,  flps:2,  frms:8749
+epoch: E01,   gen: 453,   avg_fitness: 7683725,	   max_fitness: 65609878,	   winner: CROSS      ,		  crash:False,  dur:1.9726,  kls:34,  hit:15,  aim:6749,  dev:10041,  flps:0,  frms:10000
+epoch: E01,   gen: 454,   avg_fitness: 5763853,	   max_fitness: 41269552,	   winner: PARENT      ,		  crash:False,  dur:1.9975,  kls:27,  hit:33,  aim:3248,  dev:9163,  flps:0,  frms:10000
+epoch: E01,   gen: 455,   avg_fitness: 7826401,	   max_fitness: 53226529,	   winner: MUTANT  0.13   ,		  crash:True,  dur:1.8877,  kls:60,  hit:20,  aim:5092,  dev:11908,  flps:0,  frms:9529
+epoch: E01,   gen: 456,   avg_fitness: 4872153,	   max_fitness: 24886029,	   winner: PARENT      ,		  crash:False,  dur:1.9682,  kls:20,  hit:15,  aim:4633,  dev:8173,  flps:0,  frms:10000
+epoch: E01,   gen: 457,   avg_fitness: 4648628,	   max_fitness: 38105726,	   winner: CROSS      ,		  crash:False,  dur:1.9699,  kls:23,  hit:17,  aim:6064,  dev:7051,  flps:0,  frms:10000
+epoch: E01,   gen: 458,   avg_fitness: 2756922,	   max_fitness: 25913562,	   winner: CROSS      ,		  crash:False,  dur:1.9769,  kls:26,  hit:16,  aim:3430,  dev:9196,  flps:0,  frms:10000
+epoch: E01,   gen: 459,   avg_fitness: 5331837,	   max_fitness: 22939325,	   winner: NEWSPEC  0.35  0.89,		  crash:False,  dur:1.9884,  kls:22,  hit:19,  aim:3550,  dev:6990,  flps:0,  frms:10000
+epoch: E01,   gen: 460,   avg_fitness: 3689055,	   max_fitness: 16982035,	   winner: PARENT      ,		  crash:False,  dur:1.9672,  kls:18,  hit:13,  aim:4003,  dev:7348,  flps:0,  frms:10000
+epoch: E01,   gen: 461,   avg_fitness: 2344283,	   max_fitness: 19083100,	   winner: CROSS      ,		  crash:False,  dur:1.978,  kls:17,  hit:11,  aim:5301,  dev:7310,  flps:0,  frms:10000
+epoch: E01,   gen: 462,   avg_fitness: 1313060,	   max_fitness: 9272241,	   winner: MUTANT  0.12   ,		  crash:True,  dur:1.2111,  kls:30,  hit:14,  aim:3593,  dev:10820,  flps:0,  frms:6087
+epoch: E01,   gen: 463,   avg_fitness: 3340268,	   max_fitness: 33027311,	   winner: MUTANT  0.16   ,		  crash:False,  dur:1.9601,  kls:29,  hit:13,  aim:4679,  dev:8379,  flps:0,  frms:10000
+epoch: E01,   gen: 464,   avg_fitness: 12369261,	   max_fitness: 129150113,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9674,  kls:44,  hit:25,  aim:8078,  dev:7947,  flps:0,  frms:10000
+epoch: E01,   gen: 465,   avg_fitness: 9339771,	   max_fitness: 55009858,	   winner: PARENT      ,		  crash:False,  dur:1.9937,  kls:43,  hit:23,  aim:2408,  dev:10343,  flps:2,  frms:10000
+epoch: E01,   gen: 466,   avg_fitness: 14190834,	   max_fitness: 131609006,	   winner: CROSS      ,		  crash:False,  dur:1.9844,  kls:52,  hit:24,  aim:6496,  dev:10220,  flps:0,  frms:10000
+epoch: E01,   gen: 467,   avg_fitness: 13170540,	   max_fitness: 114601969,	   winner: PARENT      ,		  crash:False,  dur:1.9662,  kls:53,  hit:33,  aim:4468,  dev:10265,  flps:0,  frms:10000
+epoch: E01,   gen: 468,   avg_fitness: 9169621,	   max_fitness: 99278291,	   winner: CROSS      ,		  crash:False,  dur:2.011,  kls:64,  hit:23,  aim:4002,  dev:10927,  flps:0,  frms:10000
+epoch: E01,   gen: 469,   avg_fitness: 15075867,	   max_fitness: 99007515,	   winner: CROSS      ,		  crash:False,  dur:1.9902,  kls:51,  hit:35,  aim:4140,  dev:8569,  flps:0,  frms:10000
+epoch: E01,   gen: 470,   avg_fitness: 995238,	   max_fitness: 11449397,	   winner: MUTANT  0.08   ,		  crash:True,  dur:1.8626,  kls:32,  hit:18,  aim:2158,  dev:12164,  flps:0,  frms:9504
+epoch: E01,   gen: 471,   avg_fitness: 3566532,	   max_fitness: 41101037,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9729,  kls:44,  hit:21,  aim:2643,  dev:9926,  flps:0,  frms:10000
+epoch: E01,   gen: 472,   avg_fitness: 6128315,	   max_fitness: 74695044,	   winner: PARENT      ,		  crash:False,  dur:2.0043,  kls:48,  hit:21,  aim:4361,  dev:10219,  flps:0,  frms:10000
+epoch: E01,   gen: 473,   avg_fitness: 8239007,	   max_fitness: 91545556,	   winner: PARENT      ,		  crash:False,  dur:1.9935,  kls:33,  hit:20,  aim:8227,  dev:9404,  flps:0,  frms:10000
+epoch: E01,   gen: 474,   avg_fitness: 2487439,	   max_fitness: 14361340,	   winner: NEWSPEC  0.91  1.0,		  crash:False,  dur:1.9783,  kls:12,  hit:20,  aim:3867,  dev:6693,  flps:0,  frms:10000
+epoch: E01,   gen: 475,   avg_fitness: 11633274,	   max_fitness: 123611714,	   winner: CROSS      ,		  crash:False,  dur:1.9859,  kls:46,  hit:27,  aim:7037,  dev:7920,  flps:0,  frms:10000
+epoch: E01,   gen: 476,   avg_fitness: 5950785,	   max_fitness: 35220360,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9741,  kls:30,  hit:18,  aim:3900,  dev:8374,  flps:0,  frms:10000
+epoch: E01,   gen: 477,   avg_fitness: 8381011,	   max_fitness: 59555036,	   winner: PARENT      ,		  crash:False,  dur:1.9789,  kls:45,  hit:22,  aim:4046,  dev:7579,  flps:0,  frms:10000
+epoch: E01,   gen: 478,   avg_fitness: 9641262,	   max_fitness: 97845746,	   winner: PARENT      ,		  crash:False,  dur:1.9703,  kls:41,  hit:17,  aim:8234,  dev:8557,  flps:0,  frms:10000
+epoch: E01,   gen: 479,   avg_fitness: 4443443,	   max_fitness: 23494570,	   winner: PARENT      ,		  crash:False,  dur:1.9864,  kls:26,  hit:25,  aim:2365,  dev:8672,  flps:0,  frms:10000
+epoch: E01,   gen: 480,   avg_fitness: 5419653,	   max_fitness: 25625762,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9754,  kls:21,  hit:29,  aim:3208,  dev:6527,  flps:0,  frms:10000
+epoch: E01,   gen: 481,   avg_fitness: 10149103,	   max_fitness: 48599906,	   winner: PARENT      ,		  crash:False,  dur:1.9848,  kls:29,  hit:14,  aim:6346,  dev:9106,  flps:0,  frms:10000
+epoch: E01,   gen: 482,   avg_fitness: 638380,	   max_fitness: 4126129,	   winner: MUTANT  0.09   ,		  crash:True,  dur:1.2541,  kls:27,  hit:13,  aim:1837,  dev:9992,  flps:0,  frms:6354
+epoch: E01,   gen: 483,   avg_fitness: 2078640,	   max_fitness: 20289117,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9665,  kls:16,  hit:29,  aim:1897,  dev:7718,  flps:4,  frms:10000
+epoch: E01,   gen: 484,   avg_fitness: 10693302,	   max_fitness: 70831254,	   winner: MUTANT  0.19   ,		  crash:False,  dur:1.9834,  kls:58,  hit:34,  aim:2449,  dev:10559,  flps:0,  frms:10000
+epoch: E01,   gen: 485,   avg_fitness: 24062044,	   max_fitness: 305027439,	   winner: PARENT      ,		  crash:False,  dur:1.9905,  kls:53,  hit:30,  aim:5278,  dev:12069,  flps:14,  frms:10000
+epoch: E01,   gen: 486,   avg_fitness: 692572,	   max_fitness: 4469132,	   winner: MUTANT  0.07   ,		  crash:True,  dur:1.0789,  kls:25,  hit:10,  aim:2929,  dev:10548,  flps:0,  frms:5385
+epoch: E01,   gen: 487,   avg_fitness: 7546043,	   max_fitness: 67666465,	   winner: PARENT      ,		  crash:False,  dur:1.969,  kls:28,  hit:17,  aim:4148,  dev:9178,  flps:8,  frms:10000
+epoch: E01,   gen: 488,   avg_fitness: 2058223,	   max_fitness: 26828171,	   winner: PARENT      ,		  crash:True,  dur:1.9354,  kls:52,  hit:25,  aim:2533,  dev:11133,  flps:0,  frms:9829
+epoch: E01,   gen: 489,   avg_fitness: 3526592,	   max_fitness: 38309082,	   winner: PARENT      ,		  crash:False,  dur:1.9818,  kls:17,  hit:31,  aim:2548,  dev:9012,  flps:8,  frms:10000
+epoch: E01,   gen: 490,   avg_fitness: 4200699,	   max_fitness: 31372173,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9717,  kls:23,  hit:14,  aim:2158,  dev:10361,  flps:14,  frms:10000
+epoch: E01,   gen: 491,   avg_fitness: 10665927,	   max_fitness: 112905507,	   winner: NEWSPEC  0.35  0.78,		  crash:True,  dur:1.5724,  kls:56,  hit:19,  aim:3576,  dev:11663,  flps:104,  frms:7954
+epoch: E01,   gen: 492,   avg_fitness: 2918176,	   max_fitness: 18135918,	   winner: NEWSPEC  0.68  0.99,		  crash:True,  dur:1.9476,  kls:23,  hit:20,  aim:3154,  dev:11075,  flps:2,  frms:9864
+epoch: E01,   gen: 493,   avg_fitness: 2553587,	   max_fitness: 14934966,	   winner: NEWSPEC  0.38  0.7,		  crash:False,  dur:1.9859,  kls:21,  hit:13,  aim:649,  dev:9786,  flps:116,  frms:10000
+epoch: E01,   gen: 494,   avg_fitness: 1341955,	   max_fitness: 10491433,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9858,  kls:15,  hit:20,  aim:1176,  dev:10653,  flps:4,  frms:10000
+epoch: E01,   gen: 495,   avg_fitness: 8956893,	   max_fitness: 81016617,	   winner: PARENT      ,		  crash:False,  dur:1.984,  kls:44,  hit:20,  aim:2438,  dev:10501,  flps:12,  frms:10000
+epoch: E01,   gen: 496,   avg_fitness: 1647421,	   max_fitness: 7929770,	   winner: MUTANT  0.09   ,		  crash:True,  dur:1.2105,  kls:16,  hit:19,  aim:2225,  dev:9334,  flps:12,  frms:6159
+epoch: E01,   gen: 497,   avg_fitness: 8601917,	   max_fitness: 49733728,	   winner: PARENT      ,		  crash:True,  dur:1.7402,  kls:40,  hit:21,  aim:4311,  dev:10628,  flps:6,  frms:8840
+epoch: E01,   gen: 498,   avg_fitness: 1930435,	   max_fitness: 9119655,	   winner: MUTANT  0.09   ,		  crash:True,  dur:1.351,  kls:27,  hit:14,  aim:1717,  dev:8923,  flps:12,  frms:6938
+epoch: E01,   gen: 499,   avg_fitness: 2458446,	   max_fitness: 41449876,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9738,  kls:34,  hit:20,  aim:1920,  dev:10646,  flps:6,  frms:10000
+epoch: E01,   gen: 500,   avg_fitness: 2657211,	   max_fitness: 27254961,	   winner: CROSS      ,		  crash:True,  dur:1.2079,  kls:31,  hit:18,  aim:2375,  dev:11401,  flps:68,  frms:6110
+epoch: E01,   gen: 501,   avg_fitness: 3524074,	   max_fitness: 38032266,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9695,  kls:30,  hit:21,  aim:1833,  dev:12037,  flps:6,  frms:10000
+epoch: E01,   gen: 502,   avg_fitness: 7946990,	   max_fitness: 70823863,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9768,  kls:55,  hit:30,  aim:2842,  dev:10254,  flps:0,  frms:10000
+epoch: E01,   gen: 503,   avg_fitness: 15469949,	   max_fitness: 189306464,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9694,  kls:42,  hit:35,  aim:3119,  dev:8420,  flps:42,  frms:10000
+epoch: E01,   gen: 504,   avg_fitness: 1379101,	   max_fitness: 18886526,	   winner: PARENT      ,		  crash:True,  dur:1.7826,  kls:22,  hit:9,  aim:2089,  dev:11713,  flps:114,  frms:8907
+epoch: E01,   gen: 505,   avg_fitness: 6608633,	   max_fitness: 47881875,	   winner: MUTANT  0.07   ,		  crash:True,  dur:1.501,  kls:22,  hit:14,  aim:6165,  dev:11366,  flps:48,  frms:7532
+epoch: E01,   gen: 506,   avg_fitness: 15767443,	   max_fitness: 192724290,	   winner: MUTANT  0.07   ,		  crash:True,  dur:1.8419,  kls:52,  hit:34,  aim:3544,  dev:10910,  flps:148,  frms:9209
+epoch: E01,   gen: 507,   avg_fitness: 5150790,	   max_fitness: 47865302,	   winner: PARENT      ,		  crash:True,  dur:1.7017,  kls:33,  hit:14,  aim:2265,  dev:10570,  flps:260,  frms:8639
+epoch: E01,   gen: 508,   avg_fitness: 14587693,	   max_fitness: 147663198,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9691,  kls:33,  hit:23,  aim:4066,  dev:9179,  flps:38,  frms:10000
+epoch: E01,   gen: 509,   avg_fitness: 8254087,	   max_fitness: 101584451,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9594,  kls:26,  hit:22,  aim:1485,  dev:10443,  flps:644,  frms:10000
+epoch: E01,   gen: 510,   avg_fitness: 38280518,	   max_fitness: 490472808,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9722,  kls:49,  hit:23,  aim:3403,  dev:10971,  flps:840,  frms:10000
+epoch: E01,   gen: 511,   avg_fitness: 43919071,	   max_fitness: 461555121,	   winner: CROSS      ,		  crash:False,  dur:1.9869,  kls:67,  hit:28,  aim:2613,  dev:11002,  flps:380,  frms:10000
+epoch: E01,   gen: 512,   avg_fitness: 21181749,	   max_fitness: 243643979,	   winner: MUTANT  0.06   ,		  crash:True,  dur:1.843,  kls:50,  hit:23,  aim:4452,  dev:11000,  flps:398,  frms:9303
+epoch: E01,   gen: 513,   avg_fitness: 11220262,	   max_fitness: 151650030,	   winner: PARENT      ,		  crash:True,  dur:1.831,  kls:43,  hit:20,  aim:3813,  dev:11483,  flps:316,  frms:9062
+epoch: E01,   gen: 514,   avg_fitness: 14520400,	   max_fitness: 199803457,	   winner: PARENT      ,		  crash:False,  dur:2.0069,  kls:37,  hit:20,  aim:2221,  dev:11543,  flps:556,  frms:10000
+epoch: E01,   gen: 515,   avg_fitness: 29354512,	   max_fitness: 233084684,	   winner: CROSS      ,		  crash:False,  dur:1.9727,  kls:44,  hit:31,  aim:2413,  dev:9647,  flps:190,  frms:10000
+epoch: E01,   gen: 516,   avg_fitness: 16556959,	   max_fitness: 132605278,	   winner: PARENT      ,		  crash:True,  dur:1.6265,  kls:62,  hit:24,  aim:3694,  dev:10469,  flps:74,  frms:8085
+epoch: E01,   gen: 517,   avg_fitness: 25845372,	   max_fitness: 362123843,	   winner: CROSS      ,		  crash:False,  dur:1.9762,  kls:51,  hit:26,  aim:3438,  dev:9433,  flps:240,  frms:10000
+epoch: E01,   gen: 518,   avg_fitness: 22180538,	   max_fitness: 152492926,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9616,  kls:35,  hit:26,  aim:2778,  dev:9957,  flps:86,  frms:10000
+epoch: E01,   gen: 519,   avg_fitness: 7592204,	   max_fitness: 63878422,	   winner: MUTANT  0.19   ,		  crash:False,  dur:1.9861,  kls:22,  hit:14,  aim:3481,  dev:9365,  flps:42,  frms:10000
+epoch: E01,   gen: 520,   avg_fitness: 2886378,	   max_fitness: 20635171,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9785,  kls:15,  hit:18,  aim:1938,  dev:9650,  flps:12,  frms:10000
+epoch: E01,   gen: 521,   avg_fitness: 26221285,	   max_fitness: 150010561,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9713,  kls:40,  hit:22,  aim:2675,  dev:10228,  flps:84,  frms:10000
+epoch: E01,   gen: 522,   avg_fitness: 13340393,	   max_fitness: 89893179,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9738,  kls:44,  hit:32,  aim:2834,  dev:8676,  flps:4,  frms:10000
+epoch: E01,   gen: 523,   avg_fitness: 6259351,	   max_fitness: 52478432,	   winner: MUTANT  0.15   ,		  crash:True,  dur:1.7856,  kls:34,  hit:29,  aim:2686,  dev:11827,  flps:26,  frms:9021
+epoch: E01,   gen: 524,   avg_fitness: 5856542,	   max_fitness: 54340593,	   winner: PARENT      ,		  crash:False,  dur:2.0002,  kls:27,  hit:21,  aim:1442,  dev:11004,  flps:80,  frms:10000
+epoch: E01,   gen: 525,   avg_fitness: 2553887,	   max_fitness: 20326234,	   winner: MUTANT  0.1   ,		  crash:True,  dur:2.7583,  kls:26,  hit:13,  aim:2441,  dev:10416,  flps:26,  frms:8938
+epoch: E01,   gen: 526,   avg_fitness: 12662406,	   max_fitness: 130894958,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9988,  kls:43,  hit:29,  aim:2437,  dev:9403,  flps:34,  frms:10000
+epoch: E01,   gen: 527,   avg_fitness: 11183531,	   max_fitness: 136143372,	   winner: PARENT      ,		  crash:False,  dur:2.0277,  kls:38,  hit:32,  aim:3172,  dev:9008,  flps:20,  frms:10000
+epoch: E01,   gen: 528,   avg_fitness: 4287576,	   max_fitness: 23689306,	   winner: PARENT      ,		  crash:False,  dur:1.9662,  kls:28,  hit:30,  aim:2019,  dev:8078,  flps:0,  frms:10000
+epoch: E01,   gen: 529,   avg_fitness: 9776472,	   max_fitness: 49304211,	   winner: MUTANT  0.06   ,		  crash:True,  dur:1.7041,  kls:38,  hit:20,  aim:3471,  dev:12323,  flps:16,  frms:8537
+epoch: E01,   gen: 530,   avg_fitness: 14962772,	   max_fitness: 166923827,	   winner: PARENT      ,		  crash:False,  dur:2.0139,  kls:47,  hit:35,  aim:4603,  dev:8865,  flps:4,  frms:10000
+epoch: E01,   gen: 531,   avg_fitness: 8476491,	   max_fitness: 90799700,	   winner: PARENT      ,		  crash:False,  dur:2.0076,  kls:39,  hit:14,  aim:3507,  dev:10241,  flps:18,  frms:10000
+epoch: E01,   gen: 532,   avg_fitness: 29951971,	   max_fitness: 125093609,	   winner: PARENT      ,		  crash:False,  dur:2.0166,  kls:56,  hit:25,  aim:3094,  dev:10393,  flps:6,  frms:10000
+epoch: E01,   gen: 533,   avg_fitness: 10252788,	   max_fitness: 99684139,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.008,  kls:38,  hit:31,  aim:3896,  dev:7654,  flps:4,  frms:10000
+epoch: E01,   gen: 534,   avg_fitness: 4859860,	   max_fitness: 53757992,	   winner: PARENT      ,		  crash:False,  dur:1.9718,  kls:48,  hit:28,  aim:2679,  dev:9359,  flps:0,  frms:10000
+epoch: E01,   gen: 535,   avg_fitness: 23719447,	   max_fitness: 158337830,	   winner: PARENT      ,		  crash:False,  dur:1.9963,  kls:49,  hit:26,  aim:3479,  dev:9329,  flps:16,  frms:10000
+epoch: E01,   gen: 536,   avg_fitness: 11364131,	   max_fitness: 89377571,	   winner: CROSS      ,		  crash:False,  dur:1.957,  kls:36,  hit:28,  aim:3282,  dev:9419,  flps:6,  frms:10000
+epoch: E01,   gen: 537,   avg_fitness: 32504839,	   max_fitness: 211275081,	   winner: PARENT      ,		  crash:False,  dur:1.9766,  kls:36,  hit:23,  aim:2945,  dev:10592,  flps:234,  frms:10000
+epoch: E01,   gen: 538,   avg_fitness: 18401746,	   max_fitness: 113270137,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9707,  kls:28,  hit:17,  aim:3397,  dev:10000,  flps:86,  frms:10000
+epoch: E01,   gen: 539,   avg_fitness: 22252138,	   max_fitness: 113544800,	   winner: CROSS      ,		  crash:False,  dur:1.9849,  kls:22,  hit:9,  aim:4961,  dev:11256,  flps:180,  frms:10000
+epoch: E01,   gen: 540,   avg_fitness: 18498655,	   max_fitness: 144997626,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9778,  kls:34,  hit:28,  aim:1954,  dev:9507,  flps:234,  frms:10000
+epoch: E01,   gen: 541,   avg_fitness: 22985083,	   max_fitness: 172686126,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9917,  kls:33,  hit:17,  aim:2226,  dev:10924,  flps:758,  frms:10000
+epoch: E01,   gen: 542,   avg_fitness: 7625043,	   max_fitness: 39188595,	   winner: MUTANT  0.17   ,		  crash:False,  dur:1.9755,  kls:32,  hit:24,  aim:888,  dev:10573,  flps:61,  frms:10000
+epoch: E01,   gen: 543,   avg_fitness: 44790287,	   max_fitness: 273627395,	   winner: NEWSPEC  0.61  0.89,		  crash:False,  dur:1.9772,  kls:64,  hit:21,  aim:4813,  dev:11121,  flps:18,  frms:10000
+epoch: E01,   gen: 544,   avg_fitness: 26248391,	   max_fitness: 221029267,	   winner: PARENT      ,		  crash:False,  dur:2.0022,  kls:33,  hit:21,  aim:3664,  dev:10009,  flps:230,  frms:10000
+epoch: E01,   gen: 545,   avg_fitness: 10401447,	   max_fitness: 92005994,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9691,  kls:35,  hit:15,  aim:3160,  dev:8091,  flps:46,  frms:10000
+epoch: E01,   gen: 546,   avg_fitness: 38936396,	   max_fitness: 242177718,	   winner: CROSS      ,		  crash:False,  dur:1.978,  kls:47,  hit:21,  aim:3924,  dev:8997,  flps:90,  frms:10000
+epoch: E01,   gen: 547,   avg_fitness: 26750999,	   max_fitness: 152029011,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9813,  kls:44,  hit:16,  aim:2144,  dev:11041,  flps:248,  frms:10000
+epoch: E01,   gen: 548,   avg_fitness: 18750221,	   max_fitness: 319314633,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9697,  kls:63,  hit:24,  aim:2953,  dev:10478,  flps:136,  frms:10000
+epoch: E01,   gen: 549,   avg_fitness: 11278062,	   max_fitness: 155144159,	   winner: MUTANT  0.1   ,		  crash:False,  dur:2.1307,  kls:30,  hit:23,  aim:3005,  dev:11358,  flps:128,  frms:10000
+epoch: E01,   gen: 550,   avg_fitness: 35428676,	   max_fitness: 269930127,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9764,  kls:55,  hit:12,  aim:2930,  dev:9811,  flps:628,  frms:10000
+epoch: E01,   gen: 551,   avg_fitness: 6747894,	   max_fitness: 89729039,	   winner: PARENT      ,		  crash:False,  dur:1.997,  kls:32,  hit:17,  aim:1905,  dev:9515,  flps:190,  frms:10000
+epoch: E01,   gen: 552,   avg_fitness: 13220812,	   max_fitness: 249529984,	   winner: PARENT      ,		  crash:False,  dur:2.0367,  kls:55,  hit:16,  aim:3072,  dev:8423,  flps:270,  frms:10000
+epoch: E01,   gen: 553,   avg_fitness: 7345217,	   max_fitness: 99797388,	   winner: CROSS      ,		  crash:False,  dur:2.0578,  kls:36,  hit:19,  aim:1255,  dev:10787,  flps:494,  frms:10000
+epoch: E01,   gen: 554,   avg_fitness: 36457379,	   max_fitness: 345463842,	   winner: CROSS      ,		  crash:False,  dur:1.9674,  kls:53,  hit:22,  aim:3436,  dev:10587,  flps:226,  frms:10000
+epoch: E01,   gen: 555,   avg_fitness: 29740448,	   max_fitness: 312390206,	   winner: PARENT      ,		  crash:False,  dur:1.9879,  kls:52,  hit:28,  aim:2421,  dev:10688,  flps:318,  frms:10000
+epoch: E01,   gen: 556,   avg_fitness: 49443039,	   max_fitness: 316486004,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9785,  kls:54,  hit:21,  aim:3601,  dev:11038,  flps:142,  frms:10000
+epoch: E01,   gen: 557,   avg_fitness: 31983996,	   max_fitness: 350378441,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9663,  kls:59,  hit:28,  aim:3295,  dev:10250,  flps:116,  frms:10000
+epoch: E01,   gen: 558,   avg_fitness: 26962683,	   max_fitness: 270317432,	   winner: PARENT      ,		  crash:False,  dur:1.9908,  kls:57,  hit:28,  aim:2506,  dev:9741,  flps:146,  frms:10000
+epoch: E01,   gen: 559,   avg_fitness: 5780965,	   max_fitness: 94031969,	   winner: CROSS      ,		  crash:True,  dur:1.9717,  kls:53,  hit:17,  aim:2136,  dev:11109,  flps:244,  frms:9966
+epoch: E01,   gen: 560,   avg_fitness: 46104680,	   max_fitness: 169988160,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9952,  kls:31,  hit:21,  aim:1983,  dev:10789,  flps:824,  frms:10000
+epoch: E01,   gen: 561,   avg_fitness: 36084725,	   max_fitness: 265799502,	   winner: PARENT      ,		  crash:False,  dur:2.0012,  kls:46,  hit:16,  aim:3378,  dev:10150,  flps:340,  frms:10000
+epoch: E01,   gen: 562,   avg_fitness: 53676955,	   max_fitness: 423341650,	   winner: CROSS      ,		  crash:False,  dur:1.9941,  kls:62,  hit:26,  aim:3671,  dev:9234,  flps:176,  frms:10000
+epoch: E01,   gen: 563,   avg_fitness: 31589248,	   max_fitness: 444587029,	   winner: MUTANT  0.2   ,		  crash:False,  dur:1.9851,  kls:55,  hit:27,  aim:2943,  dev:8957,  flps:616,  frms:10000
+epoch: E01,   gen: 564,   avg_fitness: 38075969,	   max_fitness: 342430081,	   winner: PARENT      ,		  crash:False,  dur:2.0124,  kls:62,  hit:17,  aim:3447,  dev:9444,  flps:268,  frms:10000
+epoch: E01,   gen: 565,   avg_fitness: 77054956,	   max_fitness: 458003140,	   winner: MUTANT  0.06   ,		  crash:False,  dur:2.0091,  kls:61,  hit:21,  aim:2864,  dev:10843,  flps:722,  frms:10000
+epoch: E01,   gen: 566,   avg_fitness: 17785339,	   max_fitness: 158230024,	   winner: CROSS      ,		  crash:False,  dur:1.9849,  kls:45,  hit:17,  aim:1921,  dev:9403,  flps:412,  frms:10000
+epoch: E01,   gen: 567,   avg_fitness: 46147576,	   max_fitness: 197000945,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.1126,  kls:44,  hit:13,  aim:2693,  dev:10392,  flps:470,  frms:10000
+epoch: E01,   gen: 568,   avg_fitness: 120099270,	   max_fitness: 717323887,	   winner: CROSS      ,		  crash:False,  dur:1.992,  kls:61,  hit:20,  aim:5144,  dev:10352,  flps:542,  frms:10000
+epoch: E01,   gen: 569,   avg_fitness: 2742915,	   max_fitness: 13030819,	   winner: PARENT      ,		  crash:False,  dur:2.0021,  kls:12,  hit:6,  aim:1358,  dev:9127,  flps:202,  frms:10000
+epoch: E01,   gen: 570,   avg_fitness: 2811464,	   max_fitness: 21369774,	   winner: PARENT      ,		  crash:False,  dur:2.0055,  kls:12,  hit:9,  aim:1328,  dev:9683,  flps:456,  frms:10000
+epoch: E01,   gen: 571,   avg_fitness: 3964811,	   max_fitness: 20313834,	   winner: NEWSPEC  0.52  0.72,		  crash:False,  dur:1.9817,  kls:10,  hit:12,  aim:1555,  dev:9714,  flps:214,  frms:10000
+epoch: E01,   gen: 572,   avg_fitness: 4655963,	   max_fitness: 60371931,	   winner: CROSS      ,		  crash:False,  dur:1.972,  kls:14,  hit:22,  aim:1641,  dev:10127,  flps:602,  frms:10000
+epoch: E01,   gen: 573,   avg_fitness: 9943427,	   max_fitness: 91100349,	   winner: MUTANT  0.11   ,		  crash:False,  dur:2.0505,  kls:23,  hit:16,  aim:2315,  dev:9312,  flps:356,  frms:10000
+epoch: E01,   gen: 574,   avg_fitness: 9194872,	   max_fitness: 38851115,	   winner: PARENT      ,		  crash:False,  dur:2.081,  kls:13,  hit:18,  aim:1233,  dev:9068,  flps:817,  frms:10000
+epoch: E01,   gen: 575,   avg_fitness: 8325350,	   max_fitness: 55020552,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9956,  kls:12,  hit:21,  aim:1912,  dev:11597,  flps:396,  frms:10000
+epoch: E01,   gen: 576,   avg_fitness: 10551767,	   max_fitness: 33096924,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9814,  kls:12,  hit:13,  aim:1770,  dev:9666,  flps:344,  frms:10000
+epoch: E01,   gen: 577,   avg_fitness: 30484070,	   max_fitness: 119698720,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0128,  kls:21,  hit:16,  aim:3312,  dev:10033,  flps:324,  frms:10000
+epoch: E01,   gen: 578,   avg_fitness: 20139991,	   max_fitness: 78912414,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.985,  kls:17,  hit:14,  aim:2771,  dev:8867,  flps:452,  frms:10000
+epoch: E01,   gen: 579,   avg_fitness: 12330034,	   max_fitness: 37920491,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.991,  kls:10,  hit:20,  aim:2511,  dev:9780,  flps:112,  frms:10000
+epoch: E01,   gen: 580,   avg_fitness: 16801350,	   max_fitness: 60885780,	   winner: MUTANT  0.07   ,		  crash:False,  dur:2.025,  kls:10,  hit:11,  aim:5511,  dev:7568,  flps:206,  frms:10000
+epoch: E01,   gen: 581,   avg_fitness: 24811273,	   max_fitness: 199446866,	   winner: PARENT      ,		  crash:False,  dur:2.0201,  kls:24,  hit:32,  aim:3971,  dev:9835,  flps:138,  frms:10000
+epoch: E01,   gen: 582,   avg_fitness: 22946735,	   max_fitness: 61860854,	   winner: CROSS      ,		  crash:False,  dur:1.9825,  kls:13,  hit:13,  aim:3626,  dev:10281,  flps:182,  frms:10000
+epoch: E01,   gen: 583,   avg_fitness: 36187124,	   max_fitness: 128252730,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9753,  kls:27,  hit:30,  aim:3073,  dev:9885,  flps:58,  frms:10000
+epoch: E01,   gen: 584,   avg_fitness: 43925211,	   max_fitness: 161988096,	   winner: PARENT      ,		  crash:False,  dur:1.9736,  kls:25,  hit:24,  aim:3094,  dev:11130,  flps:226,  frms:10000
+epoch: E01,   gen: 585,   avg_fitness: 13791042,	   max_fitness: 76807755,	   winner: CROSS      ,		  crash:False,  dur:2.0183,  kls:23,  hit:18,  aim:1830,  dev:10776,  flps:280,  frms:10000
+epoch: E01,   gen: 586,   avg_fitness: 29887784,	   max_fitness: 105622775,	   winner: PARENT      ,		  crash:False,  dur:2.0352,  kls:22,  hit:13,  aim:3276,  dev:10141,  flps:296,  frms:10000
+epoch: E01,   gen: 587,   avg_fitness: 22553559,	   max_fitness: 140744932,	   winner: CROSS      ,		  crash:False,  dur:1.9921,  kls:25,  hit:14,  aim:4112,  dev:11285,  flps:177,  frms:10000
+epoch: E01,   gen: 588,   avg_fitness: 28055364,	   max_fitness: 111571906,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9868,  kls:25,  hit:15,  aim:3124,  dev:10004,  flps:206,  frms:10000
+epoch: E01,   gen: 589,   avg_fitness: 24718328,	   max_fitness: 159379343,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9768,  kls:33,  hit:31,  aim:2842,  dev:10489,  flps:70,  frms:10000
+epoch: E01,   gen: 590,   avg_fitness: 26204544,	   max_fitness: 169949398,	   winner: MUTANT  0.12   ,		  crash:False,  dur:2.0324,  kls:24,  hit:12,  aim:6673,  dev:10075,  flps:122,  frms:10000
+epoch: E01,   gen: 591,   avg_fitness: 28520944,	   max_fitness: 183077050,	   winner: PARENT      ,		  crash:False,  dur:1.9731,  kls:23,  hit:32,  aim:4803,  dev:10949,  flps:54,  frms:10000
+epoch: E01,   gen: 592,   avg_fitness: 9282976,	   max_fitness: 31853041,	   winner: MUTANT  0.07   ,		  crash:False,  dur:2.0174,  kls:13,  hit:13,  aim:2889,  dev:9881,  flps:44,  frms:10000
+epoch: E01,   gen: 593,   avg_fitness: 11059183,	   max_fitness: 77317183,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9814,  kls:15,  hit:30,  aim:2966,  dev:10748,  flps:70,  frms:10000
+epoch: E01,   gen: 594,   avg_fitness: 6146390,	   max_fitness: 34951801,	   winner: PARENT      ,		  crash:False,  dur:2.0054,  kls:20,  hit:21,  aim:3564,  dev:9248,  flps:2,  frms:10000
+epoch: E01,   gen: 595,   avg_fitness: 19192413,	   max_fitness: 110334980,	   winner: PARENT      ,		  crash:False,  dur:2.0635,  kls:18,  hit:23,  aim:4176,  dev:8324,  flps:106,  frms:10000
+epoch: E01,   gen: 596,   avg_fitness: 40932655,	   max_fitness: 194128176,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0011,  kls:21,  hit:20,  aim:9243,  dev:9926,  flps:32,  frms:10000
+epoch: E01,   gen: 597,   avg_fitness: 10075803,	   max_fitness: 44294954,	   winner: PARENT      ,		  crash:False,  dur:1.9882,  kls:17,  hit:24,  aim:3770,  dev:9044,  flps:6,  frms:10000
+epoch: E01,   gen: 598,   avg_fitness: 11305228,	   max_fitness: 40049199,	   winner: CROSS      ,		  crash:False,  dur:2.0348,  kls:28,  hit:15,  aim:2156,  dev:8262,  flps:20,  frms:10000
+epoch: E01,   gen: 599,   avg_fitness: 16499645,	   max_fitness: 76953678,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9985,  kls:24,  hit:28,  aim:2662,  dev:10585,  flps:26,  frms:10000
+epoch: E01,   gen: 600,   avg_fitness: 21393237,	   max_fitness: 131775303,	   winner: MUTANT  0.19   ,		  crash:False,  dur:2.0871,  kls:21,  hit:28,  aim:3643,  dev:7807,  flps:130,  frms:10000
+epoch: E01,   gen: 601,   avg_fitness: 15190433,	   max_fitness: 66915244,	   winner: PARENT      ,		  crash:False,  dur:2.0454,  kls:15,  hit:11,  aim:4143,  dev:8847,  flps:170,  frms:10000
+epoch: E01,   gen: 602,   avg_fitness: 36204384,	   max_fitness: 138815238,	   winner: CROSS      ,		  crash:False,  dur:1.981,  kls:20,  hit:23,  aim:4314,  dev:9445,  flps:124,  frms:10000
+epoch: E01,   gen: 603,   avg_fitness: 12142571,	   max_fitness: 47422021,	   winner: PARENT      ,		  crash:False,  dur:2.0088,  kls:11,  hit:30,  aim:1815,  dev:10170,  flps:200,  frms:10000
+epoch: E01,   gen: 604,   avg_fitness: 27480082,	   max_fitness: 140565756,	   winner: PARENT      ,		  crash:False,  dur:2.0363,  kls:27,  hit:25,  aim:3287,  dev:9844,  flps:96,  frms:10000
+epoch: E01,   gen: 605,   avg_fitness: 30367969,	   max_fitness: 102623529,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9938,  kls:19,  hit:25,  aim:3675,  dev:11423,  flps:58,  frms:10000
+epoch: E01,   gen: 606,   avg_fitness: 11012226,	   max_fitness: 64802485,	   winner: PARENT      ,		  crash:False,  dur:2.0157,  kls:17,  hit:17,  aim:3751,  dev:9501,  flps:50,  frms:10000
+epoch: E01,   gen: 607,   avg_fitness: 21356985,	   max_fitness: 117132725,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.988,  kls:27,  hit:32,  aim:2539,  dev:9326,  flps:76,  frms:10000
+epoch: E01,   gen: 608,   avg_fitness: 16466607,	   max_fitness: 64045328,	   winner: PARENT      ,		  crash:False,  dur:2.0171,  kls:19,  hit:10,  aim:3436,  dev:9853,  flps:138,  frms:10000
+epoch: E01,   gen: 609,   avg_fitness: 36843081,	   max_fitness: 157626494,	   winner: PARENT      ,		  crash:False,  dur:2.02,  kls:22,  hit:17,  aim:4373,  dev:9738,  flps:252,  frms:10000
+epoch: E01,   gen: 610,   avg_fitness: 19018581,	   max_fitness: 76894979,	   winner: MUTANT  0.05   ,		  crash:False,  dur:2.0003,  kls:19,  hit:14,  aim:2722,  dev:9549,  flps:280,  frms:10000
+epoch: E01,   gen: 611,   avg_fitness: 37123321,	   max_fitness: 73722437,	   winner: PARENT      ,		  crash:False,  dur:2.0241,  kls:17,  hit:22,  aim:2558,  dev:10264,  flps:142,  frms:10000
+epoch: E01,   gen: 612,   avg_fitness: 31850652,	   max_fitness: 146210467,	   winner: PARENT      ,		  crash:False,  dur:1.9816,  kls:21,  hit:12,  aim:6730,  dev:10494,  flps:104,  frms:10000
+epoch: E01,   gen: 613,   avg_fitness: 28961450,	   max_fitness: 177439603,	   winner: MUTANT  0.06   ,		  crash:False,  dur:2.016,  kls:31,  hit:28,  aim:3627,  dev:9515,  flps:78,  frms:10000
+epoch: E01,   gen: 614,   avg_fitness: 40367630,	   max_fitness: 118157753,	   winner: MUTANT  0.06   ,		  crash:False,  dur:2.0322,  kls:17,  hit:20,  aim:4413,  dev:9080,  flps:162,  frms:10000
+epoch: E01,   gen: 615,   avg_fitness: 25897157,	   max_fitness: 145329891,	   winner: MUTANT  0.05   ,		  crash:False,  dur:2.0685,  kls:25,  hit:30,  aim:2915,  dev:9871,  flps:136,  frms:10000
+epoch: E01,   gen: 616,   avg_fitness: 23144683,	   max_fitness: 145107407,	   winner: PARENT      ,		  crash:False,  dur:2.1086,  kls:28,  hit:44,  aim:2096,  dev:9517,  flps:124,  frms:10000
+epoch: E01,   gen: 617,   avg_fitness: 25556809,	   max_fitness: 133694384,	   winner: MUTANT  0.18   ,		  crash:False,  dur:2.0377,  kls:23,  hit:16,  aim:6125,  dev:8028,  flps:60,  frms:10000
+epoch: E01,   gen: 618,   avg_fitness: 36602888,	   max_fitness: 140421253,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0032,  kls:28,  hit:37,  aim:3406,  dev:9101,  flps:34,  frms:10000
+epoch: E01,   gen: 619,   avg_fitness: 46791501,	   max_fitness: 131449587,	   winner: PARENT      ,		  crash:False,  dur:1.9855,  kls:24,  hit:39,  aim:2981,  dev:8571,  flps:68,  frms:10000
+epoch: E01,   gen: 620,   avg_fitness: 51427455,	   max_fitness: 135849353,	   winner: MUTANT  0.16   ,		  crash:False,  dur:2.028,  kls:27,  hit:31,  aim:3201,  dev:10278,  flps:54,  frms:10000
+epoch: E01,   gen: 621,   avg_fitness: 52608055,	   max_fitness: 213213652,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9842,  kls:26,  hit:29,  aim:5717,  dev:9128,  flps:54,  frms:10000
+epoch: E01,   gen: 622,   avg_fitness: 43293717,	   max_fitness: 380695329,	   winner: PARENT      ,		  crash:False,  dur:1.974,  kls:38,  hit:45,  aim:4480,  dev:7663,  flps:116,  frms:10000
+epoch: E01,   gen: 623,   avg_fitness: 68389572,	   max_fitness: 248776076,	   winner: MUTANT  0.07   ,		  crash:False,  dur:2.0011,  kls:32,  hit:56,  aim:3511,  dev:8482,  flps:58,  frms:10000
+epoch: E01,   gen: 624,   avg_fitness: 36880265,	   max_fitness: 231936152,	   winner: PARENT      ,		  crash:False,  dur:2.0359,  kls:30,  hit:37,  aim:3787,  dev:8606,  flps:112,  frms:10000
+epoch: E01,   gen: 625,   avg_fitness: 38593980,	   max_fitness: 189556273,	   winner: NEWSPEC  0.46  0.88,		  crash:False,  dur:2.0176,  kls:28,  hit:24,  aim:5799,  dev:11081,  flps:32,  frms:10000
+epoch: E01,   gen: 626,   avg_fitness: 21307229,	   max_fitness: 67201053,	   winner: MUTANT  0.2   ,		  crash:False,  dur:1.9703,  kls:20,  hit:25,  aim:1907,  dev:10963,  flps:114,  frms:10000
+epoch: E01,   gen: 627,   avg_fitness: 23023044,	   max_fitness: 182291646,	   winner: PARENT      ,		  crash:False,  dur:2.0226,  kls:28,  hit:22,  aim:4440,  dev:12005,  flps:76,  frms:10000
+epoch: E01,   gen: 628,   avg_fitness: 14417440,	   max_fitness: 92033674,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0242,  kls:15,  hit:29,  aim:4419,  dev:8853,  flps:46,  frms:10000
+epoch: E01,   gen: 629,   avg_fitness: 26979963,	   max_fitness: 338488909,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9961,  kls:37,  hit:38,  aim:5266,  dev:9571,  flps:54,  frms:10000
+epoch: E01,   gen: 630,   avg_fitness: 36622273,	   max_fitness: 183593075,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9845,  kls:32,  hit:22,  aim:4274,  dev:10342,  flps:70,  frms:10000
+epoch: E01,   gen: 631,   avg_fitness: 30547606,	   max_fitness: 269608486,	   winner: PARENT      ,		  crash:False,  dur:2.0221,  kls:31,  hit:37,  aim:3967,  dev:9918,  flps:118,  frms:10000
+epoch: E01,   gen: 632,   avg_fitness: 32791178,	   max_fitness: 136824208,	   winner: PARENT      ,		  crash:False,  dur:2.024,  kls:24,  hit:44,  aim:2762,  dev:9544,  flps:66,  frms:10000
+epoch: E01,   gen: 633,   avg_fitness: 20630900,	   max_fitness: 136431311,	   winner: PARENT      ,		  crash:False,  dur:1.9787,  kls:22,  hit:35,  aim:3313,  dev:10477,  flps:70,  frms:10000
+epoch: E01,   gen: 634,   avg_fitness: 26045710,	   max_fitness: 184395880,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9805,  kls:32,  hit:23,  aim:5522,  dev:9523,  flps:30,  frms:10000
+epoch: E01,   gen: 635,   avg_fitness: 44849873,	   max_fitness: 266799166,	   winner: CROSS      ,		  crash:False,  dur:1.9846,  kls:37,  hit:21,  aim:4937,  dev:11038,  flps:96,  frms:10000
+epoch: E01,   gen: 636,   avg_fitness: 21309308,	   max_fitness: 149583652,	   winner: PARENT      ,		  crash:False,  dur:2.0025,  kls:30,  hit:21,  aim:3604,  dev:11068,  flps:78,  frms:10000
+epoch: E01,   gen: 637,   avg_fitness: 37396986,	   max_fitness: 163254126,	   winner: MUTANT  0.05   ,		  crash:False,  dur:2.0342,  kls:24,  hit:31,  aim:3643,  dev:9112,  flps:112,  frms:10000
+epoch: E01,   gen: 638,   avg_fitness: 35760638,	   max_fitness: 130367381,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0372,  kls:25,  hit:35,  aim:3124,  dev:7807,  flps:72,  frms:10000
+epoch: E01,   gen: 639,   avg_fitness: 33211508,	   max_fitness: 128521371,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0372,  kls:29,  hit:25,  aim:2827,  dev:9370,  flps:100,  frms:10000
+epoch: E01,   gen: 640,   avg_fitness: 26085883,	   max_fitness: 113471835,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9906,  kls:24,  hit:33,  aim:1650,  dev:10768,  flps:326,  frms:10000
+epoch: E01,   gen: 641,   avg_fitness: 25224031,	   max_fitness: 114293394,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9859,  kls:18,  hit:19,  aim:3849,  dev:9702,  flps:196,  frms:10000
+epoch: E01,   gen: 642,   avg_fitness: 9911715,	   max_fitness: 53715716,	   winner: CROSS      ,		  crash:False,  dur:1.9776,  kls:17,  hit:21,  aim:2456,  dev:9617,  flps:68,  frms:10000
+epoch: E01,   gen: 643,   avg_fitness: 19377720,	   max_fitness: 140992193,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.968,  kls:36,  hit:29,  aim:2470,  dev:10866,  flps:62,  frms:10000
+epoch: E01,   gen: 644,   avg_fitness: 20298029,	   max_fitness: 171880284,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9967,  kls:29,  hit:27,  aim:3527,  dev:10949,  flps:86,  frms:10000
+epoch: E01,   gen: 645,   avg_fitness: 10704405,	   max_fitness: 58497278,	   winner: PARENT      ,		  crash:False,  dur:2.0117,  kls:23,  hit:22,  aim:1785,  dev:10557,  flps:80,  frms:10000
+epoch: E01,   gen: 646,   avg_fitness: 28820157,	   max_fitness: 122520599,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9932,  kls:32,  hit:29,  aim:3195,  dev:10101,  flps:26,  frms:10000
+epoch: E01,   gen: 647,   avg_fitness: 9915879,	   max_fitness: 53135631,	   winner: MUTANT  0.16   ,		  crash:False,  dur:1.9805,  kls:21,  hit:23,  aim:2094,  dev:9987,  flps:44,  frms:10000
+epoch: E01,   gen: 648,   avg_fitness: 24469138,	   max_fitness: 121209158,	   winner: MUTANT  0.13   ,		  crash:False,  dur:2.0151,  kls:38,  hit:41,  aim:2060,  dev:8862,  flps:34,  frms:10000
+epoch: E01,   gen: 649,   avg_fitness: 32371087,	   max_fitness: 192136512,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.994,  kls:37,  hit:42,  aim:3634,  dev:10188,  flps:20,  frms:10000
+epoch: E01,   gen: 650,   avg_fitness: 45466502,	   max_fitness: 283740571,	   winner: PARENT      ,		  crash:False,  dur:2.0212,  kls:42,  hit:38,  aim:3608,  dev:9216,  flps:74,  frms:10000
+epoch: E01,   gen: 651,   avg_fitness: 49755239,	   max_fitness: 143136668,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9778,  kls:30,  hit:37,  aim:2508,  dev:9091,  flps:82,  frms:10000
+epoch: E01,   gen: 652,   avg_fitness: 52591169,	   max_fitness: 268392423,	   winner: PARENT      ,		  crash:False,  dur:2.0113,  kls:36,  hit:33,  aim:4266,  dev:9223,  flps:80,  frms:10000
+epoch: E01,   gen: 653,   avg_fitness: 22538798,	   max_fitness: 92997697,	   winner: PARENT      ,		  crash:False,  dur:2.0132,  kls:19,  hit:24,  aim:3431,  dev:9305,  flps:76,  frms:10000
+epoch: E01,   gen: 654,   avg_fitness: 65984468,	   max_fitness: 296916431,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9851,  kls:39,  hit:33,  aim:4598,  dev:8414,  flps:76,  frms:10000
+epoch: E01,   gen: 655,   avg_fitness: 90606810,	   max_fitness: 285405210,	   winner: PARENT      ,		  crash:False,  dur:2.064,  kls:51,  hit:62,  aim:2853,  dev:7675,  flps:36,  frms:10000
+epoch: E01,   gen: 656,   avg_fitness: 31897321,	   max_fitness: 148028085,	   winner: PARENT      ,		  crash:False,  dur:1.9863,  kls:50,  hit:47,  aim:2277,  dev:7281,  flps:18,  frms:10000
+epoch: E01,   gen: 657,   avg_fitness: 37748876,	   max_fitness: 311616475,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9754,  kls:35,  hit:59,  aim:2799,  dev:7879,  flps:194,  frms:10000
+epoch: E01,   gen: 658,   avg_fitness: 34557449,	   max_fitness: 165721372,	   winner: PARENT      ,		  crash:False,  dur:1.9919,  kls:35,  hit:33,  aim:4178,  dev:6732,  flps:28,  frms:10000
+epoch: E01,   gen: 659,   avg_fitness: 23608306,	   max_fitness: 132890769,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9739,  kls:31,  hit:41,  aim:1668,  dev:7625,  flps:226,  frms:10000
+epoch: E01,   gen: 660,   avg_fitness: 97651662,	   max_fitness: 819087144,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9872,  kls:49,  hit:62,  aim:4794,  dev:8284,  flps:226,  frms:10000
+epoch: E01,   gen: 661,   avg_fitness: 158921,	   max_fitness: 2841004,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9774,  kls:7,  hit:14,  aim:291,  dev:7806,  flps:224,  frms:10000
+epoch: E01,   gen: 662,   avg_fitness: 279983,	   max_fitness: 1917157,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9924,  kls:3,  hit:8,  aim:400,  dev:10067,  flps:494,  frms:10000
+epoch: E01,   gen: 663,   avg_fitness: 1524416,	   max_fitness: 14395864,	   winner: MUTANT  0.05   ,		  crash:True,  dur:1.7632,  kls:22,  hit:24,  aim:3415,  dev:12485,  flps:0,  frms:8851
+epoch: E01,   gen: 664,   avg_fitness: 93851,	   max_fitness: 768435,	   winner: MUTANT  0.13   ,		  crash:True,  dur:1.3182,  kls:7,  hit:9,  aim:581,  dev:9433,  flps:22,  frms:6619
+epoch: E01,   gen: 665,   avg_fitness: 4758884,	   max_fitness: 44521794,	   winner: PARENT      ,		  crash:False,  dur:2.0102,  kls:22,  hit:22,  aim:1455,  dev:10694,  flps:72,  frms:10000
+epoch: E01,   gen: 666,   avg_fitness: 349737,	   max_fitness: 4237415,	   winner: PARENT      ,		  crash:True,  dur:1.5498,  kls:8,  hit:21,  aim:808,  dev:12051,  flps:108,  frms:7639
+epoch: E01,   gen: 667,   avg_fitness: 3289780,	   max_fitness: 57096624,	   winner: CROSS      ,		  crash:False,  dur:1.982,  kls:16,  hit:27,  aim:1533,  dev:11445,  flps:221,  frms:10000
+epoch: E01,   gen: 668,   avg_fitness: 481913,	   max_fitness: 6818731,	   winner: MUTANT  0.18   ,		  crash:False,  dur:1.9733,  kls:6,  hit:14,  aim:1258,  dev:9718,  flps:36,  frms:10000
+epoch: E01,   gen: 669,   avg_fitness: 6472276,	   max_fitness: 107782550,	   winner: NEWSPEC  0.4  0.95,		  crash:False,  dur:1.9769,  kls:34,  hit:31,  aim:3431,  dev:10783,  flps:8,  frms:10000
+epoch: E01,   gen: 670,   avg_fitness: 895359,	   max_fitness: 12625796,	   winner: PARENT      ,		  crash:False,  dur:2.0121,  kls:12,  hit:35,  aim:1025,  dev:10028,  flps:8,  frms:10000
+epoch: E01,   gen: 671,   avg_fitness: 2110338,	   max_fitness: 22411294,	   winner: PARENT      ,		  crash:False,  dur:2.0351,  kls:16,  hit:24,  aim:2270,  dev:8696,  flps:4,  frms:10000
+epoch: E01,   gen: 672,   avg_fitness: 11979564,	   max_fitness: 121414330,	   winner: MUTANT  0.05   ,		  crash:True,  dur:1.9389,  kls:32,  hit:30,  aim:3758,  dev:11269,  flps:130,  frms:9815
+epoch: E01,   gen: 673,   avg_fitness: 1310346,	   max_fitness: 23486976,	   winner: MUTANT  0.13   ,		  crash:True,  dur:1.3298,  kls:29,  hit:22,  aim:1922,  dev:10271,  flps:54,  frms:6776
+epoch: E01,   gen: 674,   avg_fitness: 2807288,	   max_fitness: 29951740,	   winner: PARENT      ,		  crash:True,  dur:1.4758,  kls:16,  hit:20,  aim:3302,  dev:11229,  flps:110,  frms:7393
+epoch: E01,   gen: 675,   avg_fitness: 382176,	   max_fitness: 5182399,	   winner: MUTANT  0.19   ,		  crash:True,  dur:1.5017,  kls:14,  hit:33,  aim:818,  dev:12417,  flps:12,  frms:7631
+epoch: E01,   gen: 676,   avg_fitness: 336081,	   max_fitness: 2895197,	   winner: MUTANT  0.15   ,		  crash:True,  dur:1.5872,  kls:8,  hit:23,  aim:429,  dev:10308,  flps:212,  frms:8050
+epoch: E01,   gen: 677,   avg_fitness: 1149879,	   max_fitness: 20796810,	   winner: MUTANT  0.08   ,		  crash:True,  dur:1.5343,  kls:27,  hit:38,  aim:1829,  dev:11687,  flps:8,  frms:7627
+epoch: E01,   gen: 678,   avg_fitness: 490125,	   max_fitness: 5912764,	   winner: PARENT      ,		  crash:True,  dur:0.9148,  kls:19,  hit:21,  aim:1491,  dev:10715,  flps:19,  frms:4530
+epoch: E01,   gen: 679,   avg_fitness: 595754,	   max_fitness: 9041070,	   winner: CROSS      ,		  crash:True,  dur:1.2412,  kls:12,  hit:26,  aim:1260,  dev:11179,  flps:118,  frms:6294
+epoch: E01,   gen: 680,   avg_fitness: 4178217,	   max_fitness: 50666179,	   winner: PARENT      ,		  crash:True,  dur:1.2776,  kls:21,  hit:24,  aim:4218,  dev:12331,  flps:124,  frms:6225
+epoch: E01,   gen: 681,   avg_fitness: 330670,	   max_fitness: 4994284,	   winner: MUTANT  0.09   ,		  crash:True,  dur:1.2117,  kls:13,  hit:20,  aim:782,  dev:11991,  flps:112,  frms:6122
+epoch: E01,   gen: 682,   avg_fitness: 2713629,	   max_fitness: 48497837,	   winner: CROSS      ,		  crash:False,  dur:1.9956,  kls:24,  hit:16,  aim:1916,  dev:8982,  flps:74,  frms:10000
+epoch: E01,   gen: 683,   avg_fitness: 455950,	   max_fitness: 3561532,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9814,  kls:8,  hit:19,  aim:382,  dev:10448,  flps:44,  frms:10000
+epoch: E01,   gen: 684,   avg_fitness: 330356,	   max_fitness: 2843755,	   winner: MUTANT  0.05   ,		  crash:True,  dur:0.8249,  kls:15,  hit:10,  aim:1178,  dev:12350,  flps:43,  frms:4176
+epoch: E01,   gen: 685,   avg_fitness: 1478426,	   max_fitness: 16733349,	   winner: MUTANT  0.08   ,		  crash:True,  dur:1.5048,  kls:25,  hit:11,  aim:1895,  dev:11650,  flps:76,  frms:7655
+epoch: E01,   gen: 686,   avg_fitness: 227202,	   max_fitness: 2216295,	   winner: MUTANT  0.07   ,		  crash:True,  dur:0.7274,  kls:11,  hit:17,  aim:871,  dev:10018,  flps:88,  frms:3661
+epoch: E01,   gen: 687,   avg_fitness: 1168888,	   max_fitness: 17060826,	   winner: CROSS      ,		  crash:True,  dur:1.3853,  kls:24,  hit:21,  aim:1479,  dev:10218,  flps:82,  frms:7011
+epoch: E01,   gen: 688,   avg_fitness: 14207956,	   max_fitness: 268443309,	   winner: CROSS      ,		  crash:False,  dur:1.9811,  kls:32,  hit:38,  aim:3278,  dev:11758,  flps:149,  frms:10000
+epoch: E01,   gen: 689,   avg_fitness: 680223,	   max_fitness: 7737327,	   winner: MUTANT  0.08   ,		  crash:True,  dur:1.5059,  kls:15,  hit:20,  aim:1134,  dev:10461,  flps:52,  frms:7588
+epoch: E01,   gen: 690,   avg_fitness: 3646020,	   max_fitness: 35148704,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9762,  kls:17,  hit:26,  aim:1704,  dev:7999,  flps:44,  frms:10000
+epoch: E01,   gen: 691,   avg_fitness: 4038644,	   max_fitness: 69493561,	   winner: MUTANT  0.1   ,		  crash:True,  dur:1.9086,  kls:29,  hit:19,  aim:4460,  dev:9725,  flps:56,  frms:9634
+epoch: E01,   gen: 692,   avg_fitness: 1631709,	   max_fitness: 22544519,	   winner: MUTANT  0.12   ,		  crash:True,  dur:1.5401,  kls:25,  hit:17,  aim:1540,  dev:11538,  flps:154,  frms:7777
+epoch: E01,   gen: 693,   avg_fitness: 1932398,	   max_fitness: 33048570,	   winner: MUTANT  0.13   ,		  crash:True,  dur:1.7849,  kls:25,  hit:22,  aim:2011,  dev:10279,  flps:90,  frms:9034
+epoch: E01,   gen: 694,   avg_fitness: 2750581,	   max_fitness: 22277019,	   winner: PARENT      ,		  crash:True,  dur:1.6059,  kls:22,  hit:33,  aim:1190,  dev:12489,  flps:98,  frms:7981
+epoch: E01,   gen: 695,   avg_fitness: 7481513,	   max_fitness: 140072708,	   winner: MUTANT  0.18   ,		  crash:False,  dur:1.971,  kls:37,  hit:17,  aim:2524,  dev:12262,  flps:146,  frms:10000
+epoch: E01,   gen: 696,   avg_fitness: 5476909,	   max_fitness: 87370507,	   winner: PARENT      ,		  crash:False,  dur:2.0066,  kls:24,  hit:31,  aim:1956,  dev:11000,  flps:86,  frms:10000
+epoch: E01,   gen: 697,   avg_fitness: 2798445,	   max_fitness: 36403060,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9717,  kls:22,  hit:29,  aim:1566,  dev:9276,  flps:18,  frms:10000
+epoch: E01,   gen: 698,   avg_fitness: 1557527,	   max_fitness: 12960950,	   winner: PARENT      ,		  crash:False,  dur:2.0148,  kls:7,  hit:29,  aim:1701,  dev:10622,  flps:12,  frms:10000
+epoch: E01,   gen: 699,   avg_fitness: 2683171,	   max_fitness: 18839265,	   winner: PARENT      ,		  crash:True,  dur:1.954,  kls:19,  hit:10,  aim:2048,  dev:12473,  flps:100,  frms:9887
+epoch: E01,   gen: 700,   avg_fitness: 1623129,	   max_fitness: 11769627,	   winner: CROSS      ,		  crash:True,  dur:1.5152,  kls:23,  hit:21,  aim:1054,  dev:10262,  flps:62,  frms:7665
+epoch: E01,   gen: 701,   avg_fitness: 1706054,	   max_fitness: 27827184,	   winner: MUTANT  0.11   ,		  crash:True,  dur:1.4143,  kls:23,  hit:19,  aim:2388,  dev:12404,  flps:88,  frms:7148
+epoch: E01,   gen: 702,   avg_fitness: 16175125,	   max_fitness: 264865035,	   winner: MUTANT  0.16   ,		  crash:False,  dur:1.969,  kls:27,  hit:29,  aim:5967,  dev:11108,  flps:66,  frms:10000
+epoch: E01,   gen: 703,   avg_fitness: 7659684,	   max_fitness: 99522152,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9876,  kls:30,  hit:35,  aim:1666,  dev:12079,  flps:74,  frms:10000
+epoch: E01,   gen: 704,   avg_fitness: 1522217,	   max_fitness: 9822546,	   winner: MUTANT  0.1   ,		  crash:True,  dur:1.9306,  kls:12,  hit:24,  aim:864,  dev:11583,  flps:142,  frms:9813
+epoch: E01,   gen: 705,   avg_fitness: 415061,	   max_fitness: 3745582,	   winner: MUTANT  0.12   ,		  crash:True,  dur:1.714,  kls:9,  hit:24,  aim:676,  dev:11560,  flps:46,  frms:8693
+epoch: E01,   gen: 706,   avg_fitness: 469920,	   max_fitness: 5642809,	   winner: MUTANT  0.06   ,		  crash:True,  dur:1.9236,  kls:12,  hit:17,  aim:673,  dev:11786,  flps:116,  frms:9613
+epoch: E01,   gen: 707,   avg_fitness: 608398,	   max_fitness: 3496432,	   winner: MUTANT  0.05   ,		  crash:True,  dur:0.665,  kls:18,  hit:9,  aim:1826,  dev:10836,  flps:44,  frms:3122
+epoch: E01,   gen: 708,   avg_fitness: 823367,	   max_fitness: 13427397,	   winner: PARENT      ,		  crash:True,  dur:1.2153,  kls:19,  hit:26,  aim:1433,  dev:11314,  flps:88,  frms:5800
+epoch: E01,   gen: 709,   avg_fitness: 6668866,	   max_fitness: 80991199,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9987,  kls:28,  hit:13,  aim:2883,  dev:10475,  flps:82,  frms:10000
+epoch: E01,   gen: 710,   avg_fitness: 58931,	   max_fitness: 411531,	   winner: NEWSPEC  0.48  0.96,		  crash:True,  dur:0.8324,  kls:8,  hit:9,  aim:719,  dev:12496,  flps:2,  frms:4192
+epoch: E01,   gen: 711,   avg_fitness: 976141,	   max_fitness: 15648077,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9823,  kls:13,  hit:20,  aim:1044,  dev:12116,  flps:36,  frms:10000
+epoch: E01,   gen: 712,   avg_fitness: 840772,	   max_fitness: 6378896,	   winner: MUTANT  0.09   ,		  crash:True,  dur:1.4152,  kls:12,  hit:24,  aim:745,  dev:12317,  flps:146,  frms:7154
+epoch: E01,   gen: 713,   avg_fitness: 250408,	   max_fitness: 2791473,	   winner: MUTANT  0.17   ,		  crash:True,  dur:0.7939,  kls:15,  hit:6,  aim:1097,  dev:11641,  flps:186,  frms:4008
+epoch: E01,   gen: 714,   avg_fitness: 2381278,	   max_fitness: 24241129,	   winner: NEWSPEC  0.66  0.78,		  crash:False,  dur:1.9716,  kls:9,  hit:27,  aim:1230,  dev:12228,  flps:142,  frms:10000
+epoch: E01,   gen: 715,   avg_fitness: 1658447,	   max_fitness: 22790093,	   winner: MUTANT  0.08   ,		  crash:True,  dur:1.7166,  kls:18,  hit:19,  aim:1432,  dev:12038,  flps:298,  frms:8673
+epoch: E01,   gen: 716,   avg_fitness: 298726,	   max_fitness: 3298272,	   winner: PARENT      ,		  crash:True,  dur:1.6103,  kls:12,  hit:11,  aim:842,  dev:10643,  flps:46,  frms:8162
+epoch: E01,   gen: 717,   avg_fitness: 4487647,	   max_fitness: 81151142,	   winner: MUTANT  0.1   ,		  crash:True,  dur:1.9208,  kls:27,  hit:20,  aim:3411,  dev:11799,  flps:198,  frms:9689
+epoch: E01,   gen: 718,   avg_fitness: 8926660,	   max_fitness: 90352637,	   winner: PARENT      ,		  crash:True,  dur:1.494,  kls:27,  hit:24,  aim:3216,  dev:11870,  flps:556,  frms:7419
+epoch: E01,   gen: 719,   avg_fitness: 2385924,	   max_fitness: 16719148,	   winner: PARENT      ,		  crash:True,  dur:1.1402,  kls:16,  hit:23,  aim:2047,  dev:10357,  flps:158,  frms:5622
+epoch: E01,   gen: 720,   avg_fitness: 1916671,	   max_fitness: 19444395,	   winner: MUTANT  0.13   ,		  crash:True,  dur:1.0046,  kls:16,  hit:18,  aim:2190,  dev:11989,  flps:429,  frms:5037
+epoch: E01,   gen: 721,   avg_fitness: 1302630,	   max_fitness: 10270642,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9865,  kls:8,  hit:30,  aim:326,  dev:12291,  flps:756,  frms:10000
+epoch: E01,   gen: 722,   avg_fitness: 36538258,	   max_fitness: 689962863,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9675,  kls:43,  hit:40,  aim:4471,  dev:10880,  flps:468,  frms:10000
+epoch: E01,   gen: 723,   avg_fitness: 18695555,	   max_fitness: 342273654,	   winner: PARENT      ,		  crash:False,  dur:2.0211,  kls:35,  hit:30,  aim:4060,  dev:11066,  flps:228,  frms:10000
+epoch: E01,   gen: 724,   avg_fitness: 193380,	   max_fitness: 1535600,	   winner: PARENT      ,		  crash:True,  dur:0.9054,  kls:6,  hit:6,  aim:1364,  dev:11449,  flps:124,  frms:4605
+epoch: E01,   gen: 725,   avg_fitness: 8490402,	   max_fitness: 128931351,	   winner: MUTANT  0.07   ,		  crash:True,  dur:1.6486,  kls:31,  hit:24,  aim:3507,  dev:12421,  flps:566,  frms:8298
+epoch: E01,   gen: 726,   avg_fitness: 7644338,	   max_fitness: 131654031,	   winner: CROSS      ,		  crash:False,  dur:1.9668,  kls:20,  hit:17,  aim:3004,  dev:11870,  flps:504,  frms:10000
+epoch: E01,   gen: 727,   avg_fitness: 648542,	   max_fitness: 3679914,	   winner: MUTANT  0.2   ,		  crash:True,  dur:0.9492,  kls:11,  hit:24,  aim:558,  dev:11256,  flps:346,  frms:4782
+epoch: E01,   gen: 728,   avg_fitness: 69348,	   max_fitness: 1053820,	   winner: PARENT      ,		  crash:True,  dur:0.7476,  kls:7,  hit:17,  aim:684,  dev:11946,  flps:46,  frms:3749
+epoch: E01,   gen: 729,   avg_fitness: 746736,	   max_fitness: 6780825,	   winner: MUTANT  0.11   ,		  crash:True,  dur:1.578,  kls:17,  hit:12,  aim:1066,  dev:11566,  flps:64,  frms:7947
+epoch: E01,   gen: 730,   avg_fitness: 840933,	   max_fitness: 5574972,	   winner: NEWSPEC  0.9  0.87,		  crash:True,  dur:0.9218,  kls:19,  hit:10,  aim:1383,  dev:11321,  flps:90,  frms:4646
+epoch: E01,   gen: 731,   avg_fitness: 11488870,	   max_fitness: 124370440,	   winner: MUTANT  0.07   ,		  crash:True,  dur:1.8818,  kls:43,  hit:35,  aim:3333,  dev:12255,  flps:55,  frms:9553
+epoch: E01,   gen: 732,   avg_fitness: 963191,	   max_fitness: 11415638,	   winner: MUTANT  0.12   ,		  crash:True,  dur:0.8421,  kls:24,  hit:21,  aim:2557,  dev:12075,  flps:14,  frms:4242
+epoch: E01,   gen: 733,   avg_fitness: 937929,	   max_fitness: 15931001,	   winner: MUTANT  0.17   ,		  crash:False,  dur:1.9796,  kls:12,  hit:26,  aim:727,  dev:8594,  flps:147,  frms:10000
+epoch: E01,   gen: 734,   avg_fitness: 10676796,	   max_fitness: 166193083,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9925,  kls:33,  hit:16,  aim:4561,  dev:9875,  flps:79,  frms:10000
+epoch: E01,   gen: 735,   avg_fitness: 2978116,	   max_fitness: 18242643,	   winner: MUTANT  0.16   ,		  crash:False,  dur:1.9827,  kls:5,  hit:34,  aim:1735,  dev:10103,  flps:73,  frms:10000
+epoch: E01,   gen: 736,   avg_fitness: 4001807,	   max_fitness: 33842744,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9915,  kls:13,  hit:45,  aim:895,  dev:10447,  flps:157,  frms:10000
+epoch: E01,   gen: 737,   avg_fitness: 2537997,	   max_fitness: 23330302,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9689,  kls:13,  hit:23,  aim:862,  dev:10938,  flps:222,  frms:10000
+epoch: E01,   gen: 738,   avg_fitness: 4797821,	   max_fitness: 72129472,	   winner: CROSS      ,		  crash:False,  dur:1.9758,  kls:21,  hit:40,  aim:1509,  dev:9122,  flps:119,  frms:10000
+epoch: E01,   gen: 739,   avg_fitness: 2523589,	   max_fitness: 30814214,	   winner: CROSS      ,		  crash:True,  dur:1.8584,  kls:20,  hit:12,  aim:2727,  dev:11859,  flps:149,  frms:9323
+epoch: E01,   gen: 740,   avg_fitness: 9808289,	   max_fitness: 94766329,	   winner: PARENT      ,		  crash:False,  dur:2.0027,  kls:13,  hit:51,  aim:2227,  dev:10645,  flps:171,  frms:10000
+epoch: E01,   gen: 741,   avg_fitness: 2701287,	   max_fitness: 26054123,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9729,  kls:11,  hit:23,  aim:1456,  dev:9917,  flps:106,  frms:10000
+epoch: E01,   gen: 742,   avg_fitness: 1459416,	   max_fitness: 16106168,	   winner: MUTANT  0.13   ,		  crash:True,  dur:1.1548,  kls:21,  hit:4,  aim:4630,  dev:11857,  flps:110,  frms:5854
+epoch: E01,   gen: 743,   avg_fitness: 3758707,	   max_fitness: 39195310,	   winner: MUTANT  0.14   ,		  crash:True,  dur:1.0374,  kls:34,  hit:17,  aim:2855,  dev:11855,  flps:170,  frms:5204
+epoch: E01,   gen: 744,   avg_fitness: 181841,	   max_fitness: 1591688,	   winner: MUTANT  0.06   ,		  crash:True,  dur:0.6465,  kls:11,  hit:6,  aim:1299,  dev:10177,  flps:100,  frms:3266
+epoch: E01,   gen: 745,   avg_fitness: 3796528,	   max_fitness: 64704028,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9788,  kls:10,  hit:35,  aim:2560,  dev:8343,  flps:220,  frms:10000
+epoch: E01,   gen: 746,   avg_fitness: 617792,	   max_fitness: 6938081,	   winner: MUTANT  0.18   ,		  crash:True,  dur:0.8331,  kls:14,  hit:6,  aim:2303,  dev:11507,  flps:352,  frms:4202
+epoch: E01,   gen: 747,   avg_fitness: 9870758,	   max_fitness: 153840865,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9936,  kls:20,  hit:26,  aim:2323,  dev:11808,  flps:780,  frms:10000
+epoch: E01,   gen: 748,   avg_fitness: 21166,	   max_fitness: 121686,	   winner: CROSS      ,		  crash:True,  dur:0.3247,  kls:6,  hit:7,  aim:250,  dev:9563,  flps:196,  frms:1698
+epoch: E01,   gen: 749,   avg_fitness: 152840,	   max_fitness: 1245520,	   winner: MUTANT  0.07   ,		  crash:True,  dur:0.6834,  kls:7,  hit:5,  aim:1080,  dev:11582,  flps:334,  frms:3402
+epoch: E01,   gen: 750,   avg_fitness: 19318512,	   max_fitness: 316476179,	   winner: PARENT      ,		  crash:True,  dur:1.9491,  kls:36,  hit:29,  aim:5467,  dev:11642,  flps:652,  frms:9784
+epoch: E01,   gen: 751,   avg_fitness: 374499,	   max_fitness: 3338504,	   winner: NEWSPEC  0.57  0.76,		  crash:True,  dur:1.1061,  kls:7,  hit:14,  aim:836,  dev:12216,  flps:480,  frms:5447
+epoch: E01,   gen: 752,   avg_fitness: 5533281,	   max_fitness: 104340483,	   winner: MUTANT  0.17   ,		  crash:False,  dur:2.0213,  kls:25,  hit:26,  aim:2650,  dev:12185,  flps:64,  frms:10000
+epoch: E01,   gen: 753,   avg_fitness: 10483175,	   max_fitness: 168748150,	   winner: MUTANT  0.12   ,		  crash:False,  dur:2.1179,  kls:29,  hit:22,  aim:3094,  dev:10845,  flps:202,  frms:10000
+epoch: E01,   gen: 754,   avg_fitness: 10314736,	   max_fitness: 145230321,	   winner: MUTANT  0.2   ,		  crash:True,  dur:1.321,  kls:43,  hit:18,  aim:6926,  dev:10194,  flps:153,  frms:6674
+epoch: E01,   gen: 755,   avg_fitness: 604175,	   max_fitness: 6456929,	   winner: CROSS      ,		  crash:True,  dur:1.0057,  kls:18,  hit:15,  aim:1264,  dev:11003,  flps:77,  frms:5050
+epoch: E01,   gen: 756,   avg_fitness: 3061864,	   max_fitness: 56978711,	   winner: NEWSPEC  0.38  0.91,		  crash:True,  dur:1.3795,  kls:26,  hit:29,  aim:2295,  dev:11842,  flps:360,  frms:6821
+epoch: E01,   gen: 757,   avg_fitness: 19897490,	   max_fitness: 276920755,	   winner: PARENT      ,		  crash:False,  dur:2.0068,  kls:31,  hit:27,  aim:2955,  dev:10841,  flps:628,  frms:10000
+epoch: E01,   gen: 758,   avg_fitness: 24998005,	   max_fitness: 467780856,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9858,  kls:53,  hit:22,  aim:4696,  dev:10514,  flps:221,  frms:10000
+epoch: E01,   gen: 759,   avg_fitness: 2991031,	   max_fitness: 33908848,	   winner: PARENT      ,		  crash:True,  dur:1.0509,  kls:23,  hit:7,  aim:6481,  dev:12498,  flps:146,  frms:5228
+epoch: E01,   gen: 760,   avg_fitness: 6328915,	   max_fitness: 61004625,	   winner: MUTANT  0.07   ,		  crash:True,  dur:1.3022,  kls:26,  hit:21,  aim:3042,  dev:12187,  flps:392,  frms:6598
+epoch: E01,   gen: 761,   avg_fitness: 51973605,	   max_fitness: 661222330,	   winner: MUTANT  0.16   ,		  crash:False,  dur:1.9828,  kls:31,  hit:61,  aim:3943,  dev:10762,  flps:690,  frms:10000
+epoch: E01,   gen: 762,   avg_fitness: 8007364,	   max_fitness: 79852852,	   winner: PARENT      ,		  crash:True,  dur:1.8937,  kls:20,  hit:38,  aim:1967,  dev:12464,  flps:729,  frms:9465
+epoch: E01,   gen: 763,   avg_fitness: 5297261,	   max_fitness: 76560646,	   winner: PARENT      ,		  crash:True,  dur:1.811,  kls:25,  hit:28,  aim:1814,  dev:12419,  flps:996,  frms:8922
+epoch: E01,   gen: 764,   avg_fitness: 1700914,	   max_fitness: 16282475,	   winner: MUTANT  0.16   ,		  crash:True,  dur:1.158,  kls:15,  hit:20,  aim:1395,  dev:10787,  flps:712,  frms:5879
+epoch: E01,   gen: 765,   avg_fitness: 26857455,	   max_fitness: 199058799,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9841,  kls:19,  hit:32,  aim:3250,  dev:8091,  flps:734,  frms:10000
+epoch: E01,   gen: 766,   avg_fitness: 16355747,	   max_fitness: 161518767,	   winner: PARENT      ,		  crash:False,  dur:2.0032,  kls:23,  hit:27,  aim:1953,  dev:11064,  flps:1052,  frms:10000
+epoch: E01,   gen: 767,   avg_fitness: 14617854,	   max_fitness: 90265893,	   winner: PARENT      ,		  crash:True,  dur:1.7889,  kls:16,  hit:35,  aim:3564,  dev:10741,  flps:556,  frms:8882
+epoch: E01,   gen: 768,   avg_fitness: 17039545,	   max_fitness: 140410731,	   winner: MUTANT  0.14   ,		  crash:False,  dur:2.0356,  kls:13,  hit:27,  aim:3464,  dev:9428,  flps:728,  frms:10000
+epoch: E01,   gen: 769,   avg_fitness: 21639017,	   max_fitness: 79965450,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9785,  kls:12,  hit:15,  aim:3243,  dev:6222,  flps:1143,  frms:10000
+epoch: E01,   gen: 770,   avg_fitness: 23559268,	   max_fitness: 111125874,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9747,  kls:20,  hit:19,  aim:1943,  dev:11861,  flps:958,  frms:10000
+epoch: E01,   gen: 771,   avg_fitness: 6405365,	   max_fitness: 70969318,	   winner: CROSS      ,		  crash:False,  dur:1.9814,  kls:13,  hit:32,  aim:1495,  dev:8422,  flps:976,  frms:10000
+epoch: E01,   gen: 772,   avg_fitness: 14008786,	   max_fitness: 117094485,	   winner: MUTANT  0.1   ,		  crash:False,  dur:1.9776,  kls:9,  hit:14,  aim:7180,  dev:7586,  flps:616,  frms:10000
+epoch: E01,   gen: 773,   avg_fitness: 6575089,	   max_fitness: 61710167,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9762,  kls:11,  hit:31,  aim:1503,  dev:9962,  flps:864,  frms:10000
+epoch: E01,   gen: 774,   avg_fitness: 6274874,	   max_fitness: 29790996,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9711,  kls:8,  hit:18,  aim:1005,  dev:11856,  flps:2038,  frms:10000
+epoch: E01,   gen: 775,   avg_fitness: 14406538,	   max_fitness: 213701312,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9734,  kls:22,  hit:31,  aim:2562,  dev:9959,  flps:1050,  frms:10000
+epoch: E01,   gen: 776,   avg_fitness: 15976945,	   max_fitness: 148658267,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9629,  kls:16,  hit:21,  aim:3397,  dev:9007,  flps:918,  frms:10000
+epoch: E01,   gen: 777,   avg_fitness: 36556427,	   max_fitness: 431792361,	   winner: PARENT      ,		  crash:False,  dur:1.9788,  kls:29,  hit:32,  aim:3685,  dev:11253,  flps:1064,  frms:10000
+epoch: E01,   gen: 778,   avg_fitness: 12184084,	   max_fitness: 174846009,	   winner: PARENT      ,		  crash:False,  dur:2.0851,  kls:25,  hit:37,  aim:1613,  dev:10306,  flps:1068,  frms:10000
+epoch: E01,   gen: 779,   avg_fitness: 13443944,	   max_fitness: 88245046,	   winner: CROSS      ,		  crash:False,  dur:1.9965,  kls:17,  hit:21,  aim:1465,  dev:10709,  flps:1748,  frms:10000
+epoch: E01,   gen: 780,   avg_fitness: 33263852,	   max_fitness: 413817125,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9999,  kls:37,  hit:24,  aim:3419,  dev:10924,  flps:1072,  frms:10000
+epoch: E01,   gen: 781,   avg_fitness: 45945672,	   max_fitness: 397891404,	   winner: CROSS      ,		  crash:True,  dur:1.956,  kls:47,  hit:36,  aim:3874,  dev:11962,  flps:1060,  frms:9880
+epoch: E01,   gen: 782,   avg_fitness: 7321981,	   max_fitness: 78136021,	   winner: CROSS      ,		  crash:True,  dur:1.9109,  kls:19,  hit:46,  aim:1585,  dev:12122,  flps:1052,  frms:9593
+epoch: E01,   gen: 783,   avg_fitness: 14823033,	   max_fitness: 202731864,	   winner: MUTANT  0.07   ,		  crash:True,  dur:1.8229,  kls:29,  hit:26,  aim:4368,  dev:11313,  flps:1014,  frms:9230
+epoch: E01,   gen: 784,   avg_fitness: 33441671,	   max_fitness: 307280098,	   winner: CROSS      ,		  crash:False,  dur:1.9859,  kls:33,  hit:16,  aim:3356,  dev:12132,  flps:1310,  frms:10000
+epoch: E01,   gen: 785,   avg_fitness: 16300684,	   max_fitness: 144035775,	   winner: PARENT      ,		  crash:True,  dur:1.4534,  kls:45,  hit:14,  aim:5107,  dev:11962,  flps:370,  frms:7300
+epoch: E01,   gen: 786,   avg_fitness: 355637,	   max_fitness: 2223894,	   winner: NEWSPEC  0.49  0.97,		  crash:True,  dur:0.7353,  kls:14,  hit:10,  aim:684,  dev:10526,  flps:312,  frms:3547
+epoch: E01,   gen: 787,   avg_fitness: 1510872,	   max_fitness: 20098177,	   winner: PARENT      ,		  crash:True,  dur:1.5057,  kls:15,  hit:20,  aim:1390,  dev:11899,  flps:625,  frms:7283
+epoch: E01,   gen: 788,   avg_fitness: 44022536,	   max_fitness: 318618531,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.993,  kls:24,  hit:36,  aim:3026,  dev:12007,  flps:960,  frms:10000
+epoch: E01,   gen: 789,   avg_fitness: 3372899,	   max_fitness: 52411029,	   winner: MUTANT  0.07   ,		  crash:True,  dur:1.7867,  kls:18,  hit:33,  aim:1621,  dev:11305,  flps:891,  frms:8982
+epoch: E01,   gen: 790,   avg_fitness: 28421029,	   max_fitness: 526601429,	   winner: PARENT      ,		  crash:False,  dur:2.0056,  kls:27,  hit:38,  aim:4367,  dev:11299,  flps:992,  frms:10000
+epoch: E01,   gen: 791,   avg_fitness: 4215926,	   max_fitness: 29522949,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9834,  kls:11,  hit:10,  aim:1278,  dev:10070,  flps:1514,  frms:10000
+epoch: E01,   gen: 792,   avg_fitness: 2755527,	   max_fitness: 22210165,	   winner: CROSS      ,		  crash:True,  dur:1.4575,  kls:14,  hit:14,  aim:1676,  dev:11976,  flps:1194,  frms:7402
+epoch: E01,   gen: 793,   avg_fitness: 13970143,	   max_fitness: 100060984,	   winner: MUTANT  0.12   ,		  crash:True,  dur:1.9732,  kls:18,  hit:19,  aim:3389,  dev:11653,  flps:1554,  frms:9945
+epoch: E01,   gen: 794,   avg_fitness: 12289619,	   max_fitness: 134827268,	   winner: PARENT      ,		  crash:False,  dur:2.0008,  kls:26,  hit:17,  aim:1671,  dev:11159,  flps:1812,  frms:10000
+epoch: E01,   gen: 795,   avg_fitness: 16215118,	   max_fitness: 96933204,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9908,  kls:21,  hit:16,  aim:1539,  dev:10525,  flps:1942,  frms:10000
+epoch: E01,   gen: 796,   avg_fitness: 30224074,	   max_fitness: 354336569,	   winner: PARENT      ,		  crash:False,  dur:2.0404,  kls:18,  hit:43,  aim:3455,  dev:11700,  flps:1518,  frms:10000
+epoch: E01,   gen: 797,   avg_fitness: 31430842,	   max_fitness: 396767244,	   winner: PARENT      ,		  crash:False,  dur:2.0046,  kls:32,  hit:19,  aim:4472,  dev:9472,  flps:1240,  frms:10000
+epoch: E01,   gen: 798,   avg_fitness: 28128914,	   max_fitness: 438967618,	   winner: MUTANT  0.18   ,		  crash:False,  dur:2.0659,  kls:38,  hit:41,  aim:2575,  dev:10400,  flps:979,  frms:10000
+epoch: E01,   gen: 799,   avg_fitness: 40561246,	   max_fitness: 658233019,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9922,  kls:30,  hit:32,  aim:5931,  dev:9357,  flps:1018,  frms:10000
+epoch: E01,   gen: 800,   avg_fitness: 28022940,	   max_fitness: 204411325,	   winner: MUTANT  0.2   ,		  crash:False,  dur:2.0382,  kls:22,  hit:20,  aim:3490,  dev:10874,  flps:768,  frms:10000
+epoch: E01,   gen: 801,   avg_fitness: 37413004,	   max_fitness: 156011416,	   winner: PARENT      ,		  crash:False,  dur:2.0172,  kls:23,  hit:26,  aim:1938,  dev:11763,  flps:964,  frms:10000
+epoch: E01,   gen: 802,   avg_fitness: 67337244,	   max_fitness: 371752722,	   winner: PARENT      ,		  crash:False,  dur:2.0743,  kls:23,  hit:55,  aim:3130,  dev:9939,  flps:804,  frms:10000
+epoch: E01,   gen: 803,   avg_fitness: 74920127,	   max_fitness: 617028446,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9911,  kls:44,  hit:33,  aim:3564,  dev:12144,  flps:852,  frms:10000
+epoch: E01,   gen: 804,   avg_fitness: 72713788,	   max_fitness: 738198986,	   winner: MUTANT  0.19   ,		  crash:False,  dur:2.0472,  kls:38,  hit:23,  aim:6022,  dev:10030,  flps:1264,  frms:10000
+epoch: E01,   gen: 805,   avg_fitness: 149595881,	   max_fitness: 817084743,	   winner: PARENT      ,		  crash:False,  dur:2.0104,  kls:39,  hit:38,  aim:4729,  dev:10498,  flps:1106,  frms:10000
+epoch: E01,   gen: 806,   avg_fitness: 51347535,	   max_fitness: 567857717,	   winner: MUTANT  0.19   ,		  crash:False,  dur:2.0139,  kls:32,  hit:41,  aim:3495,  dev:10828,  flps:1381,  frms:10000
+epoch: E01,   gen: 807,   avg_fitness: 129399137,	   max_fitness: 962107265,	   winner: MUTANT  0.14   ,		  crash:False,  dur:2.0232,  kls:43,  hit:25,  aim:6701,  dev:9869,  flps:1214,  frms:10000
+epoch: E01,   gen: 808,   avg_fitness: 9097278,	   max_fitness: 72530880,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9836,  kls:31,  hit:6,  aim:2564,  dev:7699,  flps:464,  frms:10000
+epoch: E01,   gen: 809,   avg_fitness: 6239021,	   max_fitness: 66770835,	   winner: MUTANT  0.2   ,		  crash:False,  dur:2.0227,  kls:56,  hit:1,  aim:2612,  dev:7471,  flps:936,  frms:10000
+epoch: E01,   gen: 810,   avg_fitness: 28316669,	   max_fitness: 437782072,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9944,  kls:75,  hit:4,  aim:6377,  dev:6808,  flps:1290,  frms:10000
+epoch: E01,   gen: 811,   avg_fitness: 21047113,	   max_fitness: 154822752,	   winner: PARENT      ,		  crash:False,  dur:1.9868,  kls:53,  hit:4,  aim:4081,  dev:6118,  flps:643,  frms:10000
+epoch: E01,   gen: 812,   avg_fitness: 39831202,	   max_fitness: 240392972,	   winner: MUTANT  0.16   ,		  crash:False,  dur:1.9922,  kls:78,  hit:2,  aim:5576,  dev:8483,  flps:590,  frms:10000
+epoch: E01,   gen: 813,   avg_fitness: 21436960,	   max_fitness: 189972801,	   winner: MUTANT  0.09   ,		  crash:False,  dur:2.0314,  kls:40,  hit:4,  aim:4177,  dev:8121,  flps:2023,  frms:10000
+epoch: E01,   gen: 814,   avg_fitness: 35213973,	   max_fitness: 197287979,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0747,  kls:77,  hit:1,  aim:4902,  dev:8317,  flps:1296,  frms:10000
+epoch: E01,   gen: 815,   avg_fitness: 37432616,	   max_fitness: 140462683,	   winner: PARENT      ,		  crash:False,  dur:1.982,  kls:98,  hit:0,  aim:5755,  dev:7111,  flps:686,  frms:10000
+epoch: E01,   gen: 816,   avg_fitness: 56261138,	   max_fitness: 276012410,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9921,  kls:55,  hit:6,  aim:4709,  dev:8079,  flps:765,  frms:10000
+epoch: E01,   gen: 817,   avg_fitness: 41232316,	   max_fitness: 166369234,	   winner: MUTANT  0.18   ,		  crash:False,  dur:2.1148,  kls:42,  hit:7,  aim:2746,  dev:8385,  flps:1436,  frms:10000
+epoch: E01,   gen: 818,   avg_fitness: 21889173,	   max_fitness: 111200844,	   winner: CROSS      ,		  crash:False,  dur:2.028,  kls:44,  hit:6,  aim:2118,  dev:8355,  flps:1051,  frms:10000
+epoch: E01,   gen: 819,   avg_fitness: 41090901,	   max_fitness: 134133258,	   winner: MUTANT  0.1   ,		  crash:False,  dur:2.0342,  kls:49,  hit:6,  aim:2645,  dev:6848,  flps:858,  frms:10000
+epoch: E01,   gen: 820,   avg_fitness: 55265334,	   max_fitness: 336893876,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0315,  kls:52,  hit:10,  aim:4008,  dev:8153,  flps:1052,  frms:10000
+epoch: E01,   gen: 821,   avg_fitness: 52345965,	   max_fitness: 200498363,	   winner: PARENT      ,		  crash:False,  dur:2.0676,  kls:52,  hit:4,  aim:4223,  dev:8273,  flps:967,  frms:10000
+epoch: E01,   gen: 822,   avg_fitness: 66923897,	   max_fitness: 298311402,	   winner: MUTANT  0.06   ,		  crash:False,  dur:2.0381,  kls:66,  hit:5,  aim:4230,  dev:6196,  flps:1592,  frms:10000
+epoch: E01,   gen: 823,   avg_fitness: 57395175,	   max_fitness: 310819402,	   winner: PARENT      ,		  crash:False,  dur:2.081,  kls:91,  hit:4,  aim:3953,  dev:9214,  flps:716,  frms:10000
+epoch: E01,   gen: 824,   avg_fitness: 56520044,	   max_fitness: 202912834,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0288,  kls:94,  hit:1,  aim:6094,  dev:8039,  flps:373,  frms:10000
+epoch: E01,   gen: 825,   avg_fitness: 37457826,	   max_fitness: 191889345,	   winner: MUTANT  0.1   ,		  crash:False,  dur:2.0352,  kls:59,  hit:5,  aim:3289,  dev:7832,  flps:894,  frms:10000
+epoch: E01,   gen: 826,   avg_fitness: 47255362,	   max_fitness: 200437404,	   winner: PARENT      ,		  crash:False,  dur:1.9791,  kls:42,  hit:5,  aim:4482,  dev:6662,  flps:1388,  frms:10000
+epoch: E01,   gen: 827,   avg_fitness: 39866979,	   max_fitness: 163137598,	   winner: MUTANT  0.14   ,		  crash:False,  dur:2.0037,  kls:80,  hit:1,  aim:4741,  dev:7977,  flps:716,  frms:10000
+epoch: E01,   gen: 828,   avg_fitness: 36430812,	   max_fitness: 206854092,	   winner: CROSS      ,		  crash:False,  dur:1.9998,  kls:56,  hit:4,  aim:3596,  dev:9227,  flps:1244,  frms:10000
+epoch: E01,   gen: 829,   avg_fitness: 48380983,	   max_fitness: 242686169,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0261,  kls:64,  hit:4,  aim:3844,  dev:7574,  flps:1426,  frms:10000
+epoch: E01,   gen: 830,   avg_fitness: 58787602,	   max_fitness: 190893681,	   winner: MUTANT  0.1   ,		  crash:False,  dur:2.0235,  kls:128,  hit:0,  aim:8951,  dev:4911,  flps:296,  frms:10000
+epoch: E01,   gen: 831,   avg_fitness: 43425302,	   max_fitness: 184970070,	   winner: MUTANT  0.13   ,		  crash:False,  dur:2.0633,  kls:89,  hit:1,  aim:4678,  dev:6591,  flps:1034,  frms:10000
+epoch: E01,   gen: 832,   avg_fitness: 43282497,	   max_fitness: 241896232,	   winner: MUTANT  0.07   ,		  crash:False,  dur:2.0411,  kls:81,  hit:4,  aim:4066,  dev:8663,  flps:450,  frms:10000
+epoch: E01,   gen: 833,   avg_fitness: 71594601,	   max_fitness: 335079101,	   winner: MUTANT  0.11   ,		  crash:False,  dur:2.0226,  kls:121,  hit:1,  aim:6987,  dev:6083,  flps:794,  frms:10000
+epoch: E01,   gen: 834,   avg_fitness: 69818500,	   max_fitness: 251078284,	   winner: CROSS      ,		  crash:False,  dur:2.0415,  kls:85,  hit:2,  aim:4962,  dev:7751,  flps:856,  frms:10000
+epoch: E01,   gen: 835,   avg_fitness: 61897519,	   max_fitness: 254323337,	   winner: CROSS      ,		  crash:False,  dur:1.9874,  kls:75,  hit:3,  aim:4962,  dev:9152,  flps:552,  frms:10000
+epoch: E01,   gen: 836,   avg_fitness: 68706592,	   max_fitness: 359071658,	   winner: PARENT      ,		  crash:False,  dur:2.0214,  kls:103,  hit:3,  aim:5693,  dev:5912,  flps:694,  frms:10000
+epoch: E01,   gen: 837,   avg_fitness: 164127179,	   max_fitness: 933270202,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9839,  kls:127,  hit:7,  aim:8420,  dev:7504,  flps:328,  frms:10000
+epoch: E01,   gen: 838,   avg_fitness: 79290913,	   max_fitness: 435965581,	   winner: CROSS      ,		  crash:False,  dur:1.9985,  kls:81,  hit:4,  aim:6617,  dev:7173,  flps:814,  frms:10000
+epoch: E01,   gen: 839,   avg_fitness: 74749253,	   max_fitness: 369074020,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9945,  kls:56,  hit:6,  aim:6688,  dev:8097,  flps:588,  frms:10000
+epoch: E01,   gen: 840,   avg_fitness: 62763842,	   max_fitness: 235813351,	   winner: CROSS      ,		  crash:False,  dur:2.0481,  kls:81,  hit:2,  aim:5078,  dev:4692,  flps:1472,  frms:10000
+epoch: E01,   gen: 841,   avg_fitness: 136241232,	   max_fitness: 413340564,	   winner: MUTANT  0.14   ,		  crash:False,  dur:1.9971,  kls:145,  hit:2,  aim:7941,  dev:5883,  flps:232,  frms:10000
+epoch: E01,   gen: 842,   avg_fitness: 131594534,	   max_fitness: 615745938,	   winner: PARENT      ,		  crash:False,  dur:2.0004,  kls:95,  hit:6,  aim:6392,  dev:5260,  flps:1178,  frms:10000
+epoch: E01,   gen: 843,   avg_fitness: 95127690,	   max_fitness: 413011631,	   winner: MUTANT  0.1   ,		  crash:False,  dur:2.0201,  kls:100,  hit:6,  aim:4916,  dev:7177,  flps:416,  frms:10000
+epoch: E01,   gen: 844,   avg_fitness: 108015513,	   max_fitness: 440711773,	   winner: CROSS      ,		  crash:False,  dur:2.036,  kls:104,  hit:5,  aim:5141,  dev:9341,  flps:394,  frms:10000
+epoch: E01,   gen: 845,   avg_fitness: 81974247,	   max_fitness: 287533828,	   winner: CROSS      ,		  crash:False,  dur:2.0052,  kls:119,  hit:1,  aim:7193,  dev:7092,  flps:372,  frms:10000
+epoch: E01,   gen: 846,   avg_fitness: 71863291,	   max_fitness: 478497664,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0651,  kls:131,  hit:3,  aim:7827,  dev:5330,  flps:324,  frms:10000
+epoch: E01,   gen: 847,   avg_fitness: 128474127,	   max_fitness: 709458195,	   winner: MUTANT  0.05   ,		  crash:False,  dur:2.043,  kls:119,  hit:7,  aim:8228,  dev:4817,  flps:318,  frms:10000
+epoch: E01,   gen: 848,   avg_fitness: 65913532,	   max_fitness: 209093710,	   winner: PARENT      ,		  crash:False,  dur:2.0484,  kls:55,  hit:7,  aim:3837,  dev:8759,  flps:394,  frms:10000
+epoch: E01,   gen: 849,   avg_fitness: 100486768,	   max_fitness: 323640824,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9759,  kls:99,  hit:2,  aim:5441,  dev:6493,  flps:1124,  frms:10000
+epoch: E01,   gen: 850,   avg_fitness: 66772878,	   max_fitness: 285788906,	   winner: MUTANT  0.11   ,		  crash:False,  dur:2.0413,  kls:108,  hit:2,  aim:7119,  dev:6163,  flps:243,  frms:10000
+epoch: E01,   gen: 851,   avg_fitness: 69543437,	   max_fitness: 285084417,	   winner: CROSS      ,		  crash:False,  dur:2.1373,  kls:92,  hit:2,  aim:6011,  dev:7056,  flps:602,  frms:10000
+epoch: E01,   gen: 852,   avg_fitness: 54765255,	   max_fitness: 182456106,	   winner: MUTANT  0.07   ,		  crash:False,  dur:2.0786,  kls:54,  hit:4,  aim:4020,  dev:9381,  flps:622,  frms:10000
+epoch: E01,   gen: 853,   avg_fitness: 71252115,	   max_fitness: 265855613,	   winner: PARENT      ,		  crash:False,  dur:2.0759,  kls:59,  hit:9,  aim:3289,  dev:9254,  flps:644,  frms:10000
+epoch: E01,   gen: 854,   avg_fitness: 117370550,	   max_fitness: 394577172,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0631,  kls:119,  hit:4,  aim:5320,  dev:5148,  flps:528,  frms:10000
+epoch: E01,   gen: 855,   avg_fitness: 86998629,	   max_fitness: 518431836,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9798,  kls:125,  hit:5,  aim:7348,  dev:4193,  flps:326,  frms:10000
+epoch: E01,   gen: 856,   avg_fitness: 120253449,	   max_fitness: 435287131,	   winner: PARENT      ,		  crash:False,  dur:2.015,  kls:104,  hit:8,  aim:4463,  dev:5597,  flps:466,  frms:10000
+epoch: E01,   gen: 857,   avg_fitness: 66391628,	   max_fitness: 393528795,	   winner: PARENT      ,		  crash:False,  dur:2.154,  kls:80,  hit:6,  aim:5364,  dev:6188,  flps:674,  frms:10000
+epoch: E01,   gen: 858,   avg_fitness: 43727555,	   max_fitness: 184142102,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9806,  kls:58,  hit:5,  aim:3380,  dev:6833,  flps:902,  frms:10000
+epoch: E01,   gen: 859,   avg_fitness: 48525456,	   max_fitness: 262339051,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9791,  kls:71,  hit:4,  aim:3523,  dev:8704,  flps:1460,  frms:10000
+epoch: E01,   gen: 860,   avg_fitness: 39345962,	   max_fitness: 245443407,	   winner: MUTANT  0.07   ,		  crash:False,  dur:1.9924,  kls:54,  hit:7,  aim:3599,  dev:4809,  flps:1968,  frms:10000
+epoch: E01,   gen: 861,   avg_fitness: 63356163,	   max_fitness: 378609741,	   winner: PARENT      ,		  crash:False,  dur:2.0031,  kls:55,  hit:6,  aim:5385,  dev:6580,  flps:1846,  frms:10000
+epoch: E01,   gen: 862,   avg_fitness: 50152796,	   max_fitness: 153261535,	   winner: MUTANT  0.09   ,		  crash:False,  dur:2.1826,  kls:36,  hit:10,  aim:2075,  dev:7235,  flps:2656,  frms:10000
+epoch: E01,   gen: 863,   avg_fitness: 34188571,	   max_fitness: 211086741,	   winner: MUTANT  0.11   ,		  crash:False,  dur:2.0751,  kls:49,  hit:4,  aim:5472,  dev:5434,  flps:1030,  frms:10000
+epoch: E01,   gen: 864,   avg_fitness: 45050641,	   max_fitness: 284782131,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0451,  kls:58,  hit:7,  aim:4045,  dev:8143,  flps:858,  frms:10000
+epoch: E01,   gen: 865,   avg_fitness: 45686304,	   max_fitness: 305628499,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9892,  kls:73,  hit:6,  aim:3480,  dev:8723,  flps:1050,  frms:10000
+epoch: E01,   gen: 866,   avg_fitness: 65290731,	   max_fitness: 237231305,	   winner: CROSS      ,		  crash:False,  dur:1.9757,  kls:92,  hit:1,  aim:5827,  dev:5741,  flps:1228,  frms:10000
+epoch: E01,   gen: 867,   avg_fitness: 34722575,	   max_fitness: 183256234,	   winner: PARENT      ,		  crash:False,  dur:1.9996,  kls:45,  hit:4,  aim:4109,  dev:7586,  flps:1414,  frms:10000
+epoch: E01,   gen: 868,   avg_fitness: 57995624,	   max_fitness: 256166629,	   winner: PARENT      ,		  crash:False,  dur:2.121,  kls:54,  hit:6,  aim:3761,  dev:6565,  flps:1768,  frms:10000
+epoch: E01,   gen: 869,   avg_fitness: 26147847,	   max_fitness: 131631805,	   winner: PARENT      ,		  crash:False,  dur:2.0347,  kls:37,  hit:8,  aim:2881,  dev:7090,  flps:804,  frms:10000
+epoch: E01,   gen: 870,   avg_fitness: 63563165,	   max_fitness: 268005881,	   winner: PARENT      ,		  crash:False,  dur:1.9985,  kls:48,  hit:9,  aim:3851,  dev:5922,  flps:1393,  frms:10000
+epoch: E01,   gen: 871,   avg_fitness: 36152892,	   max_fitness: 205504233,	   winner: CROSS      ,		  crash:False,  dur:1.9747,  kls:41,  hit:5,  aim:4271,  dev:8763,  flps:1330,  frms:10000
+epoch: E01,   gen: 872,   avg_fitness: 34136941,	   max_fitness: 208589520,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9838,  kls:61,  hit:3,  aim:4271,  dev:6005,  flps:1626,  frms:10000
+epoch: E01,   gen: 873,   avg_fitness: 45997707,	   max_fitness: 236920020,	   winner: PARENT      ,		  crash:False,  dur:2.0138,  kls:51,  hit:6,  aim:3506,  dev:8408,  flps:1492,  frms:10000
+epoch: E01,   gen: 874,   avg_fitness: 61095321,	   max_fitness: 388430852,	   winner: PARENT      ,		  crash:False,  dur:2.1028,  kls:96,  hit:2,  aim:7384,  dev:5959,  flps:926,  frms:10000
+epoch: E01,   gen: 875,   avg_fitness: 33567043,	   max_fitness: 211640970,	   winner: MUTANT  0.19   ,		  crash:True,  dur:1.8343,  kls:96,  hit:3,  aim:6297,  dev:8329,  flps:884,  frms:9267
+epoch: E01,   gen: 876,   avg_fitness: 48783035,	   max_fitness: 252698011,	   winner: PARENT      ,		  crash:False,  dur:1.98,  kls:64,  hit:2,  aim:5565,  dev:8044,  flps:1444,  frms:10000
+epoch: E01,   gen: 877,   avg_fitness: 48670066,	   max_fitness: 311192416,	   winner: MUTANT  0.17   ,		  crash:False,  dur:2.0217,  kls:68,  hit:6,  aim:4451,  dev:6596,  flps:900,  frms:10000
+epoch: E01,   gen: 878,   avg_fitness: 36671278,	   max_fitness: 215924479,	   winner: MUTANT  0.16   ,		  crash:False,  dur:2.0238,  kls:65,  hit:5,  aim:3085,  dev:4922,  flps:2218,  frms:10000
+epoch: E01,   gen: 879,   avg_fitness: 42885963,	   max_fitness: 237063602,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0223,  kls:64,  hit:3,  aim:5050,  dev:7965,  flps:835,  frms:10000
+epoch: E01,   gen: 880,   avg_fitness: 77735922,	   max_fitness: 287030000,	   winner: MUTANT  0.06   ,		  crash:False,  dur:2.0211,  kls:67,  hit:4,  aim:5104,  dev:5290,  flps:1346,  frms:10000
+epoch: E01,   gen: 881,   avg_fitness: 82781460,	   max_fitness: 315065903,	   winner: MUTANT  0.1   ,		  crash:False,  dur:2.0069,  kls:70,  hit:5,  aim:4602,  dev:8477,  flps:782,  frms:10000
+epoch: E01,   gen: 882,   avg_fitness: 70331676,	   max_fitness: 386774991,	   winner: MUTANT  0.09   ,		  crash:False,  dur:2.0254,  kls:76,  hit:5,  aim:4690,  dev:6366,  flps:1627,  frms:10000
+epoch: E01,   gen: 883,   avg_fitness: 124910918,	   max_fitness: 454596150,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0029,  kls:100,  hit:4,  aim:6303,  dev:5868,  flps:718,  frms:10000
+epoch: E01,   gen: 884,   avg_fitness: 35894650,	   max_fitness: 185548532,	   winner: MUTANT  0.07   ,		  crash:False,  dur:2.0455,  kls:70,  hit:2,  aim:4769,  dev:5480,  flps:1072,  frms:10000
+epoch: E01,   gen: 885,   avg_fitness: 70534268,	   max_fitness: 278378745,	   winner: MUTANT  0.16   ,		  crash:False,  dur:2.0477,  kls:75,  hit:5,  aim:4428,  dev:7819,  flps:522,  frms:10000
+epoch: E01,   gen: 886,   avg_fitness: 42227531,	   max_fitness: 227686110,	   winner: PARENT      ,		  crash:False,  dur:2.1187,  kls:144,  hit:0,  aim:10617,  dev:4004,  flps:268,  frms:10000
+epoch: E01,   gen: 887,   avg_fitness: 35977271,	   max_fitness: 158604386,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9912,  kls:70,  hit:1,  aim:4958,  dev:4759,  flps:1736,  frms:10000
+epoch: E01,   gen: 888,   avg_fitness: 69150482,	   max_fitness: 286184851,	   winner: MUTANT  0.13   ,		  crash:False,  dur:1.9969,  kls:122,  hit:1,  aim:8945,  dev:6264,  flps:192,  frms:10000
+epoch: E01,   gen: 889,   avg_fitness: 58367607,	   max_fitness: 451437736,	   winner: PARENT      ,		  crash:False,  dur:1.9673,  kls:102,  hit:4,  aim:5963,  dev:5098,  flps:954,  frms:10000
+epoch: E01,   gen: 890,   avg_fitness: 105765790,	   max_fitness: 570681143,	   winner: PARENT      ,		  crash:False,  dur:1.9816,  kls:145,  hit:3,  aim:9206,  dev:4432,  flps:310,  frms:10000
+epoch: E01,   gen: 891,   avg_fitness: 81860816,	   max_fitness: 620936769,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0129,  kls:120,  hit:5,  aim:7379,  dev:4341,  flps:642,  frms:10000
+epoch: E01,   gen: 892,   avg_fitness: 105252363,	   max_fitness: 426001255,	   winner: NEWSPEC  0.41  0.99,		  crash:False,  dur:2.1251,  kls:55,  hit:9,  aim:4561,  dev:9937,  flps:1194,  frms:10000
+epoch: E01,   gen: 893,   avg_fitness: 103884200,	   max_fitness: 441769212,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9876,  kls:64,  hit:8,  aim:5278,  dev:5360,  flps:1468,  frms:10000
+epoch: E01,   gen: 894,   avg_fitness: 123717238,	   max_fitness: 357454883,	   winner: MUTANT  0.17   ,		  crash:False,  dur:2.0243,  kls:41,  hit:6,  aim:6646,  dev:8878,  flps:1322,  frms:10000
+epoch: E01,   gen: 895,   avg_fitness: 42227799,	   max_fitness: 266851512,	   winner: PARENT      ,		  crash:False,  dur:2.1301,  kls:38,  hit:8,  aim:3709,  dev:10940,  flps:1880,  frms:10000
+epoch: E01,   gen: 896,   avg_fitness: 79363609,	   max_fitness: 246132708,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9989,  kls:73,  hit:5,  aim:3809,  dev:6162,  flps:860,  frms:10000
+epoch: E01,   gen: 897,   avg_fitness: 86813576,	   max_fitness: 281504476,	   winner: PARENT      ,		  crash:False,  dur:2.05,  kls:64,  hit:5,  aim:4318,  dev:7436,  flps:1062,  frms:10000
+epoch: E01,   gen: 898,   avg_fitness: 94395950,	   max_fitness: 345044395,	   winner: MUTANT  0.13   ,		  crash:False,  dur:2.0845,  kls:65,  hit:6,  aim:4561,  dev:7866,  flps:1073,  frms:10000
+epoch: E01,   gen: 899,   avg_fitness: 52056499,	   max_fitness: 217968107,	   winner: MUTANT  0.05   ,		  crash:False,  dur:2.0142,  kls:54,  hit:6,  aim:3511,  dev:5906,  flps:1495,  frms:10000
+epoch: E01,   gen: 900,   avg_fitness: 62293138,	   max_fitness: 253286187,	   winner: CROSS      ,		  crash:False,  dur:2.0075,  kls:56,  hit:5,  aim:4456,  dev:7919,  flps:958,  frms:10000
+epoch: E01,   gen: 901,   avg_fitness: 92541830,	   max_fitness: 319909372,	   winner: CROSS      ,		  crash:False,  dur:2.0182,  kls:75,  hit:4,  aim:4618,  dev:7834,  flps:1102,  frms:10000
+epoch: E01,   gen: 902,   avg_fitness: 62906345,	   max_fitness: 186727520,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.997,  kls:55,  hit:7,  aim:3083,  dev:5946,  flps:940,  frms:10000
+epoch: E01,   gen: 903,   avg_fitness: 73333287,	   max_fitness: 172169181,	   winner: PARENT      ,		  crash:False,  dur:2.0309,  kls:62,  hit:2,  aim:4401,  dev:7490,  flps:1072,  frms:10000
+epoch: E01,   gen: 904,   avg_fitness: 69835531,	   max_fitness: 228786533,	   winner: PARENT      ,		  crash:False,  dur:2.051,  kls:51,  hit:6,  aim:3887,  dev:7148,  flps:1170,  frms:10000
+epoch: E01,   gen: 905,   avg_fitness: 84867741,	   max_fitness: 459646670,	   winner: CROSS      ,		  crash:False,  dur:2.091,  kls:73,  hit:8,  aim:5248,  dev:7660,  flps:688,  frms:10000
+epoch: E01,   gen: 906,   avg_fitness: 43863003,	   max_fitness: 178566787,	   winner: MUTANT  0.2   ,		  crash:False,  dur:1.9861,  kls:47,  hit:5,  aim:3202,  dev:9414,  flps:1266,  frms:10000
+epoch: E01,   gen: 907,   avg_fitness: 80622948,	   max_fitness: 282175451,	   winner: MUTANT  0.08   ,		  crash:False,  dur:1.9778,  kls:67,  hit:7,  aim:3211,  dev:9208,  flps:950,  frms:10000
+epoch: E01,   gen: 908,   avg_fitness: 87956381,	   max_fitness: 727714341,	   winner: PARENT      ,		  crash:False,  dur:2.0351,  kls:102,  hit:7,  aim:6676,  dev:7789,  flps:610,  frms:10000
+epoch: E01,   gen: 909,   avg_fitness: 68469856,	   max_fitness: 295961981,	   winner: MUTANT  0.11   ,		  crash:False,  dur:1.9909,  kls:80,  hit:4,  aim:4575,  dev:7879,  flps:704,  frms:10000
+epoch: E01,   gen: 910,   avg_fitness: 94239077,	   max_fitness: 736386152,	   winner: CROSS      ,		  crash:False,  dur:2.0076,  kls:109,  hit:8,  aim:7231,  dev:5321,  flps:493,  frms:10000
+epoch: E01,   gen: 911,   avg_fitness: 77098610,	   max_fitness: 354474880,	   winner: MUTANT  0.09   ,		  crash:False,  dur:1.9844,  kls:106,  hit:3,  aim:5904,  dev:7396,  flps:397,  frms:10000
+epoch: E01,   gen: 912,   avg_fitness: 84067558,	   max_fitness: 576945226,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.992,  kls:68,  hit:5,  aim:8194,  dev:8436,  flps:951,  frms:10000
+epoch: E01,   gen: 913,   avg_fitness: 67608153,	   max_fitness: 427210153,	   winner: MUTANT  0.15   ,		  crash:False,  dur:1.9852,  kls:132,  hit:3,  aim:7299,  dev:4554,  flps:337,  frms:10000
+epoch: E01,   gen: 914,   avg_fitness: 73408650,	   max_fitness: 392684816,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0206,  kls:111,  hit:3,  aim:6145,  dev:6067,  flps:547,  frms:10000
+epoch: E01,   gen: 915,   avg_fitness: 74243709,	   max_fitness: 286616702,	   winner: MUTANT  0.11   ,		  crash:False,  dur:2.0235,  kls:160,  hit:2,  aim:7695,  dev:3303,  flps:118,  frms:10000
+epoch: E01,   gen: 916,   avg_fitness: 76982461,	   max_fitness: 349698169,	   winner: MUTANT  0.1   ,		  crash:False,  dur:2.0174,  kls:55,  hit:11,  aim:5267,  dev:4910,  flps:640,  frms:10000
+epoch: E01,   gen: 917,   avg_fitness: 75621696,	   max_fitness: 293469312,	   winner: PARENT      ,		  crash:False,  dur:2.1169,  kls:83,  hit:8,  aim:3671,  dev:4907,  flps:602,  frms:10000
+epoch: E01,   gen: 918,   avg_fitness: 95947226,	   max_fitness: 305051651,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0879,  kls:74,  hit:4,  aim:4772,  dev:10319,  flps:610,  frms:10000
+epoch: E01,   gen: 919,   avg_fitness: 67036570,	   max_fitness: 227039602,	   winner: PARENT      ,		  crash:False,  dur:1.9812,  kls:121,  hit:1,  aim:6626,  dev:6085,  flps:258,  frms:10000
+epoch: E01,   gen: 920,   avg_fitness: 114431536,	   max_fitness: 406589568,	   winner: MUTANT  0.12   ,		  crash:False,  dur:2.0386,  kls:86,  hit:8,  aim:5467,  dev:7513,  flps:238,  frms:10000
+epoch: E01,   gen: 921,   avg_fitness: 103573453,	   max_fitness: 390251330,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0289,  kls:136,  hit:3,  aim:7807,  dev:4498,  flps:183,  frms:10000
+epoch: E01,   gen: 922,   avg_fitness: 107061736,	   max_fitness: 688193027,	   winner: MUTANT  0.19   ,		  crash:False,  dur:2.2159,  kls:95,  hit:9,  aim:5807,  dev:8193,  flps:566,  frms:10000
+epoch: E01,   gen: 923,   avg_fitness: 100806944,	   max_fitness: 403654284,	   winner: MUTANT  0.06   ,		  crash:False,  dur:2.0092,  kls:92,  hit:2,  aim:6393,  dev:9210,  flps:1096,  frms:10000
+epoch: E01,   gen: 924,   avg_fitness: 55609779,	   max_fitness: 213863365,	   winner: MUTANT  0.13   ,		  crash:False,  dur:2.0049,  kls:155,  hit:0,  aim:9801,  dev:5425,  flps:148,  frms:10000
+epoch: E01,   gen: 925,   avg_fitness: 113013501,	   max_fitness: 639826035,	   winner: MUTANT  0.07   ,		  crash:False,  dur:2.0212,  kls:110,  hit:4,  aim:8090,  dev:6498,  flps:622,  frms:10000
+epoch: E01,   gen: 926,   avg_fitness: 158968490,	   max_fitness: 499685298,	   winner: PARENT      ,		  crash:False,  dur:2.0674,  kls:141,  hit:4,  aim:7178,  dev:7777,  flps:140,  frms:10000
+epoch: E01,   gen: 927,   avg_fitness: 115553333,	   max_fitness: 614937991,	   winner: NEWSPEC  0.44  0.7,		  crash:False,  dur:2.0663,  kls:109,  hit:7,  aim:6257,  dev:7665,  flps:354,  frms:10000
+epoch: E01,   gen: 928,   avg_fitness: 101326733,	   max_fitness: 363857990,	   winner: PARENT      ,		  crash:False,  dur:1.9825,  kls:69,  hit:6,  aim:4698,  dev:9729,  flps:718,  frms:10000
+epoch: E01,   gen: 929,   avg_fitness: 66771267,	   max_fitness: 325557684,	   winner: NEWSPEC  0.73  0.86,		  crash:False,  dur:2.0346,  kls:84,  hit:5,  aim:4610,  dev:7114,  flps:601,  frms:10000
+epoch: E01,   gen: 930,   avg_fitness: 91368954,	   max_fitness: 578857959,	   winner: PARENT      ,		  crash:False,  dur:2.0275,  kls:122,  hit:6,  aim:6456,  dev:5566,  flps:376,  frms:10000
+epoch: E01,   gen: 931,   avg_fitness: 124575213,	   max_fitness: 634746655,	   winner: CROSS      ,		  crash:False,  dur:2.0388,  kls:99,  hit:8,  aim:5715,  dev:6947,  flps:634,  frms:10000
+epoch: E01,   gen: 932,   avg_fitness: 111995505,	   max_fitness: 551254291,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.026,  kls:90,  hit:8,  aim:5829,  dev:5722,  flps:658,  frms:10000
+epoch: E01,   gen: 933,   avg_fitness: 71278523,	   max_fitness: 364476018,	   winner: MUTANT  0.15   ,		  crash:True,  dur:1.7523,  kls:100,  hit:8,  aim:7960,  dev:8814,  flps:352,  frms:8853
+epoch: E01,   gen: 934,   avg_fitness: 136632598,	   max_fitness: 712845512,	   winner: MUTANT  0.12   ,		  crash:False,  dur:2.0229,  kls:133,  hit:7,  aim:5756,  dev:7584,  flps:402,  frms:10000
+epoch: E01,   gen: 935,   avg_fitness: 83301942,	   max_fitness: 535950876,	   winner: PARENT      ,		  crash:False,  dur:2.0273,  kls:124,  hit:6,  aim:5763,  dev:6898,  flps:302,  frms:10000
+epoch: E01,   gen: 936,   avg_fitness: 84720639,	   max_fitness: 465357618,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0411,  kls:72,  hit:9,  aim:5319,  dev:7957,  flps:533,  frms:10000
+epoch: E01,   gen: 937,   avg_fitness: 148552107,	   max_fitness: 630781149,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0802,  kls:108,  hit:10,  aim:5261,  dev:5584,  flps:514,  frms:10000
+epoch: E01,   gen: 938,   avg_fitness: 197538767,	   max_fitness: 643134809,	   winner: MUTANT  0.12   ,		  crash:False,  dur:1.9743,  kls:149,  hit:4,  aim:8806,  dev:5051,  flps:244,  frms:10000
+epoch: E01,   gen: 939,   avg_fitness: 73081678,	   max_fitness: 473975849,	   winner: PARENT      ,		  crash:False,  dur:1.9771,  kls:84,  hit:8,  aim:4738,  dev:7522,  flps:692,  frms:10000
+epoch: E01,   gen: 940,   avg_fitness: 58525302,	   max_fitness: 208806609,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9917,  kls:154,  hit:0,  aim:8991,  dev:4563,  flps:235,  frms:10000
+epoch: E01,   gen: 941,   avg_fitness: 299724931,	   max_fitness: 1628602132,	   winner: MUTANT  0.09   ,		  crash:False,  dur:2.0009,  kls:127,  hit:9,  aim:13192,  dev:5112,  flps:466,  frms:10000
+epoch: E01,   gen: 942,   avg_fitness: 2456,	   max_fitness: 26505,	   winner: MUTANT  0.05   ,		  crash:True,  dur:0.2247,  kls:6,  hit:0,  aim:424,  dev:6538,  flps:170,  frms:1137
+epoch: E01,   gen: 943,   avg_fitness: 11508,	   max_fitness: 171488,	   winner: CROSS      ,		  crash:True,  dur:0.3025,  kls:3,  hit:2,  aim:1468,  dev:6786,  flps:248,  frms:1516
+epoch: E01,   gen: 944,   avg_fitness: 381,	   max_fitness: 4167,	   winner: MUTANT  0.18   ,		  crash:True,  dur:0.161,  kls:2,  hit:2,  aim:228,  dev:7967,  flps:10,  frms:756
+epoch: E01,   gen: 945,   avg_fitness: 2848,	   max_fitness: 31266,	   winner: PARENT      ,		  crash:True,  dur:0.4057,  kls:2,  hit:1,  aim:659,  dev:7416,  flps:28,  frms:2007
+epoch: E01,   gen: 946,   avg_fitness: 2887,	   max_fitness: 33204,	   winner: MUTANT  0.2   ,		  crash:True,  dur:0.3517,  kls:3,  hit:3,  aim:242,  dev:6387,  flps:154,  frms:1720
+epoch: E01,   gen: 947,   avg_fitness: 8750,	   max_fitness: 79351,	   winner: NEWSPEC  0.82  0.81,		  crash:True,  dur:0.4013,  kls:7,  hit:0,  aim:449,  dev:10207,  flps:318,  frms:1948
+epoch: E01,   gen: 948,   avg_fitness: 9458,	   max_fitness: 140720,	   winner: MUTANT  0.07   ,		  crash:True,  dur:0.4381,  kls:6,  hit:8,  aim:264,  dev:11364,  flps:74,  frms:2132
+epoch: E01,   gen: 949,   avg_fitness: 109400,	   max_fitness: 1322200,	   winner: CROSS      ,		  crash:True,  dur:0.7975,  kls:16,  hit:4,  aim:590,  dev:12111,  flps:218,  frms:3947
+epoch: E01,   gen: 950,   avg_fitness: 35912,	   max_fitness: 316636,	   winner: MUTANT  0.19   ,		  crash:True,  dur:0.4636,  kls:4,  hit:10,  aim:730,  dev:11834,  flps:56,  frms:2259
+epoch: E01,   gen: 951,   avg_fitness: 75748,	   max_fitness: 986940,	   winner: PARENT      ,		  crash:True,  dur:0.664,  kls:10,  hit:1,  aim:2068,  dev:12124,  flps:84,  frms:3275
+epoch: E01,   gen: 952,   avg_fitness: 153637,	   max_fitness: 1205903,	   winner: PARENT      ,		  crash:True,  dur:0.4912,  kls:10,  hit:11,  aim:970,  dev:12201,  flps:84,  frms:2427
+epoch: E01,   gen: 953,   avg_fitness: 169421,	   max_fitness: 1829725,	   winner: PARENT      ,		  crash:True,  dur:0.8851,  kls:8,  hit:7,  aim:1075,  dev:10571,  flps:218,  frms:4301
+epoch: E01,   gen: 954,   avg_fitness: 29865,	   max_fitness: 285408,	   winner: PARENT      ,		  crash:True,  dur:0.6263,  kls:6,  hit:4,  aim:385,  dev:9887,  flps:308,  frms:3094
+epoch: E01,   gen: 955,   avg_fitness: 18064,	   max_fitness: 178308,	   winner: PARENT      ,		  crash:True,  dur:0.7919,  kls:5,  hit:7,  aim:243,  dev:12221,  flps:74,  frms:3613
+epoch: E01,   gen: 956,   avg_fitness: 31757,	   max_fitness: 413310,	   winner: MUTANT  0.14   ,		  crash:True,  dur:1.0689,  kls:10,  hit:6,  aim:366,  dev:11440,  flps:16,  frms:5349
+epoch: E01,   gen: 957,   avg_fitness: 2815673,	   max_fitness: 51829162,	   winner: PARENT      ,		  crash:False,  dur:2.0838,  kls:36,  hit:12,  aim:2182,  dev:9897,  flps:26,  frms:10000
+epoch: E01,   gen: 958,   avg_fitness: 7124,	   max_fitness: 50845,	   winner: MUTANT  0.14   ,		  crash:True,  dur:0.7502,  kls:3,  hit:1,  aim:250,  dev:9644,  flps:128,  frms:3711
+epoch: E01,   gen: 959,   avg_fitness: 186252,	   max_fitness: 2940968,	   winner: NEWSPEC  0.88  0.94,		  crash:False,  dur:2.1464,  kls:4,  hit:12,  aim:347,  dev:8857,  flps:796,  frms:10000
+epoch: E01,   gen: 960,   avg_fitness: 74817,	   max_fitness: 988214,	   winner: NEWSPEC  0.59  0.88,		  crash:False,  dur:2.0825,  kls:2,  hit:0,  aim:684,  dev:9577,  flps:4302,  frms:10000
+epoch: E01,   gen: 961,   avg_fitness: 75439,	   max_fitness: 1030001,	   winner: PARENT      ,		  crash:True,  dur:1.4626,  kls:8,  hit:2,  aim:1123,  dev:10160,  flps:52,  frms:7159
+epoch: E01,   gen: 962,   avg_fitness: 70166,	   max_fitness: 882484,	   winner: MUTANT  0.08   ,		  crash:True,  dur:1.3866,  kls:5,  hit:6,  aim:495,  dev:10035,  flps:302,  frms:6863
+epoch: E01,   gen: 963,   avg_fitness: 95004,	   max_fitness: 1112440,	   winner: PARENT      ,		  crash:True,  dur:0.6361,  kls:6,  hit:5,  aim:1133,  dev:9812,  flps:496,  frms:3145
+epoch: E01,   gen: 964,   avg_fitness: 193739,	   max_fitness: 2949434,	   winner: NEWSPEC  0.61  0.85,		  crash:True,  dur:1.3603,  kls:11,  hit:5,  aim:1035,  dev:12035,  flps:172,  frms:6729
+epoch: E01,   gen: 965,   avg_fitness: 229635,	   max_fitness: 1837790,	   winner: MUTANT  0.16   ,		  crash:True,  dur:1.0876,  kls:15,  hit:2,  aim:810,  dev:10690,  flps:444,  frms:5158
+epoch: E01,   gen: 966,   avg_fitness: 2306992,	   max_fitness: 39837873,	   winner: CROSS      ,		  crash:False,  dur:2.0278,  kls:14,  hit:3,  aim:3590,  dev:10396,  flps:634,  frms:10000
+epoch: E01,   gen: 967,   avg_fitness: 1181101,	   max_fitness: 18860502,	   winner: NEWSPEC  0.56  0.85,		  crash:False,  dur:2.0419,  kls:10,  hit:5,  aim:1289,  dev:9207,  flps:2046,  frms:10000
+epoch: E01,   gen: 968,   avg_fitness: 132266,	   max_fitness: 1852727,	   winner: PARENT      ,		  crash:True,  dur:0.9311,  kls:7,  hit:3,  aim:1528,  dev:11139,  flps:368,  frms:4689
+epoch: E01,   gen: 969,   avg_fitness: 662267,	   max_fitness: 4450390,	   winner: PARENT      ,		  crash:True,  dur:1.3875,  kls:19,  hit:0,  aim:2021,  dev:11568,  flps:813,  frms:6987
+epoch: E01,   gen: 970,   avg_fitness: 47110,	   max_fitness: 695512,	   winner: MUTANT  0.11   ,		  crash:True,  dur:1.1426,  kls:7,  hit:1,  aim:560,  dev:10167,  flps:1124,  frms:5790
+epoch: E01,   gen: 971,   avg_fitness: 38979,	   max_fitness: 227018,	   winner: CROSS      ,		  crash:True,  dur:0.6394,  kls:8,  hit:3,  aim:344,  dev:8918,  flps:166,  frms:3138
+epoch: E01,   gen: 972,   avg_fitness: 346542,	   max_fitness: 4039090,	   winner: MUTANT  0.13   ,		  crash:True,  dur:1.6459,  kls:6,  hit:10,  aim:1255,  dev:12115,  flps:182,  frms:8362
+epoch: E01,   gen: 973,   avg_fitness: 139537,	   max_fitness: 1639538,	   winner: MUTANT  0.18   ,		  crash:True,  dur:1.0732,  kls:4,  hit:4,  aim:1504,  dev:8490,  flps:706,  frms:5292
+epoch: E01,   gen: 974,   avg_fitness: 933607,	   max_fitness: 6194557,	   winner: PARENT      ,		  crash:True,  dur:1.9717,  kls:16,  hit:5,  aim:717,  dev:11085,  flps:678,  frms:9878
+epoch: E01,   gen: 975,   avg_fitness: 639344,	   max_fitness: 8650795,	   winner: NEWSPEC  0.62  0.91,		  crash:True,  dur:1.2622,  kls:18,  hit:9,  aim:1018,  dev:12497,  flps:610,  frms:5980
+epoch: E01,   gen: 976,   avg_fitness: 3954187,	   max_fitness: 67657700,	   winner: PARENT      ,		  crash:True,  dur:1.9558,  kls:29,  hit:10,  aim:3558,  dev:12666,  flps:342,  frms:9384
+epoch: E01,   gen: 977,   avg_fitness: 984659,	   max_fitness: 12437484,	   winner: NEWSPEC  0.69  0.84,		  crash:True,  dur:1.3768,  kls:10,  hit:9,  aim:2174,  dev:10867,  flps:804,  frms:6774
+epoch: E01,   gen: 978,   avg_fitness: 1553077,	   max_fitness: 11961579,	   winner: CROSS      ,		  crash:True,  dur:1.4355,  kls:25,  hit:2,  aim:2073,  dev:11769,  flps:618,  frms:7037
+epoch: E01,   gen: 979,   avg_fitness: 281267,	   max_fitness: 2052269,	   winner: MUTANT  0.15   ,		  crash:True,  dur:1.1095,  kls:8,  hit:4,  aim:899,  dev:12489,  flps:603,  frms:5529
+epoch: E01,   gen: 980,   avg_fitness: 318790,	   max_fitness: 3119357,	   winner: MUTANT  0.18   ,		  crash:False,  dur:2.0449,  kls:4,  hit:4,  aim:737,  dev:10359,  flps:592,  frms:10000
+epoch: E01,   gen: 981,   avg_fitness: 934999,	   max_fitness: 11114364,	   winner: MUTANT  0.05   ,		  crash:False,  dur:1.9839,  kls:8,  hit:0,  aim:3692,  dev:9389,  flps:1310,  frms:10000
+epoch: E01,   gen: 982,   avg_fitness: 3630614,	   max_fitness: 37237706,	   winner: MUTANT  0.18   ,		  crash:False,  dur:1.9888,  kls:12,  hit:12,  aim:1500,  dev:11322,  flps:854,  frms:10000
+epoch: E01,   gen: 983,   avg_fitness: 2462959,	   max_fitness: 32534104,	   winner: PARENT      ,		  crash:False,  dur:2.0235,  kls:12,  hit:6,  aim:2019,  dev:11304,  flps:858,  frms:10000
+epoch: E01,   gen: 984,   avg_fitness: 3650787,	   max_fitness: 35287462,	   winner: PARENT      ,		  crash:False,  dur:2.0536,  kls:11,  hit:7,  aim:2038,  dev:9868,  flps:1250,  frms:10000
+epoch: E01,   gen: 985,   avg_fitness: 772587,	   max_fitness: 13269386,	   winner: MUTANT  0.14   ,		  crash:True,  dur:1.8265,  kls:16,  hit:0,  aim:5101,  dev:11678,  flps:996,  frms:9103
+epoch: E01,   gen: 986,   avg_fitness: 2100473,	   max_fitness: 38588820,	   winner: MUTANT  0.07   ,		  crash:False,  dur:2.0112,  kls:7,  hit:12,  aim:2190,  dev:9653,  flps:1700,  frms:10000
+epoch: E01,   gen: 987,   avg_fitness: 491788,	   max_fitness: 5084567,	   winner: PARENT      ,		  crash:True,  dur:1.4517,  kls:9,  hit:4,  aim:1689,  dev:9682,  flps:646,  frms:7122
+epoch: E01,   gen: 988,   avg_fitness: 947430,	   max_fitness: 9803485,	   winner: MUTANT  0.08   ,		  crash:False,  dur:2.0051,  kls:10,  hit:3,  aim:1121,  dev:9266,  flps:938,  frms:10000
+epoch: E01,   gen: 989,   avg_fitness: 200735,	   max_fitness: 1192856,	   winner: CROSS      ,		  crash:False,  dur:2.0229,  kls:3,  hit:4,  aim:285,  dev:10355,  flps:1194,  frms:10000
+epoch: E01,   gen: 990,   avg_fitness: 154756,	   max_fitness: 1303157,	   winner: MUTANT  0.15   ,		  crash:False,  dur:2.0431,  kls:2,  hit:12,  aim:231,  dev:10689,  flps:864,  frms:10000
+epoch: E01,   gen: 991,   avg_fitness: 345906,	   max_fitness: 3127708,	   winner: CROSS      ,		  crash:False,  dur:1.9953,  kls:4,  hit:5,  aim:572,  dev:8391,  flps:1206,  frms:10000
+epoch: E01,   gen: 992,   avg_fitness: 109217,	   max_fitness: 1568465,	   winner: PARENT      ,		  crash:True,  dur:1.4173,  kls:2,  hit:6,  aim:1216,  dev:9928,  flps:1060,  frms:6856
+epoch: E01,   gen: 993,   avg_fitness: 228521,	   max_fitness: 3330809,	   winner: NEWSPEC  0.87  0.76,		  crash:True,  dur:1.9593,  kls:5,  hit:10,  aim:546,  dev:11321,  flps:1615,  frms:9874
+epoch: E01,   gen: 994,   avg_fitness: 94329,	   max_fitness: 1089804,	   winner: MUTANT  0.12   ,		  crash:True,  dur:1.8025,  kls:6,  hit:2,  aim:469,  dev:11411,  flps:1084,  frms:8989
+epoch: E01,   gen: 995,   avg_fitness: 572281,	   max_fitness: 6991000,	   winner: NEWSPEC  0.87  0.81,		  crash:False,  dur:2.0328,  kls:6,  hit:7,  aim:749,  dev:8599,  flps:1156,  frms:10000
+epoch: E01,   gen: 996,   avg_fitness: 1004509,	   max_fitness: 8507829,	   winner: MUTANT  0.13   ,		  crash:True,  dur:1.402,  kls:14,  hit:2,  aim:1913,  dev:11895,  flps:1590,  frms:7051
+epoch: E01,   gen: 997,   avg_fitness: 28780,	   max_fitness: 256638,	   winner: MUTANT  0.06   ,		  crash:False,  dur:1.9797,  kls:1,  hit:14,  aim:68,  dev:8835,  flps:806,  frms:10000
+epoch: E01,   gen: 998,   avg_fitness: 558783,	   max_fitness: 5335713,	   winner: MUTANT  0.09   ,		  crash:True,  dur:1.174,  kls:10,  hit:4,  aim:1501,  dev:12384,  flps:1091,  frms:5922
+epoch: E01,   gen: 999,   avg_fitness: 271027,	   max_fitness: 4787421,	   winner: CROSS      ,		  crash:False,  dur:1.9909,  kls:7,  hit:6,  aim:546,  dev:9785,  flps:688,  frms:10000
