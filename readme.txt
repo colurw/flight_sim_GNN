@@ -4,7 +4,7 @@ Flight_Sim_GNN uses Monte-Carlo reinforcement learning methods to produce combat
 capable pilot agents.  It combines Pytorch networks, a physics-based flight 
 simulator, and a genetic optimisation algorithm inspired by Darwinian evolution.
 
-## What and Why
+## Unsupervised Learning
 
 Neural networks typically learn in a supervised manner _i.e._ with labelled training
 data.  In our case this is not available due to the autonomous nature of the agent,
