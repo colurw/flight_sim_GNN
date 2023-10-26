@@ -53,7 +53,7 @@ SAVE_EVERY = 1000            # generations
 highscore_nn = GeneticNeuralNetwork()
 
 if LOAD_PREVIOUS_BEST == True:
-    highscore_nn.load_state_dict(torch.load('best_nn'))
+    highscore_nn.load_state_dict(torch.load('best models/best_nn'))
 highest_score = 0
 
 # initialise first generation of competitors
@@ -62,7 +62,7 @@ for i in range(12):
     initial_nn = GeneticNeuralNetwork()   
     
     if LOAD_PREVIOUS_BEST == True:
-        initial_nn.load_state_dict(torch.load('best_nn'))
+        initial_nn.load_state_dict(torch.load('best models/best_nn'))
         initial_nn.category = 'BEST'  
     population.append(initial_nn)
 
@@ -75,7 +75,7 @@ for generation in range(GENERATIONS):
     for model in population: 
         
         # create instance of Plane object to be controlled by best NN model
-        best_plane = Plane(x_pos=12500, x_vect=1.0, y_vect=0.06, pilot='neuro', NN=highscore_nn, bounce=True)
+        best_plane = Plane(x_pos=12500, x_vect=1.0, y_vect=-0.06, pilot='neuro', NN=highscore_nn, bounce=True)
         # create instance of Plane object to be controlled by NN model being evaluated
         current_plane = Plane(x_pos=25000, x_vect=1.0, y_vect=-0.06, pilot='neuro', NN=model, bounce=False)
         # update target attributes
@@ -129,7 +129,7 @@ for generation in range(GENERATIONS):
     # update best NN if fitness score is new highscore
     if winning_score > highest_score:
         highscore_nn = copy.deepcopy(top_model)
-        torch.save(highscore_nn.state_dict(), 'best_nn')
+        torch.save(highscore_nn.state_dict(), 'best models/best_nn')
         print('best_nn updated')
     
         # save model snapshot to /highscore_lineage

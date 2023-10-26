@@ -7,8 +7,8 @@ from genetic_neural_network import GeneticNeuralNetwork
 ## create instances of NN objects and load saved parameters
 model_1 = GeneticNeuralNetwork()
 model_2 = GeneticNeuralNetwork()
-model_1.load_state_dict(torch.load('best_nn'))
-model_2.load_state_dict(torch.load('best_nn'))
+model_1.load_state_dict(torch.load('best models/best_nn'))
+model_2.load_state_dict(torch.load('best models/best_nn'))
 
 ## create instance of Plane objects
 T1 = Plane(x_pos=12500, x_vect=1.0, y_vect=0.06, pilot='neuro', NN=model_1, bounce=True)

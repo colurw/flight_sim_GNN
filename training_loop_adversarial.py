@@ -54,8 +54,8 @@ red_highscore_nn = GeneticNeuralNetwork()
 blue_highscore_nn = GeneticNeuralNetwork()
 
 if LOAD_PREVIOUS_BEST == True:
-    red_highscore_nn.load_state_dict(torch.load('best_nn_red'))
-    blue_highscore_nn.load_state_dict(torch.load('best_nn_blue'))
+    red_highscore_nn.load_state_dict(torch.load('best models/best_nn_red'))
+    blue_highscore_nn.load_state_dict(torch.load('best models/best_nn_blue'))
 blue_highest_score = 0
 red_highest_score = 0
 
@@ -67,8 +67,8 @@ for i in range(12):
     blue_initial_nn = GeneticNeuralNetwork()
     
     if LOAD_PREVIOUS_BEST == True:
-        red_initial_nn.load_state_dict(torch.load('best_nn_red'))
-        blue_initial_nn.load_state_dict(torch.load('best_nn_blue'))
+        red_initial_nn.load_state_dict(torch.load('best models/best_nn_red'))
+        blue_initial_nn.load_state_dict(torch.load('best models/best_nn_blue'))
         red_initial_nn.category = 'BEST'  
         blue_initial_nn.category = 'BEST'
     red_population.append(red_initial_nn)
@@ -150,7 +150,7 @@ for generation in range(GENERATIONS):
     if generation % 2 == 0:
         if winning_score > red_highest_score:
             red_highscore_nn = copy.deepcopy(top_model)
-            torch.save(red_highscore_nn.state_dict(), 'best_nn_red')
+            torch.save(red_highscore_nn.state_dict(), 'best models/best_nn_red')
             print('red_best_nn updated')
 
             # save model snapshot to /highscore_lineage
@@ -159,7 +159,7 @@ for generation in range(GENERATIONS):
     else:
         if winning_score > blue_highest_score:
             blue_highscore_nn = copy.deepcopy(top_model)
-            torch.save(blue_highscore_nn.state_dict(), 'best_nn_blue')
+            torch.save(blue_highscore_nn.state_dict(), 'best models/best_nn_blue')
             print('blue_best_nn updated')
     
             # save model snapshot to /highscore_lineage
