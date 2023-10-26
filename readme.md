@@ -1,4 +1,4 @@
-# Flight_Sim_GNN 
+# Flight_Sim_GNN
 
 Flight_Sim_GNN uses Monte-Carlo reinforcement learning methods to produce combat-
 capable pilot agents.  It combines Pytorch networks, a physics-based flight 
@@ -94,9 +94,16 @@ during training.
 
 ## Adversarial Contest Mode
 
-Training_loop_adversarial.py works similarly to the elite version, except that two
-populations are training simulateously, each competing against the fittest member
-from the other side, on alternative generations.  This delivers a significant (50%)
-reduction in the number of generations required to converge upon a stable solution, 
-with an order-of-magnitude increase in the fitness score at that point.  See 
-/training graphs/Figure_4.png for more details.
+Training_loop_adversarial.py works similarly to the elite version, except that two separate
+populations are trained simulateously, with each member of a new generation competing 
+against the highest-scoring member of the other population.  This delivers a significant 
+reduction (50%) in the training time needed to converge upon a stable solution, _and_
+with an order-of-magnitude increase in the fitness score at that point.  
+
+![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/66d0bb6b-ec7b-4eef-9f63-23d65cda377a)
+![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/6d9c6909-cb41-440a-a351-a38652a61f2d)
+![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/290fd42a-ad25-4457-8e9d-30b3324926dc)
+![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/5f9c7f9c-133c-449e-bf6d-b815ca6c99af)
+
+
+
