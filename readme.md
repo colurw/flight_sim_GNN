@@ -1,8 +1,9 @@
 # Flight_Sim_GNN
 
-Flight_Sim_GNN uses unsupervised reinforcement learning methods to produce combat-
-capable pilot agents.  It combines Pytorch networks, a physics-based flight 
-simulator, and a genetic optimisation algorithm inspired by Darwinian evolution.
+Flight_Sim_GNN uses unsupervised reinforcement-learning techniques to produce 
+combat-capable 'pilot' agents.  It integrates Pytorch neural networks with a 
+physics-based flight simulator and a genetic optimisation algorithm, inspired by 
+Darwinian evolution.
 
 ## Unsupervised Learning
 
@@ -10,7 +11,7 @@ Neural networks typically learn in a supervised manner _i.e._ with labelled trai
 data.  In our case this is not available due to the autonomous nature of the agent,
 and the large number of discrete actions taken in the training environment.  This
 means deep learning methodologies such as classical back-propagation are ruled out.  
-Hence we are compelled to consider reinforcement learning methods, where labelled 
+Hence we are compelled to consider reinforcement-learning techniques, where labelled 
 training data is replaced by an overall fitness score, providing the feedback 
 required for model weight tuning.  This fitness score is awarded to each agent 
 based on their last combat performance.
@@ -96,9 +97,10 @@ during training.
 
 Training_loop_adversarial.py works similarly to the elite version, except that two separate
 populations are trained simulateously, with each member of a new generation competing 
-against the highest-scoring member of the other population.  This delivers a significant 
-reduction (50%) in the training time needed to converge upon a stable solution, _and_
-with an order-of-magnitude increase in the fitness score at that point.  
+against the highest-scoring member of the other population.  
+
+This delivers a significant reduction (50%) in the training time needed to converge upon a 
+stable solution, _and_ with an order-of-magnitude increase in the fitness score at that point.  
 
 ![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/66d0bb6b-ec7b-4eef-9f63-23d65cda377a)
 ![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/6d9c6909-cb41-440a-a351-a38652a61f2d)
