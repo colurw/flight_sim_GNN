@@ -84,14 +84,13 @@ stages of training.  This can be replaced with an instance of GeneticNeuralNetwo
 
 ## The Viewer
 
-Combat_viewer.py uses matplotlib to visualise combat between two instances of the
+Combat_viewer.py uses Matplotlib to visualise combat between two instances of the
 fittest pilot, or those from earlier in the lineage.
 
 ## Results
 
 Draw_training_graphs.py uses the winner of each generation's flight data and fitness
-scores to produce graphs that offer insight into the degree of optimisation achieved
-during training. 
+scores to produce graphs that track the evolution of fitness during training. 
 
 ## Adversarial Contest Mode
 
