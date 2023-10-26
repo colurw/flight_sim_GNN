@@ -1,6 +1,6 @@
 # Flight_Sim_GNN
 
-Flight_Sim_GNN uses Monte-Carlo reinforcement learning methods to produce combat-
+Flight_Sim_GNN uses unsupervised reinforcement learning methods to produce combat-
 capable pilot agents.  It combines Pytorch networks, a physics-based flight 
 simulator, and a genetic optimisation algorithm inspired by Darwinian evolution.
 
