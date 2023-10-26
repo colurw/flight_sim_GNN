@@ -154,7 +154,7 @@ for generation in range(GENERATIONS):
             print('red_best_nn updated')
 
             # save model snapshot to /highscore_lineage
-            torch.save(red_highscore_nn.state_dict(), f'highscore_lineage_adversarial/{EPOCH}_gen_{str(generation).zfill(4)}_red') 
+            torch.save(red_highscore_nn.state_dict(), f'other models/highscore_lineage_adversarial/{EPOCH}_gen_{str(generation).zfill(4)}_red') 
             red_highest_score = winning_score
     else:
         if winning_score > blue_highest_score:
@@ -163,12 +163,12 @@ for generation in range(GENERATIONS):
             print('blue_best_nn updated')
     
             # save model snapshot to /highscore_lineage
-            torch.save(blue_highscore_nn.state_dict(), f'highscore_lineage_adversarial/{EPOCH}_gen_{str(generation).zfill(4)}_blue') 
+            torch.save(blue_highscore_nn.state_dict(), f'other models/highscore_lineage_adversarial/{EPOCH}_gen_{str(generation).zfill(4)}_blue') 
             blue_highest_score = winning_score
 
     # save model snapshot periodically
     if (generation + 1) % SAVE_EVERY == 0:
-        torch.save(population[index_winner].state_dict(), f'highscore_lineage_adversarial/{EPOCH}_gen_{str(generation + 1).zfill(4)}~')
+        torch.save(population[index_winner].state_dict(), f'other models/highscore_lineage_adversarial/{EPOCH}_gen_{str(generation + 1).zfill(4)}~')
         print('model saved')
 
     # select highest scoring models to produce next generation

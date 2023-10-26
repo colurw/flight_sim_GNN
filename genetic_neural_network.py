@@ -44,7 +44,7 @@ class GeneticNeuralNetwork(nn.Module):
 
 
     def speciate(self, speciation_power, speciation_resistance):
-        """ applies a strong peturbation of a fixed percentage of weights and biases """
+        """ applies a strong peturbation to a fixed percentage of weights and biases """
         random_speciation_power = random.uniform(speciation_power * 1.5, speciation_power * 0.5)
         random_speciation_resistance = random.uniform(1, speciation_resistance * 0.75)
         # create a uniformly distributed random tensor with same dimensions as each parameter tensor
