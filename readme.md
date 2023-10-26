@@ -102,9 +102,13 @@ This delivers a significant reduction (50%) in the training time needed to conve
 stable solution, _and_ with an order-of-magnitude increase in the fitness score at that point.  
 
 ![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/66d0bb6b-ec7b-4eef-9f63-23d65cda377a)
+
 ![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/6d9c6909-cb41-440a-a351-a38652a61f2d)
+
 ![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/290fd42a-ad25-4457-8e9d-30b3324926dc)
+
 ![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/5f9c7f9c-133c-449e-bf6d-b815ca6c99af)
+
 
 
 
