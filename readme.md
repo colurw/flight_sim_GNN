@@ -98,7 +98,7 @@ Training_loop_adversarial.py works similarly to the elite version, except that t
 populations are trained simulateously, with each member of a new generation competing 
 against the highest-scoring member of the other population.  
 
-This delivers a significant reduction (50%) in the training time needed to converge upon a 
+This delivers a significant reduction in the training time needed to converge upon a 
 stable solution, _and_ with an order-of-magnitude increase in the fitness score at that point.  
 
 ![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/66d0bb6b-ec7b-4eef-9f63-23d65cda377a)
