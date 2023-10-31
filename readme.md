@@ -72,7 +72,7 @@ is necessary during different stages of the epoch.
 ## The Flight Simulator
 
 Environment.py contains the Plane() class, which holds its current position and 
-motion parameters as properties, and updates these each processor cycle according 
+motion parameters as attributes, and updates these each processor cycle according 
 to its physics model.  
 
 An opponent Plane() instance can be designated as a target, so that each instance 
