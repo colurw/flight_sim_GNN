@@ -81,9 +81,9 @@ to manoeuvre to gain an advantage, or to fire its cannon.  Various performance
 metrics are tallied, such as length of flight, how close a shot-string was to 
 the enemy plane, hits taken, and for making full use of the flight envelope.  
 
-Plane() instances also have a basis autopilot is option, to provide a long-lived 
-moving target in the eariest stages of training, when this can be replaced with an 
-instance of GeneticNeuralNetwork().
+Plane() instances also have a basic autopilot option, to provide a long-lived 
+moving target in the eariest stages of training, before being replaced with
+an instance of GeneticNeuralNetwork().
 
 ## The Viewer
 
