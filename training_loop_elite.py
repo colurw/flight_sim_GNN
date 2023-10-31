@@ -2,7 +2,7 @@ import numpy as np
 import random
 import copy
 import torch
-from plane import Plane
+from environment import Plane
 from genetic_neural_network import GeneticNeuralNetwork
 import msvcrt
 

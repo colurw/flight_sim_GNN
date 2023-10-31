@@ -71,16 +71,19 @@ is necessary during different stages of the epoch.
 
 ## The Flight Simulator
 
-The Plane() class holds its current position and motion parameters as properties,
-and updates these each processor cycle according to its built-in physics model.  
+Environment.py contains the Plane() class, which holds its current position and 
+motion parameters as properties, and updates these each processor cycle according 
+to its physics model.  
 
-Each instance is also aware of its competitor's location and motion parameters, and
-has the ability to manoeuvre to gain an advantage, or to fire its cannon.  Various 
-performance metrics are tallied, such as how close its shot-string was to the enemy 
-plane, hits taken, length of flight, and making full use of the flight envelope.  
+An opponent Plane() instance can be designated as a target, so that each instance 
+is aware of its competitor's location and motion parameters.  Each has the ability 
+to manoeuvre to gain an advantage, or to fire its cannon.  Various performance 
+metrics are tallied, such as length of flight, how close a shot-string was to 
+the enemy plane, hits taken, and for making full use of the flight envelope.  
 
-A simple autopilot is available, to provide a long-lived moving target in the early
-stages of training.  This can be replaced with an instance of GeneticNeuralNetwork().
+Plane() instances also have a basis autopilot is option, to provide a long-lived 
+moving target in the eariest stages of training, when this can be replaced with an 
+instance of GeneticNeuralNetwork().
 
 ## The Viewer
 

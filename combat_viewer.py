@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 import torch
-from plane import Plane
+from environment import Plane
 from genetic_neural_network import GeneticNeuralNetwork
 
 ## create instances of NN objects and load saved parameters
