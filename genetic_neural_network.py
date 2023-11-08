@@ -5,7 +5,7 @@ import random
 import torch
 
 class GeneticNeuralNetwork(nn.Module):
-    # initialise a neural network with random weights and biases - 10 inputs, 4 outputs
+    # initialise a pytorch neural network with random weights and biases - 10 inputs, 4 outputs, 2 hidden layers
     def __init__(self):
         super().__init__()
         self.hidden1 = nn.Linear(10, 16)
@@ -50,11 +50,12 @@ class GeneticNeuralNetwork(nn.Module):
         # create a uniformly distributed random tensor with same dimensions as each parameter tensor
         for tensor in self.parameters(): 
             rnd_tensor = torch.rand_like(tensor)
-            # iterate through array to create boolean mask
+            # iterate through array to create boolean mask to prevent some parameters being mutated
             mask_tensor = np.array(rnd_tensor)
             for num in np.nditer(mask_tensor, op_flags=['readwrite']):
                 if num > random_speciation_resistance:
-                    num[...] = True
+                    # modify num in place
+                    num[...] = True   
                 else:
                     num[...] = False
             # sum unmasked weights and biases with random standardised-distribution tensors of same shape
