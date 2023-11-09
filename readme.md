@@ -10,11 +10,8 @@ Darwinian evolution.
 Neural networks typically learn in a supervised manner, with labelled training
 data.  In our case this is not available due to the autonomous nature of the agent,
 and the large number of discrete actions it takes in the training environment.  This
-means deep learning methods such as (classical) back-propagation through a neural network are ruled out.  
-So we are compelled to consider reinforcement learning techniques, where labelled 
-training data is replaced by an overall fitness score that provides the feedback 
-required for model weight tuning.  This fitness score is awarded to each agent 
-based on their combat performance.
+means that deep learning methods such as classical back-propagation through a neural network are ruled out.  
+Because of this we are compelled to consider reinforcement learning techniques, where labelled training data are replaced by an overall fitness score that providesthe feedback required for model weight tuning.  This fitness score is awarded to each agent based on their combat performance.
 
 Based on work by John Holland, Genetic Algorithms (GAs) try to mimic the fundamental 
 processes of natural selection: fitness, crossover, and mutation.  The unit of 
@@ -25,16 +22,16 @@ of whatever object is being optimised.
 This method of producing the next generation usually offers the advantage of being 
 able to search across the entire parameter-space relatively effectively, but the
 reductive nature of hashing seems at odds with the finely-tuned innards of a neural 
-network.  Flight_Sim_GNN instead takes all the weights and biases of the network as 
+network.  Flight_Sim_GNN instead considers all the weights and biases of the network as 
 its genome, and uses a less aggressive averaging function when crossing parent 
-networks, instead of the biomimetic 'random cut-and-paste' approach traditionally 
+networks, rather than the biomimetic 'random cut-and-paste' approach traditionally 
 implemented.
 
 Genetic algorithms have some disadvantages compared to typical machine learning 
 optimisation techniques.  Like real evolution, there is no guiding hand at work.
 Aiming to maximise fitness by competing against peers results in a random walk 
 through the solution-space.  Mutated children infrequently outcompete their 
-patents, and it can take many generations before an improvement is seen, resulting 
+parents, and it can take many generations before an improvement is seen, resulting 
 in a much slower optimisation process than gradient descent, during supervised learning, for example.
 
 ## The Genetic Algorithm
@@ -55,19 +52,19 @@ any model that usurps the current highest score is saved.
 ## The Neural Network
 
 The GeneticNeuralNetwork() class defines a Pytorch deep network.  Motion data from 
-its own and the enemy plane is passed to the input layer, whilst the output layer is 
+its own and the enemy plane are passed to the input layer, whilst the output layer is 
 a categorical classifier mapped to the plane's controls.  The network is not trained 
 through usual gradient descent methods, but by randomly tweaking its parameters 
 until improvements are noticed.
 
 These random changes are enacted by the mutate() and speciate() methods - the former
-applies small random adjustments to every weight and bias of the network, and the 
+applies small random adjustments to every weight and bias of the network, whereas the 
 latter applies a larger random adjustment to only a small percentage of the same 
-parameters, in the hope of exploring more of the solution-space faster and also to
-avoid becoming stuck in local maxima of the fitness manifold.
+parameters.  The speciate() method aims to explore more of the solution-space faster and also to
+avoid the optimisation becoming stuck in local maxima of the fitness manifold.
 
 When called, both these methods randomise, within a limited range, the size of their
-effect in order to be more capable of both fine-tuning and efficient searching, as
+effect to be more capable of both fine-tuning and efficient searching, as
 is necessary during different stages of the training epoch.
 
 ## The Flight Simulator
@@ -77,19 +74,18 @@ motion parameters as attributes, and updates these each processor cycle accordin
 to its physics model.  
 
 An opponent Plane() instance can be designated as a target, so that each instance 
-is aware of its competitor's location and motion parameters.  Each has the ability 
-to manoeuvre to gain an advantage, or to fire its cannon.  Various performance 
+is aware of its competitor's location and motion parameters.  Each instance can manoeuvre to gain an advantage, or to fire its cannon.  Various performance 
 metrics are tallied, such as length of flight, how close a shot string was to 
-the enemy plane, hits taken, and for making full use of the flight envelope.  
+the enemy plane, hits taken, and making full use of the flight envelope.  
 
 Plane() instances also have a basic autopilot option, to provide a long-lived 
-moving target in the eariest stages of training, before being replaced with
+moving target in the earliest stages of training, before being replaced with
 an instance of GeneticNeuralNetwork().
 
 ## The Viewer
 
 Combat_viewer.py uses Matplotlib to visualise combat between two instances of the
-current fittest pilot, or between those from earlier in the highscore lineage.
+current fittest pilot, or between those from earlier in the high score lineage.
 
 ## Results
 
@@ -99,7 +95,7 @@ scores to produce graphs that track the evolution of fitness in the population d
 ## Adversarial Contest Mode
 
 Training_loop_adversarial.py works similarly to the elite version, except that two separate
-populations are trained simulateously, with each member of a new generation competing 
+populations are trained simultaneously, with each member of a new generation competing 
 against the highest scoring member from the other population.  
 
 This delivers a significant reduction in the training time needed to converge upon a 
