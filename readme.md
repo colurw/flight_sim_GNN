@@ -5,13 +5,13 @@ combat capable 'pilot' agents.  It integrates Pytorch neural networks with a
 physics-based flight simulator, and an optimisation algorithm inspired by 
 Darwinian evolution.
 
-## Unsupervised Learning
+## Reinforcement Learning
 
 Neural networks typically learn in a supervised manner, with labelled training
 data.  In our case this is not available due to the autonomous nature of the agent,
 and the large number of discrete actions it takes in the training environment.  This
 means that deep learning methods such as classical back-propagation through a neural network are ruled out.  
-Because of this we are compelled to consider reinforcement learning techniques, where labelled training data are replaced by an overall fitness score that providesthe feedback required for model weight tuning.  This fitness score is awarded to each agent based on their combat performance.
+Because of this we are compelled to consider reinforcement learning techniques, where labelled training data are replaced by an overall fitness score that provides the feedback required for model weight tuning.  This fitness score is awarded to each agent based on their combat performance.
 
 Based on work by John Holland, Genetic Algorithms (GAs) try to mimic the fundamental 
 processes of natural selection: fitness, crossover, and mutation.  The unit of 
