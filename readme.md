@@ -1,6 +1,6 @@
 # Flight_Sim_GNN
 
-Flight_Sim_GNN uses unsupervised reinforcement learning (RL) techniques to produce 
+Flight_Sim_GNN uses reinforcement learning (RL) techniques to produce 
 combat capable 'pilot' agents.  It integrates Pytorch neural networks with a 
 physics-based flight simulator, and an optimisation algorithm inspired by 
 Darwinian evolution.
