@@ -52,7 +52,7 @@ any model that usurps the current highest score is saved.
 ## The Neural Network
 
 The GeneticNeuralNetwork() class defines a Pytorch deep network.  Motion data from 
-its own and the enemy plane are passed to the input layer, whilst the output layer is 
+itself and the enemy plane are passed to the input layer.  The output layer is 
 a categorical classifier mapped to the plane's controls.  The network is not trained 
 through usual gradient descent methods, but by randomly tweaking its parameters 
 until improvements are noticed.
@@ -64,7 +64,7 @@ parameters.  The speciate() method aims to explore more of the solution-space fa
 avoid the optimisation becoming stuck in local maxima of the fitness manifold.
 
 When called, both these methods randomise, within a limited range, the size of their
-effect to be more capable of both fine-tuning and efficient searching, as
+effect - to be more capable of both efficient searching and fine-tuning, as
 is necessary during different stages of the training epoch.
 
 ## The Flight Simulator
@@ -75,8 +75,8 @@ to its physics model.
 
 An opponent Plane() instance can be designated as a target, so that each instance 
 is aware of its competitor's location and motion parameters.  Each instance can manoeuvre to gain an advantage, or to fire its cannon.  Various performance 
-metrics are tallied, such as length of flight, how close a shot string was to 
-the enemy plane, hits taken, conservation of ammunition, and making full use of the flight envelope.  
+metrics are tallied, such as length of flight, number of kills, how close a shot string came to 
+the enemy plane, elusiveness, conservation of ammunition, and making full use of the flight envelope.  
 
 Plane() instances also have a basic autopilot option, to provide a long-lived 
 moving target in the earliest stages of training, before being replaced with
@@ -94,12 +94,15 @@ scores to produce graphs that track the evolution of fitness in the population d
 
 ## Adversarial Contest Mode
 
-Training_loop_adversarial.py works similarly to the elite version, except that two separate
-populations are trained simultaneously, with each member of a new generation competing 
-against the highest scoring member from the other population.  
+Training_loop_adversarial.py works similarly to the elite contest version, except that two separate
+populations are trained simultaneously, with each member of a generation competing 
+against the all-time highest scoring member from the opposite population.  
 
 This delivers a significant reduction in the training time needed to converge upon a 
-stable solution, _and_ with an order-of-magnitude increase in the fitness score at that point.  
+stable solution, _and_ with an order-of-magnitude increase in the fitness score at that point!
+A competition between several populations would presumably improve on this result. If each population 
+were optimising a differently weighted fitness score, these agents could be combined to create a single agent 
+with several behaviour modes.
 
 ![image](https://github.com/colurw/flight_sim_GNN/assets/66322644/66d0bb6b-ec7b-4eef-9f63-23d65cda377a)
 
