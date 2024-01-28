@@ -30,9 +30,9 @@ implemented.
 Genetic algorithms have some disadvantages compared to typical machine learning 
 optimisation techniques.  Like real evolution, there is no guiding hand at work.
 Aiming to maximise fitness by competing against peers results in a random walk 
-through the solution-space.  Mutated children infrequently outcompete their 
+through the solution-space.  Mutated children rarely outcompete their 
 parents, and it can take many generations before an improvement is seen, resulting 
-in a much slower optimisation process than gradient descent, during supervised learning, for example.
+in a much slower optimisation process than gradient descent, during supervised learning.
 
 ## The Genetic Algorithm
 
