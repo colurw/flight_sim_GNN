@@ -61,7 +61,7 @@ These random changes are enacted by the mutate() and speciate() methods - the fo
 applies small random adjustments to every weight and bias of the network, whereas the 
 latter applies a larger random adjustment to only a small percentage of the same 
 parameters.  The speciate() method aims to explore more of the solution-space faster and also to
-avoid the optimisation becoming stuck in local maxima of the fitness manifold.
+avoid the optimisation becoming stuck on local maxima in the fitness manifold.
 
 When called, both these methods randomise, within a limited range, the size of their
 effect - to be more capable of both efficient searching and fine-tuning, as
