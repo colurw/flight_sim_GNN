@@ -49,7 +49,7 @@ SPECIATION_RATE = 3          # new species per generation
 MAX_FRAMES = 10000           # processor cycles per contest
 SAVE_EVERY = 1000           # generations
 
-# initialise best neural network of epoch
+# initialise best neural networks of epoch
 red_highscore_nn = GeneticNeuralNetwork()
 blue_highscore_nn = GeneticNeuralNetwork()
 
