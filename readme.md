@@ -39,13 +39,13 @@ in a much slower optimisation process than gradient descent, during supervised l
 Training_loop_elite.py contains the optimisation loop that creates new generations 
 of agents based on a selection of the fittest members from the previous generation.  
 
-They, along with the previous generation's fittest, must compete in a handicapped 
+They, along with various types of ther mutated offspring, must compete in an 
 elite contest (_i.e._ against the all-time highest scoring model). A points
-handicap is given to earlier generations to discourage stagnation during the later stages 
-when the opponent becomes more capable, and hence more difficult to score against.  
+handicap is applied to earlier generations to discourage stagnation during the later stages 
+when the highest scoring model becomes more capable, and hence more difficult to score against.  
 
 The best pilots in each generation are selected by calculating a weighted fitness 
-score from the various flight metrics recorded during each match.
+score based on various flight metrics recorded during each match.
 A summary of each generation's progress is then written to flight_scores.txt, and
 any model that usurps the current highest score is saved.
 
@@ -76,7 +76,7 @@ to its physics model.
 An opponent Plane() instance can be designated as a target, so that each instance 
 is aware of its competitor's location and motion parameters.  Each instance can manoeuvre to gain an advantage, or to fire its cannon.  Various performance 
 metrics are tallied, such as length of flight, how close a shot string was to 
-the enemy plane, hits taken, and making full use of the flight envelope.  
+the enemy plane, hits taken, conservation of ammunition, and making full use of the flight envelope.  
 
 Plane() instances also have a basic autopilot option, to provide a long-lived 
 moving target in the earliest stages of training, before being replaced with
