@@ -41,7 +41,7 @@ def select_parents(fitness_scores, population, number):
 # population variables
 EPOCH = 'A02'                # string to prefix /highscore_lineage/ savefiles
 LOAD_PREVIOUS_BEST = True    # loads best_nn's from working folder
-GENERATIONS = 1000           # type 'q' in terminal window to stop early
+GENERATIONS = 1000           
 NUMBER_OF_PARENTS = 3        # parents selected per generation  
 BROOD_SIZE = 12              # mutants per generation
 SPECIATION_RATE = 3          # new species per generation
@@ -73,11 +73,10 @@ for i in range(12):
         blue_initial_nn.category = 'BEST'
     red_population.append(red_initial_nn)
     blue_population.append(blue_initial_nn)
-    
+
+
 # begin genetic optimisation loop
 for generation in range(GENERATIONS):
-
-    # compute fitnesses of population and save scores
     fitness_scores = []
     combat_stats = []
 
@@ -88,15 +87,29 @@ for generation in range(GENERATIONS):
         population = blue_population
     
     for model in population: 
-        
         # create instance of Plane object to be controlled by NN model being evaluated
-        current_plane = Plane(x_pos=25000, x_vect=1.0, y_vect=-0.06, pilot='neuro', NN=model, bounce=False)
-
+        current_plane = Plane(x_pos=25000, 
+                              x_vect=1.0, 
+                              y_vect=-0.06, 
+                              pilot='neuro', 
+                              NN=model, 
+                              bounce=False)
+        
         # create instance of Plane object to be controlled by best NN model from opposing population
         if generation % 2 == 0: 
-            best_plane = Plane(x_pos=12500, x_vect=1.0, y_vect=-0.06, pilot='neuro', NN=blue_highscore_nn, bounce=True)
+            best_plane = Plane(x_pos=12500, 
+                               x_vect=1.0, 
+                               y_vect=-0.06, 
+                               pilot='neuro', 
+                               NN=blue_highscore_nn, 
+                               bounce=True)
         else:
-            best_plane = Plane(x_pos=12500, x_vect=1.0, y_vect=-0.06, pilot='neuro', NN=red_highscore_nn, bounce=True)      
+            best_plane = Plane(x_pos=12500, 
+                               x_vect=1.0, 
+                               y_vect=-0.06, 
+                               pilot='neuro', 
+                               NN=red_highscore_nn, 
+                               bounce=True)      
 
         # update target attributes
         best_plane.target = current_plane
@@ -178,7 +191,7 @@ for generation in range(GENERATIONS):
     population = []
     population.extend(parents)
 
-    # create next generation of models by cloning parents
+    # create child models by cloning parents
     for i in range(BROOD_SIZE + SPECIATION_RATE):
         child = random.choice(parents).clone()
         
@@ -202,40 +215,7 @@ for generation in range(GENERATIONS):
     # update blue population after odd generations
     else:
         blue_population = population
-    
-    # if keypress is waiting, record ascii code and convert to unicode decimal
-    key = 0
-    if msvcrt.kbhit():  
-        key = ord(msvcrt.getch())
-    # break loop if q key was pressed
-    if key == 113:       
-        break
-    
+
     print()
-
-
-# IDEAS
-# improve fitness function
-# only three NN outputs - remove 'do nothing' category
-# deviation should reference full flight envelope 
-# count frame_count
-# add speciation equivalent
-# normalise NN inputs
-# add second parent
-# remove speciation
-# stagger learning goals, learn to fly before shoot
-# duration * deviation + aim
-# more useful data inputs, angle to enemy etc, relative rather than absolute
-# limit duration to frames instead, to enable better comparison of scores
-# prevent divide by zero errors in rel_dist
-# would converge to a more optimum solution faster if given a larger inital population with random parameters
-# ...needs restarting to avoid getting stuck in local maximas, as too easy speciation is possibly disruptive
-# target movements same each time! better randomisation needed - possibly
-# add number of successful shots to fitness function
-# randomise start height of both planes
-# add cw/acw flip to aerobatic score to disincentivise looping strategy
-# kills and aim score only
-# cube root of flips
-# measure hits taken
 
  
