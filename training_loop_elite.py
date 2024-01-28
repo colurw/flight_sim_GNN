@@ -41,7 +41,7 @@ def select_parents(fitness_scores, population, number):
 # population variables
 EPOCH = 'E02'                # string to prefix /highscore_lineage/ savefiles
 LOAD_PREVIOUS_BEST = True    # loads best_nn from working folder
-GENERATIONS = 1000           # type 'q' in terminal window to stop early
+GENERATIONS = 1000           
 NUMBER_OF_PARENTS = 3        # parents selected per generation  
 BROOD_SIZE = 12              # mutants per generation
 SPECIATION_RATE = 3          # new species per generation
@@ -49,7 +49,7 @@ SPECIATION_RATE = 3          # new species per generation
 MAX_FRAMES = 10000           # processor cycles per contest
 SAVE_EVERY = 1000            # generations
 
-# initialise best neural network of epoch
+# initialise best neural network of epoch to act as opponent
 highscore_nn = GeneticNeuralNetwork()
 
 if LOAD_PREVIOUS_BEST == True:
@@ -66,14 +66,13 @@ for i in range(12):
         initial_nn.category = 'BEST'  
     population.append(initial_nn)
 
+
 # begin genetic optimisation loop
 for generation in range(GENERATIONS):
-
-    # compute fitnesses of population and save scores
     fitness_scores = []
     combat_stats = []
+    
     for model in population: 
-        
         # create instance of Plane object to be controlled by best NN model
         best_plane = Plane(x_pos=12500, x_vect=1.0, y_vect=-0.06, pilot='neuro', NN=highscore_nn, bounce=True)
         # create instance of Plane object to be controlled by NN model being evaluated
@@ -148,7 +147,7 @@ for generation in range(GENERATIONS):
     population = []
     population.extend(parents)
 
-    # create next generation of models by cloning parents
+    # generate child models by cloning parents
     for i in range(BROOD_SIZE + SPECIATION_RATE):
         child = random.choice(parents).clone()
         
