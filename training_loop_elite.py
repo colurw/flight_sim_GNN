@@ -73,10 +73,20 @@ for generation in range(GENERATIONS):
     combat_stats = []
     
     for model in population: 
-        # create instance of Plane object to be controlled by best NN model
-        best_plane = Plane(x_pos=12500, x_vect=1.0, y_vect=-0.06, pilot='neuro', NN=highscore_nn, bounce=True)
+        # create opponent instance of Plane object to be controlled by best NN model
+        best_plane = Plane(x_pos=12500, 
+                           x_vect=1.0, 
+                           y_vect=-0.06, 
+                           pilot='neuro', 
+                           NN=highscore_nn, 
+                           bounce=True)
         # create instance of Plane object to be controlled by NN model being evaluated
-        current_plane = Plane(x_pos=25000, x_vect=1.0, y_vect=-0.06, pilot='neuro', NN=model, bounce=False)
+        current_plane = Plane(x_pos=25000, 
+                              x_vect=1.0, 
+                              y_vect=-0.06, 
+                              pilot='neuro', 
+                              NN=model, 
+                              bounce=False)
         # update target attributes
         best_plane.target = current_plane
         current_plane.target = best_plane
