@@ -27,12 +27,12 @@ its genome, and uses a less aggressive averaging function when crossing parent
 networks, rather than the biomimetic 'random cut-and-paste' approach traditionally 
 implemented.
 
-Genetic algorithms have some disadvantages compared to typical machine learning 
-optimisation techniques.  Like real evolution, there is no guiding hand at work.
-Aiming to maximise fitness by competing against peers results in a random walk 
+Genetic algorithms have a disadvantage compared to typical machine learning 
+optimisation techniques: There is no guiding hand at work.
+Maximising fitness by competing against peers results in a random walk 
 through the solution-space.  Mutated children rarely outcompete their 
-parents, and it can take many generations before an improvement is seen, resulting 
-in a much slower optimisation process than gradient descent, during supervised learning.
+parents, and it can take many generations before an improvement is seen.  This results 
+in a much slower optimisation process compared to gradient descent methods during supervised learning.
 
 ## The Genetic Algorithm
 
