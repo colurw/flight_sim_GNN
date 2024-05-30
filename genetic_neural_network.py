@@ -23,21 +23,25 @@ class GeneticNeuralNetwork(nn.Module):
         x = self.act1(self.hidden1(x))
         x = self.act2(self.hidden2(x))
         x = self.act_output(self.output(x))
+        
         return x
 
 
     def clone(self):
         """ returns a mutable deep copy of the instance """
         clone = copy.deepcopy(self)
+        
         return clone
 
 
     def mutate(self, mutation_power):
         """ applies a mild peturbation to all weights and biases """
         random_mutation_power = random.uniform(mutation_power*2, mutation_power/2)
+        
         # sum all weights and biases with random standardised-distribution tensors of same shape
         for tensor in self.parameters():
             tensor.data += torch.randn_like(tensor) * random_mutation_power 
+            
         # add instance attributes
         self.category = 'MUTANT'
         self.mut_power = round(random_mutation_power, 2)
@@ -47,9 +51,11 @@ class GeneticNeuralNetwork(nn.Module):
         """ applies a strong peturbation to a fixed percentage of weights and biases """
         random_speciation_power = random.uniform(speciation_power * 1.5, speciation_power * 0.5)
         random_speciation_resistance = random.uniform(1, speciation_resistance * 0.75)
+        
         # create a uniformly distributed random tensor with same dimensions as each parameter tensor
         for tensor in self.parameters(): 
             rnd_tensor = torch.rand_like(tensor)
+            
             # iterate through array to create boolean mask to prevent some parameters being mutated
             mask_tensor = np.array(rnd_tensor)
             for num in np.nditer(mask_tensor, op_flags=['readwrite']):
@@ -58,8 +64,10 @@ class GeneticNeuralNetwork(nn.Module):
                     num[...] = True   
                 else:
                     num[...] = False
+                    
             # sum unmasked weights and biases with random standardised-distribution tensors of same shape
             tensor.data += (torch.randn_like(tensor) * mask_tensor) * random_speciation_power
+            
         # update instance attributes
         self.category = 'NEWSPEC'
         self.mut_power = round(random_speciation_power, 2)
@@ -69,13 +77,17 @@ class GeneticNeuralNetwork(nn.Module):
     def cross(self, neural_network_2):
         """ returns a child neural network by calculating mean parameter values with a second network """
         child = copy.deepcopy(self)
+        
         # iterate through child's tensors and sum with matching tensor from other parent
         for i, tensor3 in enumerate(child.parameters()):
             for j, tensor2 in enumerate(neural_network_2.parameters()):
                 if j == i:
                     tensor3.data += tensor2.data 
+                    
                     # divide tensors by two to create average of parents
                     tensor3.data = tensor3.data / 2  
+                    
         # update instance attributes
         child.category = 'CROSS'
+        
         return child
